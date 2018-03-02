@@ -1,0 +1,492 @@
+BNE|UIC|5102150|5102150|Aleksandrów Kujawski|Aleksandrów Kujawsk|29|CET|525231E|184148N|||||PL||||||1
+BNE|UIC|5102500|5102500|Kunica Białostocka|Kunica Białostock|29|CET|533040E|233829N|||||PL||||||1
+BNE|UIC|7874060|7874060|Zagreb Zapadni kolodvor|Zagreb Zapadni kolod|29|CET|454833N|155715E|||||HR||||||1
+BNE|UIC|7872480|7872480|Zagreb Glavni kolodvor|Zagreb Glavni kolodv|29|CET|454816E|155842N|||||HR||||||1
+BNE|UIC|5311140|5311140|Drobeta Turnu Severin|Drobeta Turnu Severi|29|CET|443719N|223838E|||||RO||||||1
+BNE|UIC|5454093|5454093|Golèùv Jeníkov mìsto|Golèùv Jeníkov m|29|CET|494918E|152824N|||||CZ||||||1
+BNE|UIC|5454110|5454110|Rychnov nad Knìžnou|Rychnov nad Knìžno|29|CET|500928E|161625N|||||CZ||||||1
+BNE|UIC|5454133|5454133|Svìtlá nad Sázavou|Svìtlá nad Sázavo|29|CET|494013E|152500N|||||CZ||||||1
+BNE|UIC|5437085|5437085|Sudomìøice nad Moravou|Sudomìøice nad Mor|29|CET|485219E|171437N|||||CZ||||||1
+BNE|UIC|5453519|5453519|Klášterec nad Ohøí|Klášterec nad Ohø|29|CET|502306E|131147N|||||CZ||||||1
+BNE|UIC|5503368|55G0004|Balatonszéplak felsõ|Balatonszéplak fels|29|CET|465352N|180103E|||||HU||||||1
+BNE|UIC|5503400|5503400|Szántód-Kõröshegy|Szántód-Kõrösheg|29|CET|465144N|175358E|||||HU||||||1
+BNE|UIC|5436145|5436145|Staré Mìsto u Uherského Hradištì|Staré Mìsto u Uher|29|CET|490435E|172523N|||||CZ||||||1
+BNE|UIC|5453159|5453159|Ústí nad Labem západ|Ústí nad Labem zá|29|CET|503930E|140151N|||||CZ||||||1
+BNE|UIC|5453179|5453179|Ústí nad Labem hlavní nádraží|Ústí nad Labem hla|33|CET|503934E|140241N|||||CZ||||||1
+BNE|UIC|5453180|5453180|Týništì nad Orlicí|Týništì nad Orlic|29|CET|500917E|160428N|||||CZ||||||1
+BNE|UIC|5501180|55G0001|Almásfüzitõ felsõ|Almásfüzitõ fels|29|CET|474352N|181301E|||||HU||||||1
+BNE|UIC|5476985|5476985|Hamry-Hojsova Stráž|Hamry-Hojsova Strá|29|CET|491242E|131029N|||||CZ||||||1
+BNE|UIC|5477015|5477015|Železná Ruda mìsto|Železná Ruda mìst|29|CET|490835E|131345N|||||CZ||||||1
+BNE|UIC|5501321|5501321|Lébény-Mosonszentmiklós|Lébény-Mosonszentm|29|CET|474521N|172531E|||||HU||||||1
+BNE|UIC|5515123|5515123|Debrecen-Szabadságtelep|Debrecen-Szabadságt|29|CET|473139N|213931E|||||HU||||||1
+BNE|UIC|5433295|5433295|Brno hlavní nádraží|Brno hlavní nádra|33|CET|491125E|163645N|||||CZ||||||1
+BNE|UIC|5433334|5433324|Frenštát pod Radhoštìm|Frenštát pod Radho|29|CET|493232E|181324N|||||CZ||||||1
+BNE|UIC|5433732|5433732|Hranice na Moravì mìsto|Hranice na Moravì m|29|CET|493244E|174430N|||||CZ||||||1
+BNE|UIC|5433925|5433925|Hrušovany nad Jevišovkou|Hrušovany nad Jevi|29|CET|484836E|162301N|||||CZ||||||1
+BNE|UIC|5474585|5474585|Karlovy Vary dolní nádraží|Karlovy Vary dolní |29|CET|501349E|125150N|||||CZ||||||1
+BNE|UIC|5474945|5474945|Planá u Mariánských Lázní|Planá u Mariánský|29|CET|495140E|124348N|||||CZ||||||1
+BNE|UIC|5399990|53F0005|Any romanian stations|Any romanian station|33|CET|000000N|000000E|||||RO||||||1
+BNE|UIC|5433354|5433354|Frýdlant nad Ostravicí|Frýdlant nad Ostrav|29|CET|493521E|182113N|||||CZ||||||1
+BNE|UIC|5511817|5511817|Mátraszõlõs-Hasznos|Mátraszõlõs-Haszn|29|CET|475620N|194225E|||||HU||||||1
+BNE|UIC|5105640|5105640|Kamieniec Zšbkowicki|Kamieniec Zšbkowick|29|CET|503210E|165401N|||||PL||||||1
+BNE|UIC|5105676|5105676|Tułowice Niemodlińskie|Tułowice Niemodliń|29|CET|503553E|173857N|||||PL||||||1
+BNE|UIC|5473552|5473552|Veselí nad Lužnicí|Veselí nad Lužnic|29|CET|491137E|144301N|||||CZ||||||1
+BNE|UIC|5473565|5473565|Klenèí pod Èerchovem|Klenèí pod Èercho|29|CET|492621E|124919N|||||CZ||||||1
+BNE|UIC|5511866|5511866|Kisterenye-Bányatelep|Kisterenye-Bányatel|29|CET|480124N|194951E|||||HU||||||1
+BNE|UIC|5511874|5511874|Salgótarján külsõ|Salgótarján küls|29|CET|480620E|194826N|||||HU||||||1
+BNE|UIC|5615800|5615800|Kapuany pri Preove|Kapuany pri Preo|29|CET|490238E|211914N|||||SK||||||1
+BNE|UIC|5104920|5104920|Ostrowiec więtokrz.|Ostrowiec więtokr|29|CET|505602E|212236N|||||PL||||||1
+BNE|UIC|5105454|5105454|Wałbrzych Szczawien.|Wałbrzych Szczawien|29|CET|504856E|161809N|||||PL||||||1
+BNE|UIC|5105525|5105525|Boguszów Gorce Wsch.|Boguszów Gorce Wsch|29|CET|504450E|161317N|||||PL||||||1
+BNE|UIC|5470045|8026482|Bayerisch Eisenstein(Gr)|Bayerisch Eisenstein|17|CET|||||||DE||||||1
+BNE|UIC|5511734|5511734|Mátravidéki Erõmû|Mátravidéki Erõm|29|CET|474309N|194025E|||||HU||||||1
+BNE|UIC|5614550|5614550|Dobinská źadová Jaskyňa|Dobinská źadová|29|CET|485234E|201746N|||||SK||||||1
+BNE|UIC|5615146|5615146|Bánovce nad Bebravou|Bánovce nad Bebravo|29|CET|484311E|181504N|||||SK||||||1
+BNE|UIC|5104770|5104770|Piotrków Trybunalski|Piotrków Trybunalsk|29|CET|512435E|194104N|||||PL||||||1
+BNE|UIC|5456930|5456930|Martinice v Krkonoších|Martinice v Krkonoš|29|CET|503450E|153228N|||||CZ||||||1
+BNE|UIC|5457076|5457076|Praha hlavní nádraží|Praha hlavní nádra|33|CET|500459E|142609N|||||CZ||||||1
+BNE|UIC|5457110|5457110|Rokytnice nad Jizerou|Rokytnice nad Jizero|29|CET|504243E|152522N|||||CZ||||||1
+BNE|UIC|5508805|5508805|Sátoraljaújhely(Gr)|Sátoraljaújhely(Gr|29|CET|||||||HU||||||1
+BNE|UIC|5613790|5613790|Slovenské Nové Mesto|Slovenské Nové Mes|29|CET|482410E|214002N|||||SK||||||1
+BNE|UIC|5613816|5613816|Nové Mesto nad Váhom|Nové Mesto nad Váh|29|CET|484503E|175010N|||||SK||||||1
+BNE|UIC|5455609|5455609|Dìèín-Prostøední Žleb|Dìèín-Prostøedn|29|CET|504734E|141348N|||||CZ||||||1
+BNE|UIC|5455619|5455619|Dìèín-Èertova Voda|Dìèín-Èertova Vo|29|CET|504859E|141317N|||||CZ||||||1
+BNE|UIC|5455649|5455649|Dolní Žleb zastávka|Dolní Žleb zastáv|29|CET|505015E|141321N|||||CZ||||||1
+BNE|UIC|5455909|5455909|Bohušovice nad Ohøí|Bohušovice nad Ohø|29|CET|502928E|140858N|||||CZ||||||1
+BNE|UIC|5456209|5456209|Benešov nad Plouènicí|Benešov nad Plouèn|29|CET|504417E|141818N|||||CZ||||||1
+BNE|UIC|5456740|5456740|Dvùr Králové nad Labem|Dvùr Králové nad |29|CET|502450E|154750N|||||CZ||||||1
+BNE|UIC|5505413|5505413|Zalaszentmihály-Pacsa|Zalaszentmihály-Pac|29|CET|465314N|165433E|||||HU||||||1
+BNE|UIC|5613206|5613206|Bratislava hlavná stanica|Bratislava hlavná s|29|CET|480932E|170623N|||||SK||||||1
+BNE|UIC|7402686|7402686|Malmö Syd/Svågertorp|Malmö Syd/Svågerto|29|CET|553250E|125933N|||||SE||||||1
+BNE|UIC|5454229|5454229|Moldava v Krušných horách|Moldava v Krušných|29|CET|504304E|134129N|||||CZ||||||1
+BNE|UIC|5454652|5454652|Frýdlant v Èechách|Frýdlant v Èechác|29|CET|505508E|150424N|||||CZ||||||1
+BNE|UIC|5599990|55F0005|Any hungarian stations|Any hungarian statio|33|CET|000000N|000000E|||||HU||||||1
+BNE|UIC|7223706|72G0001|Subotica javna skladista|Subotica javna sklad|29|CET|460535N|194135E|||||RS||||||1
+BNE|UIC|5613056|5613056|Moravský Svätý Ján|Moravský Svätý J|29|CET|483507E|170029N|||||SK||||||1
+BNE|UIC|7871204|7871204|Vukovar-Borovo Naselje|Vukovar-Borovo Nasel|29|CET|||||||HR||||||1
+BNE|UIC|7699990|76F0001|Any norwegian stations|Any norwegian statio|33|CET|000000N|000000E|||||NO||||||1
+BNE|UIC|7999990|79F0001|Any slovenian stations|Any slovenian statio|33|CET|000000N|000000E|||||SI||||||1
+BNE|UIC|7899990|78F0001|Any croatian stations|Any croatian station|33|CET|000000N|000000E|||||HR||||||1
+BNE|UIC|5434782|5434782|Rožnov pod Radhoštìm|Rožnov pod Radhošt|29|CET|492737E|180804N|||||CZ||||||1
+BNE|UIC|5434894|5434894|Tøemešná ve Slezsku|Tøemešná ve Slezs|29|CET|501159E|173425N|||||CZ||||||1
+BNE|UIC|5435005|5435005|Moravské Budìjovice|Moravské Budìjovic|29|CET|490327E|154833N|||||CZ||||||1
+BNE|UIC|5435162|5435162|Valašské Meziøíèí|Valašské Meziøí|29|CET|492828E|175737N|||||CZ||||||1
+BNE|UIC|5434364|5434364|Ostrava hlavní nádraží|Ostrava hlavní nád|33|CET|495107E|181602N|||||CZ||||||1
+BNE|UIC|5475505|5475505|Konstantinovy Láznì|Konstantinovy Lázn|29|CET|495305E|125832N|||||CZ||||||1
+BNE|UIC|8721325|8721325|Niederbronn-les-Bains|Niederbronn-les-Bain|29|CET|485708E|073801N|||||FR||||||1
+BNE|UIC|8721361|8721361|Bischwiller (Bas-Rhin)|Bischwiller (Bas-Rhi|29|CET|484555E|075104N|||||FR||||||1
+BNE|UIC|8748549|8748549|Saint-Maixent (Deux-Sèvres)|Saint-Maixent (Deux-|29|CET|462423E|001204N|||||FR||||||1
+BNE|UIC|8773180|8773180|Saint-Georges-d’Aurac|Saint-Georges-d’Au|29|CET|450916E|033219N|||||FR||||||1
+BNE|UIC|8773220|8773220|Saint-Germain-des-Fossés|Saint-Germain-des-Fo|29|CET|461233E|032549N|||||FR||||||1
+BNE|UIC|8103845|81G0039|Feistritz im Rosental|Feistritz im Rosenta|33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8718213|8718213|Saint-Louis (Haut-Rhin)|Saint-Louis (Haut-Rh|29|CET|473524E|073319N|||||FR||||||1
+BNE|UIC|8748644|8748644|Les Sables d’Olonne|Les Sables d’Olonn|29|CET|462959W|014653N|||||FR||||||1
+BNE|UIC|8748657|8748657|Saint-Gilles-Croix-de-Vie|Saint-Gilles-Croix-d|29|CET|464147W|015628N|||||FR||||||1
+BNE|UIC|8772135|8772135|Belleville-sur-Saône|Belleville-sur-Saôn|29|CET|460641E|044343N|||||FR||||||1
+BNE|UIC|8772267|8772267|Le Péage-de-Roussillon|Le Péage-de-Roussil|29|CET|452218E|044743N|||||FR||||||1
+BNE|UIC|8102217|8182217|Mayrhofen im Zillertal|Mayrhofen im Zillert|33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8102214|8182214|Ramsau im Zillertal-Hippach|Ramsau im Zillertal-|33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8102210|8182210|Kaltenbach-Stumm im Zillertal|Kaltenbach-Stumm im |33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8102206|8102206|Fugen-Hart im Zillertal|Fugen-Hart im Ziller|33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8102204|8182204|Schlitters-Bruck am Ziller|Schlitters-Bruck am |33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8718266|87G0027|Lutterbach (Haut-Rhin)|Lutterbach (Haut-Rhi|29|CET|474529E|071636N|||||FR||||||1
+BNE|UIC|8741564|8741564|Saint-Pierre-du-Vauvray|Saint-Pierre-du-Vauv|29|CET|491402E|011328N|||||FR||||||1
+BNE|UIC|8747826|8747826|Pontorson-Mont-Saint-Michel|Pontorson-Mont-Saint|29|CET|483309W|013017N|||||FR||||||1
+BNE|UIC|8811676|8811676|Louvain-La-Neuve-Université|Louvain-La-Neuve-Uni|29|CET|504012E|043700N|||||BE||||||1
+BNE|UIC|8307204|8307204|Castelplanio-Cupramontana|Castelplanio-Cupramo|33|CET|000000N|000000E|||||IT||||||1
+BNE|UIC|8307203|8307203|Montecarotto-Castelbellino|Montecarotto-Castelb|33|CET|000000N|000000E|||||IT||||||1
+BNE|UIC|8717400|8717400|Châlons-en-Champagne|Châlons-en-Champagn|29|CET|485719E|042056N|||||FR||||||1
+BNE|UIC|8717509|8717509|Joinville (Haute-Marne)|Joinville (Haute-Mar|29|CET|482639E|050837N|||||FR||||||1
+BNE|UIC|8767327|8767327|Saint-Vincent-de-Tyrosse|Saint-Vincent-de-Tyr|29|CET|433927W|011823N|||||FR||||||1
+BNE|UIC|8767370|8767370|Osses-Saint-Martin- d’Arrossa|Osses-Saint-Martin- |29|CET|431406W|011817N|||||FR||||||1
+BNE|UIC|8767372|8767372|Saint-Jean-Pied-de-Port|Saint-Jean-Pied-de-P|29|CET|431004W|011416N|||||FR||||||1
+BNE|UIC|8767377|8767377|Saint-Etienne-de-Baigorry|Saint-Etienne-de-Bai|29|CET|431045N|012026W|||||FR||||||1
+BNE|UIC|8767712|8767712|Saint-Jean-de-Luz-Ciboure|Saint-Jean-de-Luz-Ci|29|CET|432308W|013939N|||||FR||||||1
+BNE|UIC|8771852|8771852|L’Hôpital-du-Gros-Bois|L’Hôpital-du-Gros|29|CET|471008E|061247N|||||FR||||||1
+BNE|UIC|8772128|8772128|Saint-Germain au Mont-d’Or|Saint-Germain au Mon|29|CET|455318E|044816N|||||FR||||||1
+BNE|UIC|8739449|8739449|Courtalain St. Pellerin|Courtalain St. Pelle|29|CET|480424E|010736N|||||FR||||||1
+BNE|UIC|8741165|8741165|Saint-Valéry-en-Caux|Saint-Valéry-en-Cau|29|CET|495150E|004223N|||||FR||||||1
+BNE|UIC|8768227|8768227|Moret-Veneux-les-Sablons|Moret-Veneux-les-Sab|29|CET|482241E|024758N|||||FR||||||1
+BNE|UIC|8776110|8776110|Saint-Rambert-d’Albon|Saint-Rambert-d’Al|29|CET|451751E|044838N|||||FR||||||1
+BNE|UIC|8776165|8776165|Romans-Bourg-de-Péage|Romans-Bourg-de-Péa|29|CET|450253E|050307N|||||FR||||||1
+BNE|UIC|8776171|8776171|Saint Marcellin Isere|Saint Marcellin Iser|29|CET|450902E|051925N|||||FR||||||1
+BNE|UIC|8772134|8772134|Villefranche-sur-Saône|Villefranche-sur-Sa|29|CET|455904E|044316N|||||FR||||||1
+BNE|UIC|8400606|8400606|Utrecht Vaartsche Rijn|Utrecht Vaartsche Ri|29|CET|520443E|050718N|||||NL||||||2
+BNE|UIC|8717200|8717200|Charleville-Mézières|Charleville-Mézièr|29|CET|494604E|044331N|||||FR||||||1
+BNE|UIC|8776350|8776350|Montdauphin-Guillestre|Montdauphin-Guillest|29|CET|444028E|063655N|||||FR||||||1
+BNE|UIC|8738286|8738286|Versailles-Rive-Droite|Versailles-Rive-Droi|29|CET|484835E|020721N|||||FR||||||1
+BNE|UIC|8775752|8775752|Saint-Raphaël-Valescure|Saint-Raphaël-Vales|29|CET|432521E|064612N|||||FR||||||1
+BNE|UIC|8729592|8729501|Jeumont(fr)/Quevy(fr)|Jeumont(fr)/Quevy(fr|17|CET|445506N|021724E|||||FR||||||1
+BNE|UIC|8721485|87G0767|Sainte-Marie-aux-Mines|Sainte-Marie-aux-Min|29|CET|||||||FR||||||1
+BNE|UIC|8734233|8734233|Saint-Pol-sur-Ternoise|Saint-Pol-sur-Ternoi|29|CET|502244E|022022N|||||FR||||||1
+BNE|UIC|8764514|8749135|Saint Jean d’Angely|Saint Jean d’Angel|29|CET|||||||FR||||||1
+BNE|UIC|8775646|8775646|Cap-Martin-Roquebrune|Cap-Martin-Roquebrun|29|CET|434538E|072726N|||||FR||||||1
+BNE|UIC|8841467|8841467|Fexhe-Le-Haut-Clocher|Fexhe-Le-Haut-Cloche|29|CET|503950E|052355N|||||BE||||||1
+BNE|UIC|8771859|87G0766|Grand-Comble-Chateleu|Grand-Comble-Chatele|29|CET|470219N|063435E|||||FR||||||1
+BNE|UIC|8103027|4333027|Wallern im Burgenland|Wallern im Burgenlan|29|CET|474400N|165549E|||||AT||||||1
+BNE|UIC|8714113|8714113|Blainville-Damelevières|Blainville-Damelevi|29|CET|483354E|062309N|||||FR||||||1
+BNE|UIC|8761389|8761389|Villefranche-de-Rouergue|Villefranche-de-Roue|29|CET|442050E|020211N|||||FR||||||1
+BNE|UIC|8775686|8775686|Saint-Dalmas-de-Tende|Saint-Dalmas-de-Tend|29|CET|440321E|073503N|||||FR||||||1
+BNE|UIC|8711651|8711651|La Ferté-sous-Jouarre|La Ferté-sous-Jouar|29|CET|485659E|030728N|||||FR||||||1
+BNE|UIC|8731371|8731371|Saint-Omer-en-Chaussée|Saint-Omer-en-Chauss|29|CET|493149E|015949N|||||FR||||||1
+BNE|UIC|8731705|8731705|Rang-du-Fliers-Verton-Berck|Rang-du-Fliers-Verto|29|CET|502456E|013852N|||||FR||||||1
+BNE|UIC|8775521|8775521|Saint-Cyr-les-Lecques- la-Cadière|Saint-Cyr-les-Lecque|29|CET|431107E|054213N|||||FR||||||1
+BNE|UIC|8775523|8775523|Ollioules-Sanary-s/Mer|Ollioules-Sanary-s/M|29|CET|430721E|054929N|||||FR||||||1
+BNE|UIC|8731327|8731327|Saint-Just-en-Chaussée|Saint-Just-en-Chauss|29|CET|493012E|022544N|||||FR||||||1
+BNE|UIC|8761148|8761148|Latour de Carol-Enveitg|Latour de Carol-Enve|29|CET|422731E|015417N|||||FR||||||1
+BNE|UIC|8761151|8761151|L’Hospitalet-près-l’Andorre|L’Hospitalet-près|29|CET|423522E|014800N|||||FR||||||1
+BNE|UIC|8728144|8728144|Saint-Omer (Pas-de-Calais)|Saint-Omer (Pas-de-C|29|CET|504513E|021600N|||||FR||||||1
+BNE|UIC|8728691|8728691|Blandain(fr)/Tourcoing(fr)|Blandain(fr)/Tourcoi|17|CET|||||||FR||||||1
+BNE|UIC|8759200|8759200|Limoges-Bénédictins|Limoges-Bénédictin|29|CET|455011E|011602N|||||FR||||||1
+BNE|UIC|8759234|8759234|Saint-Sulpice-Laurière|Saint-Sulpice-Lauri|29|CET|460248E|012834N|||||FR||||||1
+BNE|UIC|8761115|8761115|Montrejeau-Gourdan-Polinan|Montrejeau-Gourdan-P|29|CET|430440E|003424N|||||FR||||||1
+BNE|UIC|8774749|8774749|Pontcharra-sur-Bréda Allevard|Pontcharra-sur-Bréd|29|CET|452602E|060027N|||||FR||||||1
+BNE|UIC|8775100|8775100|Marseille-Saint-Charles|Marseille-Saint-Char|29|CET|431813E|052255N|||||FR||||||1
+BNE|UIC|8775132|8775132|Manosque-Gréoux-les- Bains|Manosque-Gréoux-les|29|CET|434923E|054736N|||||FR||||||1
+BNE|UIC|8759457|8759457|Saint-Denis-près-Martel|Saint-Denis-près-Ma|29|CET|445644E|013958N|||||FR||||||1
+BNE|UIC|8774543|8594956|Saint-Julien-en-Génevois|Saint-Julien-en-Gén|29|CET|460830E|060508N|||||FR||||||1
+BNE|UIC|5463032|5463032|Plauen(Vogtl)-Chrieschwitz|Plauen(Vogtl)-Chries|29|CET|465431N|260556E|||||CZ||||||1
+BNE|UIC|5463030|5463030|Plauen(Vogtl) Zellwolle|Plauen(Vogtl) Zellwo|29|CET|462926N|095345E|||||CZ||||||1
+BNE|UIC|5463011|5463011|Elsterberg-Kunstseidenwerk|Elsterberg-Kunstseid|29|CET|560150N|121859E|||||DE||||||1
+BNE|UIC|5433555|54G0017|Bystoice nad Perstejnem|Bystoice nad Perstej|29|CET|505124N|195647E|||||CZ||||||1
+BNE|UIC|8774172|8774172|Moutiers-Salins-Brides-les-Bains|Moutiers-Salins-Brid|29|CET|452912E|063153N|||||FR||||||1
+BNE|UIC|8774232|8774232|Saint-Jean-de-Maurienne- Arvan|Saint-Jean-de-Maurie|29|CET|451640E|062116N|||||FR||||||1
+BNE|UIC|8774236|8774236|Saint-Michel-de-Valloire|Saint-Michel-de-Vall|29|CET|451300E|062819N|||||FR||||||1
+BNE|UIC|8774169|8774169|Notre-Dame-de-Briançon|Notre-Dame-de-Brian|29|CET|453222E|062806N|||||FR||||||1
+BNE|UIC|8774637|8774637|Cluses (Haute-Savoie)|Cluses (Haute-Savoie|29|CET|460340E|063458N|||||FR||||||1
+BNE|UIC|8774643|8774643|Sallanches-Combloux- Megève|Sallanches-Combloux-|29|CET|455608E|063811N|||||FR||||||1
+BNE|UIC|8774647|8774647|Saint-Gervais-les-Bains- le-Fayet|Saint-Gervais-les-Ba|29|CET|455423E|064206N|||||FR||||||1
+BNE|UIC|8600858|8600858|Københavns Lufthavn Kastrup|Københavns Lufthavn|29|CET|553746E|123857N|||||DK||||||1
+BNE|UIC|8757124|8757124|Saint-Pierre-des-Corps|Saint-Pierre-des-Cor|29|CET|472307E|004326N|||||FR||||||1
+BNE|UIC|8821154|8821154|Mortsel-Deurnesteenweg|Mortsel-Deurnesteenw|29|CET|511056E|042650N|||||BE||||||1
+BNE|UIC|8821246|8821246|Mortsel-Liersesteenweg|Mortsel-Liersesteenw|29|CET|511009E|042808N|||||BE||||||1
+BNE|UIC|8883220|8883220|Marche-Lez-Ecaussinnes|Marche-Lez-Ecaussinn|29|CET|503246E|041037N|||||BE||||||1
+BNE|UIC|5480097|5433652|Horni Lidee/Eadca(Gr)|Horni Lidee/Eadca(Gr|17|CET|544635N|113006E|||||CZ||||||1
+BNE|UIC|5475332|54G0018|Kamenny Ujezd u Eeskych Budijovic|Kamenny Ujezd u Eesk|29|CET|535135N|211746E|||||CZ||||||1
+BNE|UIC|5463033|8072179|Plauen(Vogtl)-Strabberg|Plauen(Vogtl)-Strabb|29|CET|523111N|071917E|||||DE||||||1
+BNE|UIC|8774100|8774100|Chambéry-Challes-les-Eaux|Chambéry-Challes-le|29|CET|453417E|055511N|||||FR||||||1
+BNE|UIC|8774113|8774113|Aix-les-Bains-le-Revard|Aix-les-Bains-le-Rev|29|CET|454117E|055432N|||||FR||||||1
+BNE|UIC|8774122|8774122|Saint-Pierre-d’Albigny|Saint-Pierre-d’Alb|29|CET|453326E|060924N|||||FR||||||1
+BNE|UIC|8774150|8774150|Virieu-le-Grand-Belley|Virieu-le-Grand-Bell|29|CET|455053E|053913N|||||FR||||||1
+BNE|UIC|7873101|78G0007|Zeljeznicka stanica mucna reka|Zeljeznicka stanica |29|CET|431833N|134333E|||||HR||||||1
+BNE|UIC|8721234|8721234|Herrlisheim (Bas-Rhin)|Herrlisheim (Bas-Rhi|29|CET|484340E|075437N|||||FR||||||1
+BNE|UIC|8757121|8757121|Vendôme-Villiers-S/Loire|Vendôme-Villiers-S/|29|CET|474520E|010158N|||||FR||||||1
+BNE|UIC|8772600|8772600|Saint-Etienne-Châteaucreux|Saint-Etienne-Châte|29|CET|452636E|042357N|||||FR||||||1
+BNE|UIC|8516219|8502707|Mellingen Heitersberg|Mellingen Heitersber|29|CET|472541E|081633N|||||CH||||||2
+BNE|UIC|8575701|8505202|Ambrì-Piotta, Stazione|Ambrì-Piotta, Stazi|29|CET|463038N|084123E|||||CH||||||1
+BNE|UIC|8579060|8579060|Morgins, garage communal|Morgins, garage comm|29|CET|461416N|065104E|||||CH||||||1
+BNE|UIC|8582835|8509681|Lenzerheide/Lai, Rothornbahn|Lenzerheide/Lai, Rot|29|CET|464426N|093320E|||||CH||||||2
+BNE|UIC|8509774|8509774|Flims Waldhaus, Caumasee|Flims Waldhaus, Caum|29|CET|464935E|091721N|||||CH||||||2
+BNE|UIC|8509790|8509790|Lenzerheide/Lai, Post|Lenzerheide/Lai, Pos|29|CET|464425E|093324N|||||CH||||||1
+BNE|UIC|8101004|8192099|Salzburg Mülln-Altstadt|Salzburg Mülln-Alts|29|CET|474830E|130203N|||||AT||||||2
+BNE|UIC|8101011|8101011|Purkersdorf-Sanatorium|Purkersdorf-Sanatori|29|CET|481222E|161204N|||||AT||||||2
+BNE|UIC|8101436|8101436|Böhlerwerk a.d. Ybbs|Böhlerwerk a.d. Ybb|29|CET|475859E|144514N|||||AT||||||1
+BNE|UIC|8101438|8101438|Stadt Waidhofen a. d. Ybbs|Stadt Waidhofen a. d|29|CET|475731E|144604N|||||AT||||||1
+BNE|UIC|8101445|8101445|Weissenbach-St. Gallen|Weissenbach-St. Gall|29|CET|474251E|143807N|||||AT||||||1
+BNE|UIC|8101451|8101451|Gstatterboden i. Nationalpark|Gstatterboden i. Nat|29|CET|473528E|143801N|||||AT||||||2
+BNE|UIC|8101452|8101452|Johnsbach i. Nationalpark|Johnsbach i. Nationa|29|CET|473456E|143545N|||||AT||||||1
+BNE|UIC|8102933|8102933|Bad Deutsch Altenburg|Bad Deutsch Altenbur|29|CET|480758E|165438N|||||AT||||||1
+BNE|UIC|8102934|8102934|Hainburg a. d. Donau Kulturfabrik|Hainburg a. d. Donau|29|CET|480840E|165554N|||||AT||||||1
+BNE|UIC|8102964|8102964|Lanzendorf-Rannersdorf|Lanzendorf-Rannersdo|29|CET|480647E|162650N|||||AT||||||1
+BNE|UIC|8102970|8102970|Trautmannsdf a. d. Leitha|Trautmannsdf a. d. L|29|CET|480127E|163833N|||||AT||||||1
+BNE|UIC|8103617|8103617|St. Georgen ob Judenburg|St. Georgen ob Juden|29|CET|471243E|142957N|||||AT||||||1
+BNE|UIC|8103620|8103620|Mariahof-St. Lambrecht|Mariahof-St. Lambrec|29|CET|470622E|142222N|||||AT||||||1
+BNE|UIC|8103621|8103621|Neumarkt in Steiermark|Neumarkt in Steierma|29|CET|470424E|142455N|||||AT||||||1
+BNE|UIC|8103631|8103631|Launsdorf-Hochosterwitz|Launsdorf-Hochosterw|29|CET|464608E|142721N|||||AT||||||1
+BNE|UIC|8103632|8103632|St. Georgen am Längsee|St. Georgen am Läng|29|CET|464542E|142524N|||||AT||||||1
+BNE|UIC|8302550|8302550|Calalzo-Pieve di Cadore-Cortina|Calalzo-Pieve di Cad|29|CET|462638E|122319N|||||IT||||||1
+BNE|UIC|8302558|8302558|Ponte nelle Alpi-Polpet|Ponte nelle Alpi-Pol|29|CET|461056E|121640N|||||IT||||||1
+BNE|UIC|8302566|8302566|Alano-Fener-Valdobbiadene|Alano-Fener-Valdobbi|29|CET|455409E|115640N|||||IT||||||1
+BNE|UIC|8302660|8302660|S. Vito al Tagliamento|S. Vito al Tagliamen|29|CET|455442E|125106N|||||IT||||||2
+BNE|UIC|8307206|8307206|Genga-S.Vittore Terme|Genga-S.Vittore Term|29|CET|432410E|125838N|||||IT||||||1
+BNE|UIC|8307209|8307209|Fossato di Vico-Gubbio|Fossato di Vico-Gubb|29|CET|431702E|124525N|||||IT||||||1
+BNE|UIC|8307302|83G0001|Castelraimondo-Camerino|Castelraimondo-Camer|29|CET|431058N|130317E|||||IT||||||1
+BNE|UIC|8307306|8307306|Urbisaglia-Sforzacosta|Urbisaglia-Sforzacos|29|CET|431526N|132500E|||||IT||||||1
+BNE|UIC|8311780|8311780|Reggio di Calabria Lido|Reggio di Calabria L|29|CET|380653E|153858N|||||IT||||||1
+BNE|UIC|8311781|8311781|Reggio di Calabria Centrale|Reggio di Calabria C|29|CET|380614E|153808N|||||IT||||||1
+BNE|UIC|8400235|8400235|Amsterdam Sciencepark|Amsterdam Sciencepar|29|CET|522111E|045657N|||||NL||||||1
+BNE|UIC|8503502|8572495|Siggenthal-Würenlingen|Siggenthal-Würenlin|29|CET|473104E|081424N|||||CH||||||2
+BNE|UIC|8503506|8503506|Killwangen-Spreitenbach|Killwangen-Spreitenb|29|CET|472601E|082114N|||||CH||||||2
+BNE|UIC|8509881|8509881|Sils/Segl Maria, posta|Sils/Segl Maria, pos|29|CET|462549E|094554N|||||CH||||||2
+BNE|UIC|8747406|8747406|Châteaulin-Embranchement|Châteaulin-Embranch|29|CET|481205W|040539N|||||FR||||||1
+BNE|UIC|8771369|8771369|Saint-Bonnet-en-Bresse|Saint-Bonnet-en-Bres|29|CET|465946N|050904E|||||FR||||||1
+BNE|UIC|8778468|8778468|Villefranche-Vernet-les- Bains|Villefranche-Vernet-|29|CET|423528E|022213N|||||FR||||||1
+BNE|UIC|8778481|8778481|Font-Romeu-Odeillo-Via|Font-Romeu-Odeillo-V|29|CET|422928E|020218N|||||FR||||||1
+BNE|UIC|8800222|8728691|Blandain (fr)/Tourcoing (fr)|Blandain (fr)/Tourco|17|CET|503702E|031549N|||||FR||||||1
+BNE|UIC|8769652|8769652|Remilly-Saint-Honoré|Remilly-Saint-Honor|29|CET|464908E|034851N|||||FR||||||1
+BNE|UIC|8778317|8778317|Saint-Flour-Chaudes-Aigues|Saint-Flour-Chaudes-|29|CET|450206E|030618N|||||FR||||||1
+BNE|UIC|8778324|8778324|Saint-Chély-d’Apcher|Saint-Chély-d’Apc|29|CET|444806E|031614N|||||FR||||||1
+BNE|UIC|8718510|8718510|Port-d’Atelier-Amance|Port-d’Atelier-Ama|29|CET|474533E|060222N|||||FR||||||1
+BNE|UIC|8768331|8768331|Saint-Florentin-Vergigny|Saint-Florentin-Verg|29|CET|475850E|034352N|||||FR||||||1
+BNE|UIC|8768357|8768357|Auxerre-Saint-Gervais|Auxerre-Saint-Gervai|29|CET|474751E|033507N|||||FR||||||1
+BNE|UIC|8769410|8769410|Le Creusot-Montceau-les Mines-Montc|Le Creusot-Montceau-|29|CET|464555E|043000N|||||FR||||||1
+BNE|UIC|8777300|8777300|Montpellier Saint-Roch|Montpellier Saint-Ro|29|CET|433616E|035250N|||||FR||||||1
+BNE|UIC|8777517|8777517|La Bastide-St-Laurent- les-Bains|La Bastide-St-Lauren|29|CET|443533E|035414N|||||FR||||||1
+BNE|UIC|8069522|8069522|Durlacher Strabe Pforzheim|Durlacher Strabe Pfo|29|CET|||||||DE||||||1
+BNE|UIC|8027176|8027176|Hinrichsdorfer Strabe Rostock|Hinrichsdorfer Strab|29|CET|540715N|120950E|||||DE||||||1
+BNE|UIC|8102434|8102434|Klein Meiseldorf-Maria Dreieichen|Klein Meiseldorf-Mar|29|CET|||||||AT||||||1
+BNE|UIC|8103152|8103152|Allerheiligen-Mürzhofen|Allerheiligen-Mürzh|29|CET|472855E|152410N|||||AT||||||1
+BNE|UIC|8103154|8103154|Kapfenberg Fachhochschule|Kapfenberg Fachhochs|29|CET|472717E|151946N|||||AT||||||1
+BNE|UIC|8103902|8103902|Emmersdorf im Gailtal|Emmersdorf im Gailta|29|CET|463543E|133420N|||||AT||||||1
+BNE|UIC|8103903|8103903|St. Stefan-Vorderberg|St. Stefan-Vorderber|29|CET|463601E|133201N|||||AT||||||1
+BNE|UIC|8103904|8103904|Görtschach-Förolach|Görtschach-Förolac|29|CET|463722E|132815N|||||AT||||||1
+BNE|UIC|8301524|8301524|Calolziocorte-Olginate|Calolziocorte-Olgina|29|CET|454804E|092539N|||||IT||||||1
+BNE|UIC|8306015|8306015|Torre del Lago Puccini|Torre del Lago Pucci|29|CET|434935E|101725N|||||IT||||||1
+BNE|UIC|8306411|8306411|Montecatini Terme-Monsummano|Montecatini Terme-Mo|29|CET|435245E|104650N|||||IT||||||1
+BNE|UIC|8306421|8306421|Firenze Santa Maria Novella|Firenze Santa Maria |29|CET|434636E|111452N|||||IT||||||1
+BNE|UIC|8306506|8306506|Pontedera-Casciana Terme|Pontedera-Casciana T|29|CET|433944E|103743N|||||IT||||||1
+BNE|UIC|8306508|8306508|S. Romano-Montopoli-S. Croce|S. Romano-Montopoli-|29|CET|434126E|104535N|||||IT||||||1
+BNE|UIC|8311106|8311106|Trinitapoli-S. Ferdinando di Puglia|Trinitapoli-S. Ferdi|29|CET|412059E|160527N|||||IT||||||1
+BNE|UIC|8311406|8311406|Canne della Battaglia|Canne della Battagli|29|CET|411740N|160846E|||||IT||||||1
+BNE|UIC|8311456|8311456|Grassano-Garaguso-Tricarico|Grassano-Garaguso-Tr|29|CET|403535E|161427N|||||IT||||||1
+BNE|UIC|8311458|8311458|Ferrandina - Pomarico - Miglionico|Ferrandina - Pomaric|29|CET|403058E|162832N|||||IT||||||1
+BNE|UIC|8101038|8101038|Markersdorf a. d. Pielach|Markersdorf a. d. Pi|29|CET|481147E|152949N|||||AT||||||2
+BNE|UIC|8101605|8101605|Nöstlbach-St. Marien|Nöstlbach-St. Marie|29|CET|480948E|141445N|||||AT||||||2
+BNE|UIC|8102409|8102409|Klosterneuburg-Weidling|Klosterneuburg-Weidl|29|CET|481751E|162004N|||||AT||||||1
+BNE|UIC|8102410|8102410|Klosterneuburg-Kierling|Klosterneuburg-Kierl|29|CET|481835E|161934N|||||AT||||||1
+BNE|UIC|8103862|8103862|Möllbrücke-Sachsenburg|Möllbrücke-Sachsen|29|CET|464950E|132205N|||||AT||||||1
+BNE|UIC|8301645|8301645|Milano Porta Garibaldi|Milano Porta Garibal|29|CET|452903E|091114N|||||IT||||||1
+BNE|UIC|8305813|8305813|Lido di Classe-Lido di Savio|Lido di Classe-Lido |29|CET|441852N|121733E|||||IT||||||1
+BNE|UIC|8305814|8305814|Cervia-Milano Marittima|Cervia-Milano Maritt|29|CET|441530E|122049N|||||IT||||||1
+BNE|UIC|8306029|8306029|Castagneto Carducci-Donoratico|Castagneto Carducci-|29|CET|431007E|103349N|||||IT||||||1
+BNE|UIC|8309827|8309827|Sicignano degli Alburni|Sicignano degli Albu|29|CET|403619E|151729N|||||IT||||||1
+BNE|UIC|8101046|8101046|Neumarkt/Ybbs-Karlsbach|Neumarkt/Ybbs-Karlsb|29|CET|480832E|150305N|||||AT||||||2
+BNE|UIC|8101055|8101055|Krenstetten-Biberbach|Krenstetten-Biberbac|29|CET|480318E|144155N|||||AT||||||2
+BNE|UIC|8101056|8101056|St. Peter-Seitenstetten|St. Peter-Seitenstet|29|CET|480317E|143846N|||||AT||||||2
+BNE|UIC|8101540|8101540|Grossraming Kraftwerk|Grossraming Kraftwer|29|CET|475335E|143038N|||||AT||||||2
+BNE|UIC|8101594|8101594|St. Georgen a. d. Gusen Haltestelle|St. Georgen a. d. Gu|29|CET|481616E|142703N|||||AT||||||2
+BNE|UIC|8101595|8101595|St. Georgen a.d. Gusen|St. Georgen a.d. Gus|29|CET|481555E|142628N|||||AT||||||2
+BNE|UIC|8102414|8102414|Greifenstein-Altenberg|Greifenstein-Altenbe|29|CET|482041E|161423N|||||AT||||||1
+BNE|UIC|8102416|8102416|Zeiselmauer-Königstetten|Zeiselmauer-Königst|29|CET|481935E|161029N|||||AT||||||1
+BNE|UIC|8102425|8102425|Grosswiesendorf-Tiefenthal|Grosswiesendorf-Tief|29|CET|||||||AT||||||1
+BNE|UIC|8103061|8103061|Puchberg am Schneeberg|Puchberg am Schneebe|29|CET|474725E|155437N|||||AT||||||1
+BNE|UIC|8301409|8301409|Bellano-Tartavalle Terme|Bellano-Tartavalle T|29|CET|460222E|091809N|||||IT||||||1
+BNE|UIC|8301437|8301437|Tresenda-Aprica-Teglio|Tresenda-Aprica-Tegl|29|CET|460943E|100501N|||||IT||||||1
+BNE|UIC|8306011|8306011|Forte dei Marmi-Seravezza-Querceta|Forte dei Marmi-Sera|29|CET|435839E|101158N|||||IT||||||1
+BNE|UIC|8309756|8313818|Castellammare di Stabia|Castellammare di Sta|29|CET|404205E|142901N|||||IT||||||1
+BNE|UIC|8400607|8400607|Utrecht Leidsche Rijn|Utrecht Leidsche Rij|29|CET|520555E|050354N|||||NL||||||1
+BNE|UIC|8509175|8575061|Tavanasa-Breil/Brigels|Tavanasa-Breil/Brige|29|CET|464517E|090344N|||||CH||||||2
+BNE|UIC|8101528|8101528|Ramingdorf-Haidershofen|Ramingdorf-Haidersho|29|CET|480403E|142734N|||||AT||||||1
+BNE|UIC|8102303|8122303|St. Anton im Montafon|St. Anton im Montafo|29|CET|470635N|095158E|||||AT||||||1
+BNE|UIC|8102332|8102332|Schwarzach in Vorarlberg|Schwarzach in Vorarl|29|CET|472646E|094515N|||||AT||||||1
+BNE|UIC|8102401|8102401|Wien Franz-Josefs-Bahnhof|Wien Franz-Josefs-Ba|29|CET|481334E|162140N|||||AT||||||1
+BNE|UIC|8103038|8103038|Möllersdorf-Aspangbahn|Möllersdorf-Aspangb|29|CET|480144E|161845N|||||AT||||||1
+BNE|UIC|8103039|8103039|Traiskirchen Aspangbahn|Traiskirchen Aspangb|29|CET|480104E|161812N|||||AT||||||1
+BNE|UIC|8103112|8103112|Brunn-Maria Enzersdorf|Brunn-Maria Enzersdo|29|CET|480618E|161717N|||||AT||||||1
+BNE|UIC|8103114|8103114|Guntramsdorf Thallern|Guntramsdorf Thaller|29|CET|480306E|161750N|||||AT||||||1
+BNE|UIC|8301209|8301209|Albizzate-Solbiate Arno|Albizzate-Solbiate A|29|CET|454316E|084822N|||||IT||||||2
+BNE|UIC|8305319|8305319|S. Giovanni in Persiceto|S. Giovanni in Persi|29|CET|443837E|111121N|||||IT||||||1
+BNE|UIC|8305701|8305701|Terme Euganee-Abano-Montegrotto|Terme Euganee-Abano-|29|CET|451938E|114747N|||||IT||||||1
+BNE|UIC|8309806|8313828|Torre Annunziata C.le|Torre Annunziata C.l|29|CET|404449E|142750N|||||IT||||||1
+BNE|UIC|8309817|8309817|Vietri sul Mare-Amalfi|Vietri sul Mare-Amal|29|CET|404027E|144339N|||||IT||||||1
+BNE|UIC|8400127|8400127|Bovenkarspel-Grootebroek|Bovenkarspel-Grooteb|29|CET|524142E|051411N|||||NL||||||1
+BNE|UIC|8503004|8576182|Zürich Tiefenbrunnen|Zürich Tiefenbrunne|29|CET|472100E|083341N|||||CH||||||2
+BNE|UIC|8503103|8588011|Herrliberg-Feldmeilen|Herrliberg-Feldmeile|29|CET|471654E|083646N|||||CH||||||2
+BNE|UIC|8101013|8101013|Purkersdorf bei Wien Zentrum|Purkersdorf bei Wien|29|CET|481222E|161033N|||||AT||||||2
+BNE|UIC|8101015|8101015|Tullnerbach-Pressbaum|Tullnerbach-Pressbau|29|CET|481109N|160534E|||||AT||||||1
+BNE|UIC|8101019|8101019|Eichgraben-Altlengbach|Eichgraben-Altlengba|29|CET|481024E|155853N|||||AT||||||2
+BNE|UIC|8103017|8103017|Wulkaprodersdorf Haltestelle|Wulkaprodersdorf Hal|29|CET|474757E|162947N|||||AT||||||1
+BNE|UIC|8103046|8103046|Wiener Neustadt Anemonensee|Wiener Neustadt Anem|29|CET|474842E|161234N|||||AT||||||1
+BNE|UIC|8103050|8103050|Brunn a. d. Schneebergbahn|Brunn a. d. Schneebe|29|CET|474932E|160926N|||||AT||||||1
+BNE|UIC|8103848|8103848|St. Johann im Rosental|St. Johann im Rosent|29|CET|463142N|141250E|||||AT||||||1
+BNE|UIC|8305135|8305135|Vernio-Montepiano-Cantagallo|Vernio-Montepiano-Ca|29|CET|440237E|110908N|||||IT||||||1
+BNE|UIC|8309001|8309001|Falciano-Mondragone-Carinola|Falciano-Mondragone-|29|CET|410724E|135818N|||||IT||||||1
+BNE|UIC|8309305|8309305|Frasso Telesino-Dugenta|Frasso Telesino-Duge|29|CET|410813E|142733N|||||IT||||||1
+BNE|UIC|8309315|8309315|Montecalvo-Buonalbergo-Casalbore|Montecalvo-Buonalber|29|CET|411256E|150141N|||||IT||||||1
+BNE|UIC|8400074|8400074|Amsterdam Bijlmer ArenA|Amsterdam Bijlmer Ar|29|CET|521844E|045649N|||||NL||||||1
+BNE|UIC|8400542|8400542|Rotterdam Lombardijen|Rotterdam Lombardije|29|CET|515249E|043150N|||||NL||||||1
+BNE|UIC|8508384|8508384|Niederrickenbach Station|Niederrickenbach Sta|29|CET|465540E|082346N|||||CH||||||2
+BNE|UIC|8101460|8101460|Wörschach Schwefelbad|Wörschach Schwefelb|29|CET|473244E|140825N|||||AT||||||2
+BNE|UIC|8101480|8101480|Niedernfritz-St. Martin|Niedernfritz-St. Mar|29|CET|472516E|132043N|||||AT||||||2
+BNE|UIC|8103026|4333026|St. Andrä am Zicksee|St. Andrä am Zickse|29|CET|474657N|165540E|||||AT||||||1
+BNE|UIC|8103036|8103036|Laxenburg-Biedermannsdorf|Laxenburg-Biedermann|29|CET|480440E|162126N|||||AT||||||1
+BNE|UIC|8103714|8103714|Frantschach-St. Gert.|Frantschach-St. Gert|29|CET|||||||AT||||||1
+BNE|UIC|8103809|8103809|Steindorf am Ossiachersee|Steindorf am Ossiach|29|CET|464153E|140050N|||||AT||||||1
+BNE|UIC|8103811|8103811|St. Urban am Ossiachersee|St. Urban am Ossiach|29|CET|464027E|135733N|||||AT||||||1
+BNE|UIC|8103822|8103822|Völkermarkt-Kühnsdorf|Völkermarkt-Kühnsd|29|CET|463719E|143747N|||||AT||||||1
+BNE|UIC|8103824|8103824|St. Michael ob Bleiburg|St. Michael ob Bleib|29|CET|463456E|144502N|||||AT||||||1
+BNE|UIC|8305053|8305053|Castel S. Pietro Terme|Castel S. Pietro Ter|29|CET|442426E|113553N|||||IT||||||1
+BNE|UIC|8305056|8305056|Castel Bolognese-Riolo Terme|Castel Bolognese-Rio|29|CET|441931E|114814N|||||IT||||||1
+BNE|UIC|8308663|8308663|Castro-Pofi-Vallecorsa|Castro-Pofi-Vallecor|29|CET|413158E|132438N|||||IT||||||1
+BNE|UIC|8309109|8309109|Napoli Piazza Garibaldi|Napoli Piazza Gariba|29|CET|405103E|141624N|||||IT||||||1
+BNE|UIC|8309209|8309209|S. Maria Capua Vetere|S. Maria Capua Veter|29|CET|410425E|141515N|||||IT||||||1
+BNE|UIC|8400054|8400054|Amersfoort Schothorst|Amersfoort Schothors|29|CET|521029E|052413N|||||NL||||||1
+BNE|UIC|8400060|8400060|Amsterdam Muiderpoort|Amsterdam Muiderpoor|29|CET|522138E|045552N|||||NL||||||1
+BNE|UIC|8501772|8501772|Haute-Nendaz, église|Haute-Nendaz, églis|29|CET|461112E|071751N|||||CH||||||2
+BNE|UIC|8501782|8501782|Saas-Fee, Busterminal|Saas-Fee, Bustermina|29|CET|460631E|075546N|||||CH||||||1
+BNE|UIC|8501788|8501788|Verbier, station poste|Verbier, station pos|29|CET|460546E|071341N|||||CH||||||2
+BNE|UIC|8507753|8507753|Blatten (Lötschen), Post|Blatten (Lötschen),|29|CET|462510E|074908N|||||CH||||||2
+BNE|UIC|8101310|8101310|Wiesenfeld-Schwarzenbach|Wiesenfeld-Schwarzen|29|CET|480304E|153855N|||||AT||||||1
+BNE|UIC|8101311|8101311|St. Veit a.d. Gölsen|St. Veit a.d. Gölse|29|CET|480242N|154018E|||||AT||||||2
+BNE|UIC|8101313|8101313|Rohrbach a.d. Gölsen|Rohrbach a.d. Gölse|29|CET|480252E|154433N|||||AT||||||2
+BNE|UIC|8101323|8101323|Pottenstein a.d. Triesting|Pottenstein a.d. Tri|29|CET|475741E|160521N|||||AT||||||2
+BNE|UIC|8101326|8101326|St. Veit a.d.Triesting|St. Veit a.d.Triesti|29|CET|475559E|160856N|||||AT||||||1
+BNE|UIC|8102126|8102126|Mühldorf-Möllbrücke|Mühldorf-Möllbrüc|29|CET|465105E|132200N|||||AT||||||1
+BNE|UIC|8102261|8102261|Unterberg-Stefansbrücke|Unterberg-Stefansbr|29|CET|471250E|112330N|||||AT||||||1
+BNE|UIC|8103717|8103717|St. Stefan im Lavanttal|St. Stefan im Lavant|29|CET|464825E|145046N|||||AT||||||1
+BNE|UIC|8103718|8103718|St. Andrä im Lavanttal|St. Andrä im Lavant|29|CET|464546E|145029N|||||AT||||||1
+BNE|UIC|8103800|8103800|St. Veit a. d. Glan Westbahnhof|St. Veit a. d. Glan |29|CET|464544E|142141N|||||AT||||||1
+BNE|UIC|8103803|8103803|Tauchendorf-Haidensee|Tauchendorf-Haidense|29|CET|464341E|141411N|||||AT||||||1
+BNE|UIC|8304537|8304537|Genova Sestri Ponente|Genova Sestri Ponent|29|CET|442520E|085052N|||||IT||||||1
+BNE|UIC|8304700|8304700|Genova Piazza Principe|Genova Piazza Princi|29|CET|442503E|085519N|||||IT||||||1
+BNE|UIC|8304718|8304718|S. Margherita Ligure-Portofino|S. Margherita Ligure|29|CET|442011E|091300N|||||IT||||||1
+BNE|UIC|8308915|8308915|Pescolanciano-Chiauci|Pescolanciano-Chiauc|29|CET|414044E|142026N|||||IT||||||1
+BNE|UIC|8309000|8309000|Sessa Aurunca-Roccamonfina|Sessa Aurunca-Roccam|29|CET|411145E|135232N|||||IT||||||1
+BNE|UIC|8313586|8313586|Camporosso in Valcanale|Camporosso in Valcan|29|CET|463024E|133130N|||||IT||||||1
+BNE|UIC|8400433|8400433|Hengelo Gezondheidspark|Hengelo Gezondheidsp|29|CET|521541E|064604N|||||NL||||||2
+BNE|UIC|8061676|8061676|Frankfurt(M)Flugh Fernbf|Frankfurt(M)Flugh Fe|29|CET|500311E|083412N|||||DE||||||1
+BNE|UIC|8101291|8101291|Moosbierbaum-Heiligeneich|Moosbierbaum-Heilige|29|CET|481822E|155401N|||||AT||||||1
+BNE|UIC|8101299|8101301|St. Pölten Alpenbahnhof|St. Pölten Alpenbah|29|CET|481156N|153649E|||||AT||||||2
+BNE|UIC|8101300|8101300|St. Pölten Porschestraße|St. Pölten Porsches|29|CET|481059E|153701N|||||AT||||||1
+BNE|UIC|8102045|8102045|Munderfing Dampfsäge|Munderfing Dampfsäg|29|CET|||||||AT||||||1
+BNE|UIC|8102051|8102051|St. Georgen a.d.Mattig|St. Georgen a.d.Matt|29|CET|481258E|130556N|||||AT||||||1
+BNE|UIC|8102074|8162074|Oberndorf bei Salzburg|Oberndorf bei Salzbu|29|CET|475623N|125639E|||||AT||||||1
+BNE|UIC|8102894|8102894|Siebenbrunn-Leopoldsdorf|Siebenbrunn-Leopolds|29|CET|481444N|164213E|||||AT||||||1
+BNE|UIC|8103009|8103009|Breitenbrunn im Burgenland|Breitenbrunn im Burg|29|CET|475627E|164446N|||||AT||||||1
+BNE|UIC|8103010|8103010|Purbach am Neusiedler See|Purbach am Neusiedle|29|CET|475422E|164155N|||||AT||||||1
+BNE|UIC|8103014|8103014|Schützen am Gebirge Bahnhst.|Schützen am Gebirge|29|CET|475104E|163748N|||||AT||||||1
+BNE|UIC|8103641|8103641|Klagenfurt Ostbahnhof|Klagenfurt Ostbahnho|29|CET|463717E|141918N|||||AT||||||1
+BNE|UIC|8308657|8308657|Colleferro Segni Paliano|Colleferro Segni Pal|29|CET|414424E|130010N|||||IT||||||1
+BNE|UIC|8400404|8400404|Heerlen Woonboulevard|Heerlen Woonboulevar|29|CET|505345E|055708N|||||NL||||||1
+BNE|UIC|8400438|8400438|Hardinxveld Blauwe Zoom|Hardinxveld Blauwe Z|29|CET|514946E|044856N|||||NL||||||1
+BNE|UIC|8400455|8400455|Nieuwerkerk a/d IJssel|Nieuwerkerk a/d IJss|29|CET|515755E|043700N|||||NL||||||1
+BNE|UIC|8501568|8570987|Le Châtelard-Frontière|Le Châtelard-Fronti|17|CET|460313E|065702N|||||CH||||||2
+BNE|UIC|8501754|8501754|Blatten b. Naters, Post|Blatten b. Naters, P|29|CET|462133E|075901N|||||CH||||||2
+BNE|UIC|8506787|8506268|Schwägalp, Säntis-Schwebebahn|Schwägalp, Säntis-|29|CET|471522E|091904N|||||CH||||||2
+BNE|UIC|8507480|8571330|Reichenbach im Kandertal|Reichenbach im Kande|29|CET|463730E|074123N|||||CH||||||2
+BNE|UIC|8101254|8101254|Wien Krottenbachstraße|Wien Krottenbachstra|29|CET|481424E|162026N|||||AT||||||2
+BNE|UIC|8101304|8101304|St. Georgen am Steinfelde|St. Georgen am Stein|29|CET|480815E|153651N|||||AT||||||2
+BNE|UIC|8101305|8101305|Wilhelmsburg a.d.Traisen|Wilhelmsburg a.d.Tra|29|CET|480641E|153630N|||||AT||||||2
+BNE|UIC|8101943|8101943|Obertraun-Koppenbrüllerhöhle|Obertraun-Koppenbrü|29|CET|473351E|134313N|||||AT||||||1
+BNE|UIC|8101946|8101946|Bad Mitterndorf-Heilbrunn|Bad Mitterndorf-Heil|29|CET|473303E|135531N|||||AT||||||1
+BNE|UIC|8102890|8102890|Erzherzog-Karl-Straße|Erzherzog-Karl-Stra|29|CET|481348E|162712N|||||AT||||||1
+BNE|UIC|8103648|8103648|Pörtschach am Wörther See|Pörtschach am Wört|29|CET|463810E|140846N|||||AT||||||1
+BNE|UIC|8304509|8304509|Imperia Porto Maurizio|Imperia Porto Mauriz|29|CET|||||||IT||||||1
+BNE|UIC|8312381|8312381|Caltanissetta Centrale|Caltanissetta Centra|29|CET|372917E|140326N|||||IT||||||1
+BNE|UIC|8506299|8574018|Nesslau-Neu St. Johann|Nesslau-Neu St. Joha|29|CET|471336E|091152N|||||CH||||||2
+BNE|UIC|8507152|8507174|Oberhofen am Thunersee|Oberhofen am Thuners|29|CET|464349N|074002E|||||CH||||||1
+BNE|UIC|8101280|8101280|St. Pölten Traisenpark|St. Pölten Traisenp|29|CET|481314E|153828N|||||AT||||||2
+BNE|UIC|8101928|8101928|Ebensee Landungsplatz|Ebensee Landungsplat|29|CET|474844E|134629N|||||AT||||||1
+BNE|UIC|8102011|8102011|Oberthalheim-Timelkam|Oberthalheim-Timelka|29|CET|480008E|133729N|||||AT||||||2
+BNE|UIC|8102846|8130078|Wien Quartier Belvedere|Wien Quartier Belved|29|CET|481116E|162255N|||||AT||||||1
+BNE|UIC|8102847|8102847|Wien Hbf (Bahnsteige 1-2)|Wien Hbf (Bahnsteige|29|CET|||||||AT||||||1
+BNE|UIC|8102848|81G0013|Matzleinsdorfer Platz|Matzleinsdorfer Plat|29|CET|481050E|162133N|||||AT||||||1
+BNE|UIC|8103491|8103491|Graz Ostbahnhof-Messe|Graz Ostbahnhof-Mess|29|CET|470312E|152653N|||||AT||||||1
+BNE|UIC|8103498|8103498|Takern-St. Margarethen|Takern-St. Margareth|17|CET|470244E|154527N|||||AT||||||1
+BNE|UIC|8300212|8300212|Condove-Chiusa S. Michele|Condove-Chiusa S. Mi|29|CET|450623E|071906N|||||IT||||||2
+BNE|UIC|8300828|8300828|Castagnole delle Lanze|Castagnole delle Lan|29|CET|||||||IT||||||2
+BNE|UIC|8308506|8308506|Guidonia Montecelio-S. Angelo|Guidonia Montecelio-|29|CET|415936E|124332N|||||IT||||||1
+BNE|UIC|8400380|8400380|Den Haag Laan van N.O.I.|Den Haag Laan van N.|29|CET|520444E|042036N|||||NL||||||1
+BNE|UIC|8400389|8400389|Leeuwarden Camminghaburen|Leeuwarden Cammingha|29|CET|531207E|055033N|||||NL||||||1
+BNE|UIC|8400395|8400395|Lichtenvoorde-Groenlo|Lichtenvoorde-Groenl|29|CET|520043E|063547N|||||NL||||||1
+BNE|UIC|8101831|8101831|Scharnstein-Mühldorf|Scharnstein-Mühldor|29|CET|475401E|135731N|||||AT||||||1
+BNE|UIC|8103471|8113471|St. Martin i.S. - Bergla|St. Martin i.S. - Be|29|CET|464453N|151705E|||||AT||||||1
+BNE|UIC|8103487|8103487|Graz Liebenau Murpark|Graz Liebenau Murpar|29|CET|470229N|152749E|||||AT||||||1
+BNE|UIC|8303085|8303085|Montereale Valcellina|Montereale Valcellin|29|CET|460853E|123931N|||||IT||||||1
+BNE|UIC|8308004|8308004|Orbetello-Monte Argentario|Orbetello-Monte Arge|29|CET|422702E|111455N|||||IT||||||1
+BNE|UIC|8308214|8308214|Fara Sabina-Montelibretti|Fara Sabina-Montelib|29|CET|420920E|123854N|||||IT||||||1
+BNE|UIC|8308304|8308304|Viterbo Porta Fiorentina|Viterbo Porta Fioren|29|CET|422531E|120622N|||||IT||||||1
+BNE|UIC|8308512|8308512|Valle dell Aniene-Mandela-Sambuci|Valle dell Aniene-Ma|29|CET|420059E|125522N|||||IT||||||1
+BNE|UIC|8312120|8312120|Castellammare del Golfo|Castellammare del Go|29|CET|380127E|125443N|||||IT||||||1
+BNE|UIC|8312244|8312244|Catenanuova-Centuripe|Catenanuova-Centurip|29|CET|373341E|144120N|||||IT||||||1
+BNE|UIC|8501234|8501234|Château-de-Chillon CGN|Château-de-Chillon |29|CET|462503N|065540E|||||CH||||||1
+BNE|UIC|8101169|8101169|Wörgl Süd-Bruckhäusl|Wörgl Süd-Bruckhä|29|CET|472912E|120632N|||||AT||||||2
+BNE|UIC|8101171|8101171|Salzburg Taxham Europark|Salzburg Taxham Euro|29|CET|474858N|130037E|||||AT||||||1
+BNE|UIC|8103308|8103308|Scheiblingkirchen-Warth|Scheiblingkirchen-Wa|29|CET|473944E|160751N|||||AT||||||1
+BNE|UIC|8103489|8103489|Graz Stadion Liebenau|Graz Stadion Liebena|29|CET|470251N|152713E|||||AT||||||1
+BNE|UIC|8300142|8300142|Chatillon-Saint Vincent|Chatillon-Saint Vinc|29|CET|454437E|073713N|||||IT||||||2
+BNE|UIC|8300204|8300204|Oulx-Cesana-Claviere-Sestriere|Oulx-Cesana-Claviere|29|CET|450215E|064950N|||||IT||||||2
+BNE|UIC|8303202|8303202|Latisana-Lignano-Bibione|Latisana-Lignano-Bib|29|CET|454640E|130004N|||||IT||||||1
+BNE|UIC|8303207|8303207|Cervignano-Aquileia-Grado|Cervignano-Aquileia-|29|CET|454926E|132037N|||||IT||||||1
+BNE|UIC|8307556|8307556|Marino del Tronto-Folignano|Marino del Tronto-Fo|29|CET|425039E|133758N|||||IT||||||1
+BNE|UIC|8307707|8307707|Scafa-S.Valentino-Caramanico T.|Scafa-S.Valentino-Ca|29|CET|421602N|135946E|||||IT||||||1
+BNE|UIC|8307800|8307800|Alba Adriatica-Nereto-Controguerra|Alba Adriatica-Neret|29|CET|425003E|135501N|||||IT||||||1
+BNE|UIC|8312024|8312024|S. Stefano di Camastra-Mistretta|S. Stefano di Camast|29|CET|380102E|142106N|||||IT||||||1
+BNE|UIC|8312027|8312027|S. Agata di Militello|S. Agata di Militell|29|CET|380424E|143826N|||||IT||||||1
+BNE|UIC|8312041|8312041|Barcellona-Castroreale|Barcellona-Castrorea|29|CET|380917E|151203N|||||IT||||||1
+BNE|UIC|8400342|8400342|Hoek van Holland Strand|Hoek van Holland Str|29|CET|||||||NL||||||1
+BNE|UIC|8506043|8506043|Winterthur Wülflingen|Winterthur Wülfling|29|CET|473023E|084050N|||||CH||||||2
+BNE|UIC|8101161|8101161|Kitzbühel Hahnenkamm|Kitzbühel Hahnenkam|29|CET|472636E|122323N|||||AT||||||2
+BNE|UIC|8102651|8102651|Leobendorf-Burg Kreuzenstein|Leobendorf-Burg Kreu|29|CET|482151E|161808N|||||AT||||||1
+BNE|UIC|8102663|8102663|Hetzmannsdorf-Wullersdorf|Hetzmannsdorf-Wuller|29|CET|483701E|160529N|||||AT||||||1
+BNE|UIC|8103246|8103246|Pernitz Raimundviertel|Pernitz Raimundviert|29|CET|475330E|155644N|||||AT||||||1
+BNE|UIC|8103277|8103277|Loipersbach-Schattendorf|Loipersbach-Schatten|29|CET|474202E|162930N|||||AT||||||1
+BNE|UIC|8103325|8103325|St. Johann in der Haide|St. Johann in der Ha|29|CET|471649E|160207N|||||AT||||||1
+BNE|UIC|8299990|82F0001|Any luxemburgian stations|Any luxemburgian sta|33|CET|000000N|000000E|||||LU||||||1
+BNE|UIC|8302666|8302666|S. Dona di Piave-Jesolo|S. Dona di Piave-Jes|29|CET|453823E|123335N|||||IT||||||1
+BNE|UIC|8311863|8311863|Melito di Porto Salvo|Melito di Porto Salv|29|CET|375500E|154653N|||||IT||||||1
+BNE|UIC|8311901|8311901|Spezzano Albanese Terme|Spezzano Albanese Te|29|CET|394242E|161723N|||||IT||||||1
+BNE|UIC|8311909|8311909|Castiglione Cosentino|Castiglione Cosentin|29|CET|392119E|161438N|||||IT||||||1
+BNE|UIC|8311951|8311951|Lamezia Terme-Nicastro|Lamezia Terme-Nicast|29|CET|385801E|161912N|||||IT||||||1
+BNE|UIC|8400325|8400325|Hoek van Holland Haven|Hoek van Holland Hav|29|CET|||||||NL||||||1
+BNE|UIC|8101727|8101727|Obertrattnach-Markt Hofkirchen|Obertrattnach-Markt |29|CET|481445E|134600N|||||AT||||||1
+BNE|UIC|8101737|8101737|Taufkirchen a.d. Pram|Taufkirchen a.d. Pra|29|CET|482424E|133121N|||||AT||||||1
+BNE|UIC|8103232|8103232|Wöllersdorf-Marchgraben|Wöllersdorf-Marchgr|29|CET|475153N|160955E|||||AT||||||1
+BNE|UIC|8103241|8103241|Miesenbach-Waidmannsfeld|Miesenbach-Waidmanns|29|CET|475239E|160019N|||||AT||||||1
+BNE|UIC|8302219|8302219|Lana-Postal Lana-Burgstall|Lana-Postal Lana-Bur|29|CET|463628E|111057N|||||IT||||||1
+BNE|UIC|8302223|8302223|Terlano-Andriano Terlan-Andria|Terlano-Andriano Ter|29|CET|463142E|111455N|||||IT||||||1
+BNE|UIC|8302224|8302224|Settequerce Siebeneich|Settequerce Siebenei|29|CET|463030E|111553N|||||IT||||||1
+BNE|UIC|8302225|8302225|Ponte d Adige Sigmundskron|Ponte d Adige Sigmun|29|CET|462908E|111752N|||||IT||||||1
+BNE|UIC|8307005|8307005|Perugia Ponte S. Giovanni|Perugia Ponte S. Gio|29|CET|430531E|122617N|||||IT||||||1
+BNE|UIC|8307023|8307553|Monsampolo del Tronto|Monsampolo del Tront|29|CET|425253N|134813E|||||IT||||||1
+BNE|UIC|8307102|8307102|Cattolica-S. Giovanni-Gabicce|Cattolica-S. Giovann|29|CET|435735E|124442N|||||IT||||||1
+BNE|UIC|8307309|8307309|Morrovalle-Monte S. Giusto|Morrovalle-Monte S. |29|CET|431645N|133458E|||||IT||||||1
+BNE|UIC|8307505|8307505|Potenza Picena-Montelupone|Potenza Picena-Monte|29|CET|432211N|133533E|||||IT||||||1
+BNE|UIC|8307506|8307506|Civitanova M.-Montegranaro|Civitanova M.-Monteg|29|CET|431832E|134332N|||||IT||||||1
+BNE|UIC|8307508|8307508|Porto S. Giorgio-Fermo|Porto S. Giorgio-Fer|29|CET|431046E|134751N|||||IT||||||1
+BNE|UIC|8307513|8307513|San Benedetto del Tronto|San Benedetto del Tr|29|CET|425715E|135256N|||||IT||||||1
+BNE|UIC|8400301|8400301|Heerenveen IJsstadion|Heerenveen IJsstadio|29|CET|||||||NL||||||1
+BNE|UIC|8505304|8505304|Capolago-Riva S. Vitale|Capolago-Riva S. Vit|29|CET|455410E|085844N|||||CH||||||2
+BNE|UIC|8101671|8101671|Neuhaus-Niederwaldkirchen|Neuhaus-Niederwaldki|29|CET|482631E|140305N|||||AT||||||2
+BNE|UIC|8102557|8102557|Herzogenburg-Wielandsthal|Herzogenburg-Wieland|29|CET|481706E|154125N|||||AT||||||1
+BNE|UIC|8102642|8102642|Wien Brünner Strasse|Wien Brünner Strass|29|CET|481606E|162409N|||||AT||||||1
+BNE|UIC|8103245|8103245|Pernitz Wipfelhofstraße|Pernitz Wipfelhofstr|29|CET|475344E|155805N|||||AT||||||1
+BNE|UIC|8302055|8302055|Domegliara-S. Ambrogio|Domegliara-S. Ambrog|29|CET|453120E|104913N|||||IT||||||1
+BNE|UIC|8302084|8302084|Desenzano del Garda-Sirmione|Desenzano del Garda-|29|CET|452745E|103210N|||||IT||||||1
+BNE|UIC|8306805|8306805|Poggibonsi-S. Gimignano|Poggibonsi-S. Gimign|29|CET|432804E|110858N|||||IT||||||1
+BNE|UIC|8306900|8306900|Firenze Campo di Marte|Firenze Campo di Mar|29|CET|434639E|111635N|||||IT||||||1
+BNE|UIC|8306910|8306910|Montevarchi-Terranuova|Montevarchi-Terranuo|29|CET|433131E|113350N|||||IT||||||1
+BNE|UIC|8311705|8311705|Agropoli-Castellabate|Agropoli-Castellabat|29|CET|402105E|150006N|||||IT||||||1
+BNE|UIC|8311709|8311709|Vallo della Lucania-Castelnuovo|Vallo della Lucania-|29|CET|401346E|150930N|||||IT||||||1
+BNE|UIC|8311727|8311727|Scalea-S. Domenica Talao|Scalea-S. Domenica T|29|CET|394830E|154804N|||||IT||||||1
+BNE|UIC|8311749|8311749|Lamezia Terme Centrale|Lamezia Terme Centra|29|CET|385516E|161521N|||||IT||||||1
+BNE|UIC|8307551|8307551|Offida-Castel di Lama|Offida-Castel di Lam|29|CET|425143N|134312E|||||IT||||||1
+BNE|UIC|8311817|8311817|Mandatoriccio-Campana|Mandatoriccio-Campan|29|CET|393131E|165335N|||||IT||||||1
+BNE|UIC|8600428|8600428|Døstrup Sønderjylland|Døstrup Sønderjyll|29|CET|550702E|084828N|||||DK||||||1
+BNE|UIC|8101110|8101110|Seekirchen am Wallersee|Seekirchen am Waller|29|CET|475357E|130748N|||||AT||||||2
+BNE|UIC|8101724|8101724|Bad Schallerbach-Wallern|Bad Schallerbach-Wal|29|CET|481343E|135520N|||||AT||||||2
+BNE|UIC|8102466|8102466|Königsbrunn-Unterstockstall|Königsbrunn-Unterst|29|CET|||||||AT||||||1
+BNE|UIC|8103162|8103162|Mixnitz-Bärenschützklamm|Mixnitz-Bärenschüt|29|CET|471952E|152137N|||||AT||||||1
+BNE|UIC|8103166|8103166|Peggau-Deutschfeistritz|Peggau-Deutschfeistr|29|CET|471225E|152035N|||||AT||||||1
+BNE|UIC|8103169|8103169|Judendorf-Strassengel|Judendorf-Strassenge|29|CET|470706E|152038N|||||AT||||||1
+BNE|UIC|8103174|8103174|Feldkirchen-Seiersberg|Feldkirchen-Seiersbe|29|CET|470045N|152625E|||||AT||||||1
+BNE|UIC|8103176|8103176|Flughafen Graz-Feldkirchen|Flughafen Graz-Feldk|29|CET|465951E|152658N|||||AT||||||1
+BNE|UIC|8103204|8103204|Wiener Neustadt Civitas Nova|Wiener Neustadt Civi|29|CET|475000E|161519N|||||AT||||||1
+BNE|UIC|8302005|8302005|Colle Isarco Gossensass|Colle Isarco Gossens|29|CET|465616E|112628N|||||IT||||||1
+BNE|UIC|8302007|8302007|Campo di Trens Freienfeld|Campo di Trens Freie|29|CET|465208E|112918N|||||IT||||||1
+BNE|UIC|8302011|8302011|Fortezza Franzensfeste|Fortezza Franzensfes|29|CET|464719E|113636N|||||IT||||||1
+BNE|UIC|8302105|8302105|Casteldarne Ehrenburg|Casteldarne Ehrenbur|29|CET|464751E|115038N|||||IT||||||1
+BNE|UIC|8302110|8302110|Valdaora-Anterselva Olang-Anth|Valdaora-Anterselva |29|CET|464602E|120149N|||||IT||||||1
+BNE|UIC|8302111|8302111|Monguelfo-Valle di Casies Welsb.-G.|Monguelfo-Valle di C|29|CET|464510E|120626N|||||IT||||||1
+BNE|UIC|8302112|8302112|Villabassa-Braies Niederdorf-Prags|Villabassa-Braies Ni|29|CET|464412E|121001N|||||IT||||||1
+BNE|UIC|8306925|8306925|Chiusi-Chianciano Terme|Chiusi-Chianciano Te|29|CET|430008E|115728N|||||IT||||||1
+BNE|UIC|8307001|8307001|Passignano sul Trasimeno|Passignano sul Trasi|29|CET|431116E|120800N|||||IT||||||1
+BNE|UIC|8311501|8311501|Bitetto-Palo del Colle|Bitetto-Palo del Col|29|CET|410244E|164437N|||||IT||||||1
+BNE|UIC|8311504|8311504|Acquaviva delle Fonti|Acquaviva delle Font|29|CET|405334E|165023N|||||IT||||||1
+BNE|UIC|8400217|8400217|Enschede De Eschmarke|Enschede De Eschmark|29|CET|521316E|065703N|||||NL||||||1
+BNE|UIC|8400231|8400231|Amsterdam Holendrecht|Amsterdam Holendrech|29|CET|521753E|045736N|||||NL||||||1
+BNE|UIC|8101088|8101088|Neukirchen bei Lambach|Neukirchen bei Lamba|29|CET|480543E|134955N|||||AT||||||1
+BNE|UIC|8199990|81F0008|Any austrian stations|Any austrian station|33|CET|000000N|000000E|||||AT||||||1
+BNE|UIC|8302020|8302020|Ponte Gardena Waidbruck|Ponte Gardena Waidbr|29|CET|463604E|113157N|||||IT||||||1
+BNE|UIC|8306753|8306753|Volterra-Saline-Pomarance|Volterra-Saline-Poma|29|CET|432137E|104835N|||||IT||||||1
+BNE|UIC|8311205|8311205|Rocchetta S.Antonio-Lacedonia|Rocchetta S.Antonio-|29|CET|410444E|153302N|||||IT||||||1
+BNE|UIC|8311209|8311209|Rionero-Atella-Ripacandida|Rionero-Atella-Ripac|29|CET|405520E|154042N|||||IT||||||1
+BNE|UIC|8311702|8311702|Capaccio-Roccadaspide|Capaccio-Roccadaspid|29|CET|402716N|150048E|||||IT||||||1
+BNE|UIC|8400186|8400186|Dordrecht Stadspolders|Dordrecht Stadspolde|29|CET|514806E|044300N|||||NL||||||1
+BNE|UIC|8400295|8400295|Hardinxveld-Giessendam|Hardinxveld-Giessend|29|CET|514949E|045007N|||||NL||||||1
+BNE|UIC|8101103|8101103|Oberhofen-Zell am Moos|Oberhofen-Zell am Mo|29|CET|475731E|131805N|||||AT||||||2
+BNE|UIC|8101105|8101105|Steindorf bei Strasswalchen|Steindorf bei Strass|29|CET|475800E|131420N|||||AT||||||2
+BNE|UIC|8309618|8309618|Conza-Andretta-Cairano|Conza-Andretta-Caira|29|CET|405259N|152036E|||||IT||||||1
+BNE|UIC|9999GN3|99T0009|Madrid Atocha rail st.|Madrid Atocha rail s|29|CET|000000N|000000E|||||IQ||||||1
+BNE|UIC|9999GN7|99T0013|Madrid Chamartin rail STN|Madrid Chamartin rai|29|CET|000000N|000000E|||||IQ||||||1
+BNE|UIC|9999GN8|99T0014|Sevilla santa justa rail st.|Sevilla santa justa |29|CET|000000N|000000E|||||IQ||||||1

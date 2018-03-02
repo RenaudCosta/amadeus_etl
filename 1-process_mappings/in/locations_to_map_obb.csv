@@ -1,0 +1,608 @@
+ADDRESS	TIME_ZONE	CITY_NAME	STATUS_CODE	PROVINCE_STATE_CODE	COUNTRY_CODE	DAYS_OF_WEEK_OF_OPERATION	DAFAULT_LONG_NAME	DAFAULT_SHORT_NAME	EMAIL	FAX_NUMBER	GENERIC_LOCATION_CODE	LATITUDE	LOCATION_TYPE	LONGITUDE	MINIMUM_CONNECTION_TIME	PHONE_NUMBER	POSTAL_CODE	DATA_OWNER	CODE_VALUE	CODE_CONTEXT
+	CET		1		DE		Berstadt-Bahnhof Wö	Berstadt-Bahnhof Wö				000000N	29	000000E					112413	UIC
+	CET		1		DE		Bahnhof Philippsbur	Bahnhof Philippsbur				491355N	29	082712E					360175	UIC
+	CET		1		DE		Rheinsheim Schule P	Rheinsheim Schule P				491357N	29	082435E					360468	UIC
+	CET		1		DE		Siglinger Straße(SEV	Siglinger Straße(SEV				000000N	29	000000E					361091	UIC
+	CET		1		DE		Gemmingen West	Gemmingen West				490916N	29	085839E					361582	UIC
+	CET		1		DE		Schwaigern West	Schwaigern West				490916N	29	085839E					361583	UIC
+	CET		1		DE		Helmsheim Bahnhof B	Helmsheim Bahnhof B				000000N	29	000000E					361835	UIC
+	CET		1		DE		Bahnhof Rastatt	Bahnhof Rastatt				485138N	29	081255E					361844	UIC
+	CET		1		DE		Burg Alzenau i. UFr	Burg Alzenau i. UFr				000000N	29	000000E					362132	UIC
+	CET		1		DE		Durlach Bahnhof West	Durlach Bahnhof West				490006N	29	082745E					362612	UIC
+	CET		1		DE		Bahnhof Mühlacker	Bahnhof Mühlacker				485710N	29	085045E					363010	UIC
+	CET		1		DE		Achalmstraße Holzge	Achalmstraße Holzge				000000N	29	000000E					363244	UIC
+	CET		1		DE		Enzisweiler Bahnhofs	Enzisweiler Bahnhofs				473351N	29	093955E					364189	UIC
+	CET		1		DE		Herdstelle Ehningen	Herdstelle Ehningen				483938N	29	085710E					364751	UIC
+	CET		1		DE		Kleinvillars Bahnhof	Kleinvillars Bahnhof				000000N	29	000000E					365083	UIC
+	CET		1		DE		Haueneberstein Bahnh	Haueneberstein Bahnh				484724N	29	081128E					365110	UIC
+	CET		1		DE		Bahnhof West Neckar	Bahnhof West Neckar				491436N	29	083907E					366038	UIC
+	CET		1		DE		Busbahnhof Steig 5	Busbahnhof Steig 5				000000N	29	000000E					369155	UIC
+	CET		1		DE		Bahnhof Mühlacker	Bahnhof Mühlacker				485710N	29	085045E					373010	UIC
+	CET		1		DE		Bahnhof Gemmingen	Bahnhof Gemmingen				490904N	29	085909E					374811	UIC
+	CET		1		DE		Forstamt Hinterweid	Forstamt Hinterweid				000000N	29	000000E					402811	UIC
+	CET		1		DE		Kirche Hinterweiden	Kirche Hinterweiden				000000N	29	000000E					402812	UIC
+	CET		1		DE		Bahnhof Offenau	Bahnhof Offenau				491446N	29	090954E					421043	UIC
+	CET		1		DE		Edelfingen Süd Bad	Edelfingen Süd Bad				493047N	29	094435E					421559	UIC
+	CET		1		DE		ZOB Niederstetten	ZOB Niederstetten				000000N	29	000000E					421586	UIC
+	CET		1		DE		Bahnhof Thurnau	Bahnhof Thurnau				500635N	29	112706E					462860	UIC
+	CET		1		DE		Kleinengstingen Rath	Kleinengstingen Rath				000000N	29	000000E					491571	UIC
+	CET		1		DE		Sondernach Schelkli	Sondernach Schelkli				000000N	29	000000E					491745	UIC
+	CET		1		DE		Hütten Schelklingen	Hütten Schelklingen				000000N	29	000000E					491747	UIC
+	CET		1		DE		Teninger Straße Bah	Teninger Straße Bah				000000N	29	000000E					499622	UIC
+	CET		1		DE		Saline Rottweil	Saline Rottweil				480856N	29	083844E					500901	UIC
+	CET		1		DE		Deißlingen Mitte	Deißlingen Mitte				480518N	29	083507E					501194	UIC
+	CET		1		DE		Fützen Ort Blumberg	Fützen Ort Blumberg				000000N	29	000000E					502514	UIC
+	CET		1		DE		Epfenhofen Siedlung	Epfenhofen Siedlung				474915N	29	083252E					502515	UIC
+	CET		1		DE		Randen Sonnenhof Bl	Randen Sonnenhof Bl				000000N	29	000000E					502517	UIC
+	CET		1		DE		Randen Ort Blumberg	Randen Ort Blumberg				475517N	29	083910E					502518	UIC
+	CET		1		DE		Randensteig Blumber	Randensteig Blumber				475002N	29	083346E					502519	UIC
+	CET		1		DE		Baden-Brennet Basler	Baden-Brennet Basler				473451N	29	075438E					502840	UIC
+	CET		1		DE		Waldshut Bahnhofsvor	Waldshut Bahnhofsvor				473716N	29	081309E					504657	UIC
+	CET		1		DE		Ortsmitte Igersheim	Ortsmitte Igersheim				000000N	29	000000E					505677	UIC
+	CET		1		DE		Bahnhof Bundenthal	Bahnhof Bundenthal				490608N	29	074822E					505742	UIC
+	CET		1		DE		Bahnhof Dahn	Bahnhof Dahn				490916N	29	074616E					505809	UIC
+	CET		1		DE		Stadtmitte Dahn	Stadtmitte Dahn				490859N	29	074645E					505814	UIC
+	CET		1		DE		Bahnhof Hinterweide	Bahnhof Hinterweide				000000N	29	000000E					507119	UIC
+	CET		1		DE		Reichenbach Bahnhof	Reichenbach Bahnhof				503739N	29	121732E					509158	UIC
+	CET		1		DE		Alter Friedhof Bruc	Alter Friedhof Bruc				504330N	29	070411E					509365	UIC
+	CET		1		DE		Im Erzfeld Graselle	Im Erzfeld Graselle				000000N	29	000000E					509964	UIC
+	CET		1		DE		Otto-Muck-Straße Br	Otto-Muck-Straße Br				000000N	29	000000E					511008	UIC
+	CET		1		DE		Zollhaus B27 Blumbe	Zollhaus B27 Blumbe				475020N	29	083317E					524975	UIC
+	CET		1		DE		Bahnhof Neukirchen	Bahnhof Neukirchen				510515N	29	123200E					546049	UIC
+	CET		1		DE		Otto-Hahn-Gymnasium	Otto-Hahn-Gymnasium				484050N	29	085955E					555680	UIC
+	CET		1		DE		Mettingen Bahnhof E	Mettingen Bahnhof E				000000N	29	000000E					562198	UIC
+	CET		1		DE		Anderten Hannover	Anderten Hannover				522209N	29	095139E					635114	UIC
+	CET		1		DE		Wiedersbach Bahnhof	Wiedersbach Bahnhof				491745N	29	102633E					681774	UIC
+	CET		1		DE		Wrixum West	Wrixum West				544159N	29	083249E					706387	UIC
+	CET		1		DE		Nebel Klööwenhuuch	Nebel Klööwenhuuch				000000N	29	000000E					706472	UIC
+	CET		1		DE		Heckershausen Mitte	Heckershausen Mitte				512149N	29	092329E					715537	UIC
+	CET		1		DE		Spinnerei Ettlingen	Spinnerei Ettlingen				485545N	29	082702E					720478	UIC
+	CET		1		DE		Huttenheim Kirche P	Huttenheim Kirche P				491148N	29	082757E					721217	UIC
+	CET		1		DE		Huttenheim Philippsb	Huttenheim Philippsb				491355N	29	082712E					721218	UIC
+	CET		1		DE		Steinbach Rebland B	Steinbach Rebland B				484402N	29	080849E					721653	UIC
+	CET		1		DE		Neudorf Polizei Gra	Neudorf Polizei Gra				511821N	29	092700E					721862	UIC
+	CET		1		DE		Messedamm/ZOB Berli	Messedamm/ZOB Berli				523026N	29	131650E					731089	UIC
+	CET		1		DE		Winfriedstr. Berlin	Winfriedstr. Berlin				522616N	29	131612E					731493	UIC
+	CET		1		DE		Rosenthaler Str. Be	Rosenthaler Str. Be				523113N	29	132313E					732838	UIC
+	CET		1		DE		Pasewalker Str./Blan	Pasewalker Str./Blan				000000N	29	000000E					732840	UIC
+	CET		1		DE		Bergfelde Schule Ho	Bergfelde Schule Ho				000000N	29	000000E					733814	UIC
+	CET		1		DE		Schönfließ Kirche M	Schönfließ Kirche M				523921N	29	132020E					733816	UIC
+	CET		1		DE		Hütten Bahnhof Sche	Hütten Bahnhof Sche				492920N	29	114631E					750386	UIC
+	CET		1		DE		Rathaus Gomadingen	Rathaus Gomadingen				000000N	29	00000E					750748	UIC
+	CET		1		DE		Kleinengstingen Frie	Kleinengstingen Frie				000000N	29	000000E					751069	UIC
+	CET		1		DE		Bahnhof Münsingen	Bahnhof Münsingen				482434N	29	092925E					751300	UIC
+	CET		1		DE		Offenhausen Gomadin	Offenhausen Gomadin				482358N	29	092213E					751429	UIC
+	CET		1		DE		Stetten Kirche Schw	Stetten Kirche Schw				000000N	29	000000E					755406	UIC
+	CET		1		DE		Harmonie/Hafenmarktp	Harmonie/Hafenmarktp				000000N	29	000000E					755843	UIC
+	CET		1		DE		Heiligenfeld Industr	Heiligenfeld Industr				000000N	29	000000E					815238	UIC
+	CET		1		DE		ZOB Schrozberg	ZOB Schrozberg				000000N	29	000000E					830557	UIC
+	CET		1		DE		Schulzentrum Möckmü	Schulzentrum Möckmü				491916N	29	092129E					833464	UIC
+	CET		1		DE		Haus des Gastes Dah	Haus des Gastes Dah				000000N	29	000000E					836461	UIC
+	CET		1		DE		Eutingen Rößlestaffe	Eutingen Rößlestaffe				485435N	29	084441E					940214	UIC
+	CET		1		DE		Schulzentrum Haßfur	Schulzentrum Haßfur				500159N	29	103035E					945255	UIC
+	CET		1		DE		Bahnhof Hofheim i.	Bahnhof Hofheim i.				500503N	29	082640E					945272	UIC
+	CET		1		DE		Busbahnhof Oberhof	Busbahnhof Oberhof				504103N	29	104234E					996301	UIC
+	CET		1		DE		Bahnhof Zella-Mehli	Bahnhof Zella-Mehli				503847N	29	104029E					996594	UIC
+	CET		1		RU		Riabovo	Riabovo				000000N	29	000000E					2020601	UIC
+	CET		1		RU		Apetenok	Apetenok				543222N	29	1284124E					2021064	UIC
+	CET		1		RU		Ost.Punkt 162 km	Ost.Punkt 162 km				000000N	29	000000E					2024294	UIC
+	CET		1		RU		Ost.Punkt 217 km	Ost.Punkt 217 km				000000N	29	000000E					2027544	UIC
+	CET		1		RU		Varwnikovskaia	Varwnikovskaia				000000N	29	000000E					2027799	UIC
+	CET		1		RU		Ushaki	Ushaki				593101N	29	305423E					2028600	UIC
+	CET		1		RU		Miasnoi Bor	Miasnoi Bor				584900N	29	312752E					2028671	UIC
+	CET		1		RU		Ijak	Ijak				000000N	29	000000E					2029064	UIC
+	CET		1		RU		Irsa	Irsa				592715N	29	315415E					2031086	UIC
+	CET		1		RU		Pavlovskaia	Pavlovskaia				460730N	29	395011E					2032382	UIC
+	CET		1		RU		Sablino	Sablino				593807N	29	304526E					2036600	UIC
+	CET		1		RU		Tregubovo	Tregubovo				585926N	29	313224E					2046119	UIC
+	CET		1		RU		Abganerowo	Abganerowo				000000N	29	000000E					2070103	UIC
+	CET		1		RU		Suhoe Ozero	Suhoe Ozero				000000N	29	000000E					2082824	UIC
+	CET		1		RU		Habl	Habl				000000N	29	000000E					2090896	UIC
+	CET		1		RU		Korotkoozernyi	Korotkoozernyi				000000N	29	000000E					2092424	UIC
+	CET		1		RU		Briandino	Briandino				000000N	29	000000E					2093800	UIC
+	CET		1		RU		Raz'ezd 64 KM	Raz'ezd 64 KM				000000N	29	000000E					2094832	UIC
+	CET		1		BY		Bigosovo	Bigosovo				555001N	29	274418E					2116170	UIC
+	CET		1		UA		Raz'ezd 5 KM	Raz'ezd 5 KM				000000N	29	000000E					2220368	UIC
+	CET		1		UA		Darnytsia	Darnytsia				502550N	29	303837E					2232000	UIC
+	CET		1		UA		Sviatoshyn	Sviatoshyn				502728N	29	302321E					2232240	UIC
+	CET		1		UA		Larga(Gr)	Larga(Gr)				000000N	29	000000E					2236750	UIC
+	CET		1		UA		Lvov	Lvov				495023N	29	235939E					2250025	UIC
+	CET		1		UA		Ternopol	Ternopol				493313N	29	253602E					2250028	UIC
+	CET		1		UA		Vinnica	Vinnica				491421N	29	283038E					2250036	UIC
+	CET		1		UA		Djankoi	Djankoi				000000N	29	000000E					2250045	UIC
+	CET		1		UA		Podzamche	Podzamche				495104N	29	240210E					2250106	UIC
+	CET		1		UA		Jagodin	Jagodin				511153N	29	235345E					2250124	UIC
+	CET		1		UA		Chernovcy	Chernovcy				481803N	29	255548E					2250149	UIC
+	CET		1		UA		Jitomir	Jitomir				501607N	29	284151E					2250152	UIC
+	CET		1		UA		Luck	Luck				000000N	29	000000E					2250153	UIC
+	CET		1		UA		Rovno	Rovno				503739N	29	261423E					2250154	UIC
+	CET		1		UA		Berdichev	Berdichev				495321N	29	283646E					2250160	UIC
+	CET		1		UA		Ivano-Frankovsk	Ivano-Frankovsk				485531N	29	244324E					2250165	UIC
+	CET		1		UA		Zdolbunov	Zdolbunov				503140N	29	261525E					2250179	UIC
+	CET		1		UA		Grebenka	Grebenka				500718N	29	322559E					2250183	UIC
+	CET		1		UA		Kivercy	Kivercy				504917N	29	252631E					2250188	UIC
+	CET		1		UA		Chernigov	Chernigov				512909N	29	311602E					2250195	UIC
+	CET		1		UA		Nejin	Nejin				510104N	29	315319E					2250196	UIC
+	CET		1		UA		Slobodka	Slobodka				485531N	29	244324E					2250203	UIC
+	CET		1		UA		Kuchurgan	Kuchurgan				464513N	29	300008E					2250216	UIC
+	CET		1		UA		Zernovo	Zernovo				000000N	29	000000E					2250218	UIC
+	CET		1		UA		Herson	Herson				463748N	29	323406E					2250261	UIC
+	CET		1		UA		Kremenchug	Kremenchug				490446N	29	332627E					2250368	UIC
+	CET		1		UA		Mirgorod	Mirgorod				495659N	29	333721E					2250405	UIC
+	CET		1		UA		Priluki	Priluki				503453N	29	322301E					2250456	UIC
+	CET		1		UA		Sambor	Sambor				493100N	29	231243E					2250477	UIC
+	CET		1		UA		Svaliava	Svaliava				483304N	29	225906E					2250517	UIC
+	CET		1		UA		Ujgorod	Ujgorod				483634N	29	221802E					2250542	UIC
+	CET		1		UA		Verhovcevo	Verhovcevo				000000N	29	000000E					2250550	UIC
+	CET		1		UA		Larga	Larga				482552N	29	265101E					2250747	UIC
+	CET		1		UA		Chervonograd	Chervonograd				502348N	29	241344E					2250775	UIC
+	CET		1		UA		Iaremcha	Iaremcha				482656N	29	243309E					2250779	UIC
+	CET		1		UA		Galich	Galich				490812N	29	244356E					2250811	UIC
+	CET		1		UA		Gnidawa	Gnidawa				000000N	29	000000E					2251456	UIC
+	CET		1		UA		Mechetnaia	Mechetnaia				000000N	29	000000E					2280128	UIC
+	CET		1		UA		Persenkovka	Persenkovka				000000N	29	000000E					2281480	UIC
+	CET		1		UA		Snamenka 1	Snamenka 1				000000N	29	000000E					2281771	UIC
+	CET		1		UA		Nikolaevo	Nikolaevo				472006N	29	310618E					2291462	UIC
+	CET		1		KZ		Nikeltau	Nikeltau				000000N	29	000000E					2750683	UIC
+	CET		1		KZ		Khromtau	Khromtau				000000N	29	000000E					2750695	UIC
+	CET		1		KZ		Akkudik 1	Akkudik 1				000000N	29	000000E					2750697	UIC
+	CET		1		KZ		Ajteke Bi	Ajteke Bi				502530N	29	602910E					2750698	UIC
+	CET		1		KZ		Ajke	Ajke				000000N	29	000000E					2750699	UIC
+	CET		1		KZ		Altinsarin	Altinsarin				431335N	29	765146E					2750701	UIC
+	CET		1		KZ		Arka	Arka				494620N	29	730835E					2750702	UIC
+	CET		1		KZ		Lisakovsk	Lisakovsk				523208N	29	622905E					2750706	UIC
+	CET		1		KZ		Aksengir	Aksengir				432027N	29	765656E					2785736	UIC
+	CET		1		PL		Mrozy	Mrozy				520952N	29	214809E					5103987	UIC
+	CET		1		PL		Chotylow	Chotylow				515948N	29	232131E					5104094	UIC
+	CET		1		PL		Swidnik Wschod	Swidnik Wschod				511315N	29	224251E					5105049	UIC
+	CET		1		PL		Boguchwala	Boguchwala				495902N	29	215604E					5108272	UIC
+	CET		1		PL		Strzyzow n. Wisl.	Strzyzow n. Wisl.				000000N	29	000000E					5108278	UIC
+	CET		1		PL		Krosno Miasto	Krosno Miasto				494057N	29	214624E					5108353	UIC
+	CET		1		PL		Sanok Miasto	Sanok Miasto				493323N	29	221152E					5108363	UIC
+	CET		1		PL		Tarnawa Dolna	Tarnawa Dolna				492841N	29	221531E					5108401	UIC
+	CET		1		PL		Czaszyn	Czaszyn				492733N	29	221310E					5108403	UIC
+	CET		1		PL		Morochow	Morochow				493048N	29	221552E					5108404	UIC
+	CET		1		PL		Mokre Malopolskie	Mokre Malopolskie				492648N	29	221004E					5108405	UIC
+	CET		1		PL		Wysoczany	Wysoczany				492609N	29	220903E					5108407	UIC
+	CET		1		PL		Szczawne Kulaszne	Szczawne Kulaszne				492423N	29	220836E					5108408	UIC
+	CET		1		PL		Komancza Letnisko	Komancza Letnisko				492046N	29	220450E					5108411	UIC
+	CET		1		PL		Oslawica	Oslawica				491641N	29	220426E					5108413	UIC
+	CET		1		PL		Radzice	Radzice				503306N	29	224355E					5135146	UIC
+	CET		1		PL		Otmuch≤w Jezioro	Otmuch≤w Jezioro				000000N	29	000000E					5140426	UIC
+	CET		1		PL		Otmuch≤w	Otmuch≤w				502827N	29	170901E					5145120	UIC
+	CET		1		PL		Babiak	Babiak				522112N	29	184011E					5150351	UIC
+	CET		1		PL		Brodnica	Brodnica				000000N	29	000000E					5150401	UIC
+	CET		1		PL		Hrubiesz≤w Miasto	Hrubiesz≤w Miasto				504749N	29	235432E					5151345	UIC
+	CET		1		PL		Inowroclaw Rabinek	Inowroclaw Rabinek				524612N	29	181427E					5151362	UIC
+	CET		1		PL		Leba	Leba				544524N	29	173309E					5151977	UIC
+	CET		1		PL		Piotrkow Kujawski	Piotrkow Kujawski				523215N	29	183110E					5152768	UIC
+	CET		1		PL		Paczk≤w	Paczk≤w				000000N	29	000000E					5153306	UIC
+	CET		1		PL		Werbkowice	Werbkowice				504443N	29	234603E					5153975	UIC
+	CET		1		PL		Doboszowice	Doboszowice				503210N	29	165401E					5171930	UIC
+	CET		1		PL		Goswinowice	Goswinowice				502841N	29	171521E					5180098	UIC
+	CET		1		PL		W≤jcice	W≤jcice				000000N	29	000000E					5180754	UIC
+	CET		1		BG		Harmanli Centrum	Harmanli Centrum				000000N	29	000000E					5264906	UIC
+	CET		1		BG		Iskarsko Shose	Iskarsko Shose				424006N	29	232407E					5266905	UIC
+	CET		1		BG		Podujane Tovarna	Podujane Tovarna				000000N	29	000000E					5285351	UIC
+	CET		1		RO		Campulung	Campulung				451534N	29	250214E					5313514	UIC
+	CET		1		RO		Cobuz	Cobuz				435843N	29	225725E					5365146	UIC
+	CET		1		CZ		Waidhaus(Gr)	Waidhaus(Gr)				000000N	29	000000E					5406141	UIC
+	CET		1		CZ		Zabori u Cicenic	Zabori u Cicenic				000000N	29	000000E					5425906	UIC
+	CET		1		CZ		Brno-Hor.Herspice	Brno-Hor.Herspice				000000N	29	000000E					5433305	UIC
+	CET		1		CZ		Cervenka	Cervenka				000000N	29	000000E					5433312	UIC
+	CET		1		CZ		Brno-Zidenice	Brno-Zidenice				000000N	29	000000E					5433395	UIC
+	CET		1		CZ		Jirikov	Jirikov				000000N	29	000000E					5433520	UIC
+	CET		1		CZ		Lipnik n.B.	Lipnik n.B.				000000N	29	000000E					5434042	UIC
+	CET		1		CZ		Mohelnice	Mohelnice				000000N	29	000000E					5434282	UIC
+	CET		1		CZ		Brno dolni n.	Brno dolni n.				000000N	29	000000E					5438015	UIC
+	CET		1		CZ		Rumburk(Gr)	Rumburk(Gr)				000000N	29	000000E					5450499	UIC
+	CET		1		CZ		Mezimesti(Gr)	Mezimesti(Gr)				000000N	29	000000E					5450720	UIC
+	CET		1		CZ		Praha-Bubny Vlt.	Praha-Bubny Vlt.				000000N	29	000000E					5454136	UIC
+	CET		1		CZ		Praha-Bubny Vltavskß	Praha-Bubny Vltavskß				000000N	29	000000E					5454137	UIC
+	CET		1		CZ		Praha Mas.n.	Praha Mas.n.				000000N	29	000000E					5457236	UIC
+	CET		1		CZ		Bohunice	Bohunice				000000N	29	000000E					5460522	UIC
+	CET		1		CZ		Chvalesovice	Chvalesovice				000000N	29	000000E					5465890	UIC
+	CET		1		CZ		Hradce	Hradce				000000N	29	000000E					5476073	UIC
+	CET		1		CZ		Tyn nad Vltavou	Tyn nad Vltavou				000000N	29	000000E					5480146	UIC
+	CET		1		CZ		Ujezdec u Cicenic	Ujezdec u Cicenic				000000N	29	000000E					5481746	UIC
+	CET		1		CZ		Temelin	Temelin				000000N	29	000000E					5489666	UIC
+	CET		1		CZ		Lhota pod Horami	Lhota pod Horami				000000N	29	000000E					5490210	UIC
+	CET		1		HU		Csorna	Csorna				473606N	29	171456E					5502576	UIC
+	CET		1		HU		Kimle	Kimle				474814N	29	172032E					5550653	UIC
+	CET		1		HU		Homokszentlörinc	Homokszentlörinc				465429N	29	191109E					5551538	UIC
+	CET		1		SK		Dunajska Streda	Dunajska Streda				475935N	29	173631E					5614736	UIC
+	CET		1		SK		Velky Meder	Velky Meder				475140N	29	174653E					5614806	UIC
+	CET		1		SK		Zemianska Olca	Zemianska Olca				474734N	29	175402E					5638786	UIC
+	CET		1		SK		Okoc	Okoc				475140N	29	174653E					5665018	UIC
+	CET		1		SK		Zlatna na Ostrove	Zlatna na Ostrove				474608N	29	180733E					5686786	UIC
+	CET		1		SK		Podunajske Biskupice	Podunajske Biskupice				480752N	29	171314E					5688378	UIC
+	CET		1		DK		Demir Kapija	Demir Kapija				000000N	29	000000E					6595479	UIC
+	CET		1		UK		London S Pancras Int	London S Pancras Int				000000N	29	000000E					6915400	UIC
+	CET		1		GB		London St Pancras	London St Pancras				513153N	29	000734W					7015550	UIC
+	CET		1		ES		Badajoz(fr)	Badajoz(fr)				000000N	29	000000E					7164057	UIC
+	CET		1		ES		Guadalajara-Yebes	Guadalajara-Yebes				403511N	29	030735W					7175593	UIC
+	CET		1		SE		Hyllie stn	Hyllie stn				553347N	29	125836E					7401585	UIC
+	CET		1		SE		Triangeln stn	Triangeln stn				553539N	29	130001E					7401586	UIC
+	CET		1		SE		Hoting	Hoting				640627N	29	161039E					7450067	UIC
+	CET		1		SE		Storuman	Storuman				650546N	29	170643E					7450094	UIC
+	CET		1		TR		Manisa	Manisa				383715N	29	272608E					7550050	UIC
+	CET		1		TR		Pendik	Pendik				405247N	29	291352E					7551609	UIC
+	CET		1		DE		Bonn UN Campus	Bonn UN Campus				504252N	29	070705E					8001091	UIC
+	CET		1		DE		Einbeck Mitte.	Einbeck Mitte.				514906N	29	095226E					8001717	UIC
+	CET		1		DE		Hildbrandsgrün	Hildbrandsgrün				501120N	29	114727E					8002827	UIC
+	CET		1		DE		Railway Germany	Railway Germany				480534N	29	112401E					8004937	UIC
+	CET		1		DE		Schopfheim-Schlatth.	Schopfheim-Schlatth.				000000N	29	000000E					8005426	UIC
+	CET		1		DE		Waidhaus Zubringer	Waidhaus Zubringer				000000N	29	000000E					8006142	UIC
+	CET		1		DE		Enschede	Enschede				000000N	29	000000E					8006828	UIC
+	CET		1		DE		Landgraaf	Landgraaf				000000N	29	000000E					8006829	UIC
+	CET		1		DE		Heerlen	Heerlen				000000N	29	000000E					8006830	UIC
+	CET		1		DE		Amsterdam	Amsterdam				000000N	29	000000E					8006831	UIC
+	CET		1		DE		Sassnitz Fährhafen	Sassnitz Fährhafen				000000N	29	000000E					8012844	UIC
+	CET		1		DE		Oberhof(Thür) Stadt	Oberhof(Thür) Stadt				504103N	29	104234E					8017451	UIC
+	CET		1		DE		Chemnitz TU Campus	Chemnitz TU Campus				505021N	29	125548E					8017479	UIC
+	CET		1		DE		Chemnitz Rosenbergst	Chemnitz Rosenbergst				504925N	29	125534E					8017480	UIC
+	CET		1		DE		Chemnitz Technopark	Chemnitz Technopark				505021N	29	125548E					8017481	UIC
+	CET		1		DE		Bad Pyrmont (TGem)	Bad Pyrmont (TGem)				515828N	29	091619E					8040401	UIC
+	CET		1		DE		Emmerthal (TGem)	Emmerthal (TGem)				000000N	29	000000E					8040402	UIC
+	CET		1		DE		Hameln (TGem)	Hameln (TGem)				520606N	29	092232E					8040403	UIC
+	CET		1		DE		Hessisch Old. (TGem)	Hessisch Old. (TGem)				000000N	29	000000E					8040404	UIC
+	CET		1		DE		Bissendorf (TGem)	Bissendorf (TGem)				000000N	29	000000E					8040408	UIC
+	CET		1		DE		Dissen (TGem)	Dissen (TGem)				000000N	29	000000E					8040409	UIC
+	CET		1		DE		Georgsmarien. (TGem)	Georgsmarien. (TGem)				000000N	29	000000E					8040410	UIC
+	CET		1		DE		Hagen (TGem)	Hagen (TGem)				512146N	29	072738E					8040411	UIC
+	CET		1		DE		Hasbergen (TGem)	Hasbergen (TGem)				521430N	29	075712E					8040412	UIC
+	CET		1		DE		Hilter (TGem)	Hilter (TGem)				000000N	29	000000E					8040413	UIC
+	CET		1		DE		Melle (TGem)	Melle (TGem)				000000N	29	000000E					8040414	UIC
+	CET		1		DE		Rinteln (TGem)	Rinteln (TGem)				521156N	29	090440E					8040415	UIC
+	CET		1		DE		Gießen (TGem)	Gießen (TGem)				000000N	29	000000E					8040416	UIC
+	CET		1		DE		Lollar (TGem)	Lollar (TGem)				000000N	29	000000E					8040417	UIC
+	CET		1		DE		Schwalmstadt (TGem)	Schwalmstadt (TGem)				505437N	29	091108E					8040418	UIC
+	CET		1		DE		Kassel (TGem)	Kassel (TGem)				511846N	29	092651E					8040419	UIC
+	CET		1		DE		Baunatal (TGem)	Baunatal (TGem)				000000N	29	000000E					8040421	UIC
+	CET		1		DE		Espenau (TGem)	Espenau (TGem)				000000N	29	000000E					8040422	UIC
+	CET		1		DE		Grebenstein (TGem)	Grebenstein (TGem)				000000N	29	000000E					8040423	UIC
+	CET		1		DE		Hofgeismar (TGem)	Hofgeismar (TGem)				000000N	29	000000E					8040424	UIC
+	CET		1		DE		Immenhausen (TGem)	Immenhausen (TGem)				000000N	29	000000E					8040425	UIC
+	CET		1		DE		Liebenau (TGem)	Liebenau (TGem)				000000N	29	000000E					8040426	UIC
+	CET		1		DE		Vellmar (TGem)	Vellmar (TGem)				512106N	29	092842E					8040427	UIC
+	CET		1		DE		Aßlar (TGem)	Aßlar (TGem)				000000N	29	000000E					8040428	UIC
+	CET		1		DE		Dillenburg (TGem)	Dillenburg (TGem)				504405N	29	081738E					8040429	UIC
+	CET		1		DE		Ehringshausen (TGem)	Ehringshausen (TGem)				000000N	29	000000E					8040430	UIC
+	CET		1		DE		Haiger (TGem)	Haiger (TGem)				504429N	29	081316E					8040431	UIC
+	CET		1		DE		Herborn (TGem)	Herborn (TGem)				504104N	29	081827E					8040432	UIC
+	CET		1		DE		Sinn (TGem)	Sinn (TGem)				000000N	29	000000E					8040433	UIC
+	CET		1		DE		Wetzlar (TGem)	Wetzlar (TGem)				503356N	29	083014E					8040434	UIC
+	CET		1		DE		Biedenkopf (TGem)	Biedenkopf (TGem)				000000N	29	000000E					8040435	UIC
+	CET		1		DE		Cölbe (TGem)	Cölbe (TGem)				000000N	29	000000E					8040436	UIC
+	CET		1		DE		Dautphetal (TGem)	Dautphetal (TGem)				000000N	29	000000E					8040437	UIC
+	CET		1		DE		Fronhausen (TGem)	Fronhausen (TGem)				504222N	29	084156E					8040438	UIC
+	CET		1		DE		Lahntal (TGem)	Lahntal (TGem)				000000N	29	000000E					8040439	UIC
+	CET		1		DE		Marburg (TGem)	Marburg (TGem)				504908N	29	084628E					8040440	UIC
+	CET		1		DE		Weimar(Lahn) (TGem)	Weimar(Lahn) (TGem)				000000N	29	000000E					8040441	UIC
+	CET		1		DE		Betzdorf (TGem)	Betzdorf (TGem)				000000N	29	000000E					8040443	UIC
+	CET		1		DE		Hamm(Sieg) (TGem)	Hamm(Sieg) (TGem)				000000N	29	000000E					8040445	UIC
+	CET		1		DE		Herdorf (TGem)	Herdorf (TGem)				000000N	29	000000E					8040446	UIC
+	CET		1		DE		Kirchen(Sieg) (TGem)	Kirchen(Sieg) (TGem)				000000N	29	000000E					8040447	UIC
+	CET		1		DE		Wissen (TGem)	Wissen (TGem)				504659N	29	074420E					8040448	UIC
+	CET		1		DE		Borken(Hes.) (TGem)	Borken(Hes.) (TGem)				000000N	29	000000E					8040464	UIC
+	CET		1		DE		Edermünde (TGem)	Edermünde (TGem)				000000N	29	000000E					8040465	UIC
+	CET		1		DE		Felsberg (TGem)	Felsberg (TGem)				510752N	29	092608E					8040466	UIC
+	CET		1		DE		Kirchhain (TGem)	Kirchhain (TGem)				504925N	29	085517E					8040467	UIC
+	CET		1		DE		Neuental (TGem)	Neuental (TGem)				000000N	29	000000E					8040468	UIC
+	CET		1		DE		Neust.(Hes.) (TGem)	Neust.(Hes.) (TGem)				000000N	29	000000E					8040469	UIC
+	CET		1		DE		Stadtallend. (TGem)	Stadtallend. (TGem)				000000N	29	000000E					8040470	UIC
+	CET		1		DE		Wabern (TGem)	Wabern (TGem)				510611N	29	092128E					8040471	UIC
+	CET		1		DE		Venlo(Gem)	Venlo(Gem)				000000N	29	000000E					8040510	UIC
+	CET		1		DE		Landgraaf(Gem)	Landgraaf(Gem)				000000N	29	000000E					8040529	UIC
+	CET		1		DE		Heerlen(Gem)	Heerlen(Gem)				000000N	29	000000E					8040533	UIC
+	CET		1		DE		Kerkrade(Gem)	Kerkrade(Gem)				000000N	29	000000E					8040534	UIC
+	CET		1		DE		Zevenaar(Gem)	Zevenaar(Gem)				000000N	29	000000E					8040554	UIC
+	CET		1		DE		Duiven(TGem)	Duiven(TGem)				000000N	29	000000E					8040555	UIC
+	CET		1		DE		Arnhem(Gem)	Arnhem(Gem)				000000N	29	000000E					8040556	UIC
+	CET		1		DE		Westervoort(TGem)	Westervoort(TGem)				000000N	29	000000E					8040557	UIC
+	CET		1		DE		Enschede(Gem)	Enschede(Gem)				000000N	29	000000E					8040560	UIC
+	CET		1		DE		Leutershausen-Wieder	Leutershausen-Wieder				000000N	29	000000E					8053664	UIC
+	CET		1		DE		Schopfheim-Schlattho	Schopfheim-Schlattho				000000N	29	000000E					8055426	UIC
+	CET		1		DE		Stryck	Stryck				511736N	29	083613E					8055762	UIC
+	CET		1		DE		Großschweidnitz	Großschweidnitz				510557N	29	144018E					8060148	UIC
+	CET		1		DE		Dürrhennersdorf	Dürrhennersdorf				510557N	29	144018E					8061439	UIC
+	CET		1		DE		Oberhof(Thür)	Oberhof(Thür)				504103N	29	104234E					8062525	UIC
+	CET		1		DE		Chemnitz Rosenbergst	Chemnitz Rosenbergst				504925N	29	125534E					8067480	UIC
+	CET		1		DE		Porschdorf (Kr. Pirn	Porschdorf (Kr. Pirn				000000N	29	000000E					8070785	UIC
+	CET		1		DE		Goßdorf-Kohlmühle Wa	Goßdorf-Kohlmühle Wa				505628N	29	140952E					8070799	UIC
+	CET		1		DE		Burkhardtsdorf Spark	Burkhardtsdorf Spark				000000N	29	000000E					8071705	UIC
+	CET		1		DE		Ludwigshafen BASF Sü	Ludwigshafen BASF Sü				492935N	29	082609E					8071795	UIC
+	CET		1		DE		Ellefeld Alte Auerba	Ellefeld Alte Auerba				000000N	29	000000E					8072171	UIC
+	CET		1		DE		Limburg ZOB Nord	Limburg ZOB Nord				502306N	29	080349E					8074108	UIC
+	CET		1		DE		Westerburg Willmenro	Westerburg Willmenro				503328N	29	075802E					8074109	UIC
+	CET		1		DE		Friedrichshafen Löwe	Friedrichshafen Löwe				473910N	29	092824E					8076131	UIC
+	CET		1		DE		Bielefeld-Quelle Alb	Bielefeld-Quelle Alb				000000N	29	000000E					8076133	UIC
+	CET		1		DE		Sassnitz ZOB	Sassnitz ZOB				543059N	29	133823E					8079540	UIC
+	CET		1		DE		Löwenberg Kirche	Löwenberg Kirche				525347N	29	130903E					8079637	UIC
+	CET		1		DE		Dossow Dorfstraße	Dossow Dorfstraße				530718N	29	123142E					8079705	UIC
+	CET		1		DE		Altentreptow ZOB	Altentreptow ZOB				534131N	29	131436E					8079706	UIC
+	CET		1		DE		Blankenfelde Mozartw	Blankenfelde Mozartw				522014N	29	132452E					8079711	UIC
+	CET		1		DE		Bobitz Schule	Bobitz Schule				534806N	29	112130E					8079712	UIC
+	CET		1		DE		Bärenklau Wendemarke	Bärenklau Wendemarke				524300N	29	130852E					8079714	UIC
+	CET		1		DE		Chorin Dorf	Chorin Dorf				525413N	29	135212E					8079715	UIC
+	CET		1		DE		Cottbus-Merzdorf Ind	Cottbus-Merzdorf Ind				000000N	29	000000E					8079716	UIC
+	CET		1		DE		Cottbus-Willmersdorf	Cottbus-Willmersdorf				514824N	29	142236E					8079717	UIC
+	CET		1		DE		Doberschütz B87	Doberschütz B87				512151N	29	124420E					8079718	UIC
+	CET		1		DE		Ducherow Gaststätte	Ducherow Gaststätte				534553N	29	134641E					8079719	UIC
+	CET		1		DE		Eberswalde Busbahnho	Eberswalde Busbahnho				524928N	29	134654E					8079720	UIC
+	CET		1		DE		Elmenhorst Schule	Elmenhorst Schule				541301N	29	130403E					8079721	UIC
+	CET		1		DE		Erkner ZOB	Erkner ZOB				522542N	29	134507E					8079722	UIC
+	CET		1		DE		Falkensee Glienicker	Falkensee Glienicker				523258N	29	130751E					8079723	UIC
+	CET		1		DE		Falkensee ZOB	Falkensee ZOB				000000N	29	000000E					8079724	UIC
+	CET		1		DE		Finkenheerd Lindenst	Finkenheerd Lindenst				000000N	29	000000E					8079725	UIC
+	CET		1		DE		Fretzdorf Dorf	Fretzdorf Dorf				530358N	29	123306E					8079726	UIC
+	CET		1		DE		Fürstenwalde ZOB	Fürstenwalde ZOB				522200N	29	140331E					8079727	UIC
+	CET		1		DE		Gnevkow Wendeschleif	Gnevkow Wendeschleif				000000N	29	000000E					8079728	UIC
+	CET		1		DE		Graal-Müritz Süd	Graal-Müritz Süd				000000N	29	000000E					8079729	UIC
+	CET		1		DE		Groß Lüsewitz Abzwei	Groß Lüsewitz Abzwei				540439N	29	122026E					8079730	UIC
+	CET		1		DE		Hagebök Neubau B105	Hagebök Neubau B105				535738N	29	113656E					8079731	UIC
+	CET		1		DE		Hohen Neuendorf Frie	Hohen Neuendorf Frie				524012N	29	131913E					8079733	UIC
+	CET		1		DE		Hornstorf Neubau	Hornstorf Neubau				535419N	29	113202E					8079734	UIC
+	CET		1		DE		Huckstorf Ort	Huckstorf Ort				535906N	29	120624E					8079735	UIC
+	CET		1		DE		Jatznick Gemeindever	Jatznick Gemeindever				000000N	29	000000E					8079736	UIC
+	CET		1		DE		Jänschwalde Dorf	Jänschwalde Dorf				515038N	29	142657E					8079737	UIC
+	CET		1		DE		Jänschwalde Ost (Bus	Jänschwalde Ost (Bus				515230N	29	143238E					8079738	UIC
+	CET		1		DE		Kalsow Abzweig B105	Kalsow Abzweig B105				535456N	29	113504E					8079739	UIC
+	CET		1		DE		Lalendorf Am Waldran	Lalendorf Am Waldran				534535N	29	122321E					8079740	UIC
+	CET		1		DE		Lancken Dorfstraße	Lancken Dorfstraße				543101N	29	133636E					8079741	UIC
+	CET		1		DE		Lauta Puschkinallee	Lauta Puschkinallee				510225N	29	134353E					8079742	UIC
+	CET		1		DE		Lietzow B96	Lietzow B96				542852N	29	133037E					8079744	UIC
+	CET		1		DE		Lubolz Lübbener Stra	Lubolz Lübbener Stra				515745N	29	134946E					8079745	UIC
+	CET		1		DE		Luckaitztal Buchwäld	Luckaitztal Buchwäld				000000N	29	000000E					8079746	UIC
+	CET		1		DE		Luckaitztal Muckwar	Luckaitztal Muckwar				514417N	29	135846E					8079747	UIC
+	CET		1		DE		Lüssow Ortsmitte	Lüssow Ortsmitte				535020N	29	120831E					8079748	UIC
+	CET		1		DE		Mistorf Ort	Mistorf Ort				535248N	29	120723E					8079749	UIC
+	CET		1		DE		Papendorf Schule	Papendorf Schule				540206N	29	120800E					8079751	UIC
+	CET		1		DE		Parkentin Stegekamp	Parkentin Stegekamp				540455N	29	115840E					8079752	UIC
+	CET		1		DE		Pasewalk Torgelower	Pasewalk Torgelower				000000N	29	000000E					8079753	UIC
+	CET		1		DE		Prora Nord	Prora Nord				542631N	29	133359E					8079754	UIC
+	CET		1		DE		Prora Ost Poststraße	Prora Ost Poststraße				542544N	29	133431E					8079755	UIC
+	CET		1		DE		Prösen Ost B101	Prösen Ost B101				000000N	29	000000E					8079756	UIC
+	CET		1		DE		Pölchow Ort	Pölchow Ort				540039N	29	120716E					8079757	UIC
+	CET		1		DE		Rakow Alte Schule	Rakow Alte Schule				540251N	29	130254E					8079758	UIC
+	CET		1		DE		Rambin(Rügen) Haupts	Rambin(Rügen) Haupts				542116N	29	131216E					8079759	UIC
+	CET		1		DE		Reddelich Gaststätte	Reddelich Gaststätte				540510N	29	115059E					8079760	UIC
+	CET		1		DE		Saarmund Abzweig zum	Saarmund Abzweig zum				521925N	29	130802E					8079764	UIC
+	CET		1		DE		Sandförde Ort	Sandförde Ort				533350N	29	135816E					8079765	UIC
+	CET		1		DE		Seddin Waldstraße	Seddin Waldstraße				521714N	29	125930E					8079767	UIC
+	CET		1		DE		Sponholz Ort	Sponholz Ort				533349N	29	132159E					8079768	UIC
+	CET		1		DE		Sternfeld Ort	Sternfeld Ort				534945N	29	130954E					8079769	UIC
+	CET		1		DE		Stralsund Krankenhau	Stralsund Krankenhau				541815N	29	130238E					8079770	UIC
+	CET		1		DE		Teschow Gaststätte	Teschow Gaststätte				535938N	29	113813E					8079771	UIC
+	CET		1		DE		Uebigau Markt	Uebigau Markt				513541N	29	131801E					8079772	UIC
+	CET		1		DE		Ueckermünde ZOB	Ueckermünde ZOB				534359N	29	140324E					8079773	UIC
+	CET		1		DE		Utzedel Gaststätte	Utzedel Gaststätte				535126N	29	130735E					8079774	UIC
+	CET		1		DE		Walsleben Schule	Walsleben Schule				525628N	29	124008E					8079775	UIC
+	CET		1		DE		Weisen Kreuzung	Weisen Kreuzung				530127N	29	114708E					8079776	UIC
+	CET		1		DE		Neißemünde-Wellmitz	Neißemünde-Wellmitz				520352N	29	144253E					8079777	UIC
+	CET		1		DE		Wiesenau Dorfstraße	Wiesenau Dorfstraße				521350N	29	143530E					8079778	UIC
+	CET		1		DE		Woltersdorf Berliner	Woltersdorf Berliner				520650N	29	131218E					8079779	UIC
+	CET		1		DE		Zarrendorf Mühle	Zarrendorf Mühle				541423N	29	130453E					8079780	UIC
+	CET		1		DE		Ziltendorf Kreuzung	Ziltendorf Kreuzung				521223N	29	143726E					8079781	UIC
+	CET		1		DE		Potsdam Griebnitzsee	Potsdam Griebnitzsee				522341N	29	130742E					8080530	UIC
+	CET		1		DE		Schwante An der Kirc	Schwante An der Kirc				524405N	29	130513E					8081563	UIC
+	CET		1		DE		Lindau Hbf (Bahnhofp	Lindau Hbf (Bahnhofp				473239N	29	094052E					8081962	UIC
+	CET		1		DE		Ribnitz-Damgarten Os	Ribnitz-Damgarten Os				541421N	29	122612E					8087031	UIC
+	CET		1		DE		Martensdorf B105	Martensdorf B105				541803N	29	125548E					8087033	UIC
+	CET		1		DE		Berlin Zoologischer	Berlin Zoologischer				523026N	29	131956E					8089046	UIC
+	CET		1		DE		Berlin Friedrichstra	Berlin Friedrichstra				523113N	29	132313E					8089066	UIC
+	CET		1		DE		Berlin-Mahlsdorf (S)	Berlin-Mahlsdorf (S)				523044N	29	133642E					8089072	UIC
+	CET		1		DE		Berlin-Spandau (S)	Berlin-Spandau (S)				523204N	29	131153E					8089083	UIC
+	CET		1		DE		Berlin-Hohenschönhau	Berlin-Hohenschönhau				000000N	29	000000E					8089117	UIC
+	CET		1		DE		Marquardt Schule	Marquardt Schule				48.152291	29	8.446608					8089143	UIC
+	CET		1		DE		Berlin Charlottenbur	Berlin Charlottenbur				523018N	29	131809E					8089165	UIC
+	CET		1		DE		Erkner (S)	Erkner (S)				522542N	29	134507E					8089181	UIC
+	CET		1		DE		Berlin-Lichtenberg (	Berlin-Lichtenberg (				523033N	29	132949E					8089182	UIC
+	CET		1		DE		Potsdam Hbf (S)	Potsdam Hbf (S)				522330N	29	130359E					8089184	UIC
+	CET		1		DE		Berlin Ostbahnhof (S	Berlin Ostbahnhof (S				523037N	29	132604E					8089185	UIC
+	CET		1		DE		Blankenfelde (S)	Blankenfelde (S)				522015N	29	132456E					8089186	UIC
+	CET		1		DE		Strausberg (S)	Strausberg (S)				523155N	29	135007E					8089187	UIC
+	CET		1		DE		Ahrensfelde (S)	Ahrensfelde (S)				523419N	29	133359E					8089188	UIC
+	CET		1		DE		Berlin-Karow (S)	Berlin-Karow (S)				523652N	29	132808E					8089189	UIC
+	CET		1		DE		Berlin Wannsee (S)	Berlin Wannsee (S)				522517N	29	131045E					8089190	UIC
+	CET		1		DE		Berlin-Karlshorst (S	Berlin-Karlshorst (S				522852N	29	133132E					8089193	UIC
+	CET		1		DE		Oranienburg (S)	Oranienburg (S)				524516N	29	131454E					8089197	UIC
+	CET		1		DE		Bernau (S)	Bernau (S)				000000N	29	000000E					8089205	UIC
+	CET		1		DE		Hennigsdorf (S)	Hennigsdorf (S)				523815N	29	131218E					8089207	UIC
+	CET		1		DE		Neubrandenburg ZOB	Neubrandenburg ZOB				533340N	29	131531E					8089305	UIC
+	CET		1		DE		Hildesheim Gbf	Hildesheim Gbf				520926N	29	095632E					8099501	UIC
+	CET		1		AT		Ledenitzen West	Ledenitzen West				463346N	29	135754E					8102149	UIC
+	CET		1		AT		Baumgarten	Baumgarten				000000N	29	000000E					8150216	UIC
+	CET		1		AT		Hall in Tirol-Thaur	Hall in Tirol-Thaur				471637N	29	112828E					8152105	UIC
+	CET		1		AT		Schärding Bahnhof (V	Schärding Bahnhof (V				482749N	29	132633E					8164001	UIC
+	CET		1		AT		Bludenz Bahnhof (Vor	Bludenz Bahnhof (Vor				470917N	29	094852E					8171002	UIC
+	CET		1		AT		Mauthausen O\ Vormar	Mauthausen O\ Vormar				000000N	29	000000E					8171019	UIC
+	CET		1		AT		Aisthofen Ortsmitte	Aisthofen Ortsmitte				000000N	29	000000E					8171025	UIC
+	CET		1		AT		Perg Hauptplatz	Perg Hauptplatz				000000N	29	000000E					8171031	UIC
+	CET		1		AT		Perg Turnhalle	Perg Turnhalle				481445N	29	143806E					8171032	UIC
+	CET		1		AT		Arbing Bundesstraße	Arbing Bundesstraße				481336N	29	144204E					8171058	UIC
+	CET		1		AT		Baumgartenberg Ortsm	Baumgartenberg Ortsm				000000N	29	000000E					8171061	UIC
+	CET		1		AT		Perg Schulzentrum Ba	Perg Schulzentrum Ba				481428N	29	143814E					8171072	UIC
+	CET		1		AT		Mauthausen O\ Bahnho	Mauthausen O\ Bahnho				481434N	29	143157E					8171116	UIC
+	CET		1		AT		Schwertberg Bahnhof	Schwertberg Bahnhof				481607N	29	143448E					8171122	UIC
+	CET		1		AT		Grein-Bad Kreuzen Ba	Grein-Bad Kreuzen Ba				000000N	29	000000E					8171162	UIC
+	CET		1		AT		Dornach b.Grein Bahn	Dornach b.Grein Bahn				481130N	29	144912E					8171327	UIC
+	CET		1		AT		Saxen Friedhof (B3)	Saxen Friedhof (B3)				000000N	29	000000E					8171333	UIC
+	CET		1		AT		Antiesenhofen Bahnho	Antiesenhofen Bahnho				482050N	29	132407E					8172071	UIC
+	CET		1		AT		St.Georgen am Steinf	St.Georgen am Steinf				000000N	29	000000E					8172178	UIC
+	CET		1		AT		Lochau Bahnhof (Vorp	Lochau Bahnhof (Vorp				000000N	29	000000E					8172262	UIC
+	CET		1		AT		Mürzzuschlag Bahnhof	Mürzzuschlag Bahnhof				473628N	29	154037E					8173207	UIC
+	CET		1		AT		Traisen Markt Bahnhs	Traisen Markt Bahnhs				480223N	29	153641E					8174008	UIC
+	CET		1		AT		Suben Abzw Bahnhof	Suben Abzw Bahnhof				482422N	29	132600E					8174012	UIC
+	CET		1		AT		Lilienfeld Krankenha	Lilienfeld Krankenha				480032N	29	153442E					8174014	UIC
+	CET		1		AT		Hainfeld N\ Bahnhof	Hainfeld N\ Bahnhof				480221N	29	154606E					8174049	UIC
+	CET		1		AT		Traisen Bahnhof (Vor	Traisen Bahnhof (Vor				480223N	29	153641E					8174052	UIC
+	CET		1		AT		Rohrbach/Gölsen Orts	Rohrbach/Gölsen Orts				000000N	29	000000E					8174058	UIC
+	CET		1		AT		Rainfeld/Gölsen Orts	Rainfeld/Gölsen Orts				000000N	29	000000E					8174059	UIC
+	CET		1		AT		Wiesenfeld/Gölsen Ab	Wiesenfeld/Gölsen Ab				000000N	29	000000E					8174063	UIC
+	CET		1		AT		Dietrichshofen Abzw	Dietrichshofen Abzw				482216N	29	132449E					8174194	UIC
+	CET		1		AT		Kledering Bahnhst (K	Kledering Bahnhst (K				480755N	29	162617E					8174251	UIC
+	CET		1		AT		Gopperding Abzw Bahn	Gopperding Abzw Bahn				000000N	29	000000E					8174275	UIC
+	CET		1		AT		Maria Lanzendorf Hau	Maria Lanzendorf Hau				000000N	29	000000E					8174349	UIC
+	CET		1		AT		Losenstein Bahnhst (	Losenstein Bahnhst (				475527N	29	142552E					8175125	UIC
+	CET		1		AT		Oberland O\ Forsterw	Oberland O\ Forsterw				000000N	29	000000E					8175189	UIC
+	CET		1		AT		Kastenreith Bahnhst	Kastenreith Bahnhst				475102N	29	143816E					8175304	UIC
+	CET		1		AT		Krummnußbaum an der	Krummnußbaum an der				481228N	29	150935E					8175346	UIC
+	CET		1		AT		Säusenstein Postamt	Säusenstein Postamt				481123N	29	150657E					8175416	UIC
+	CET		1		AT		Säusenstein Schloss	Säusenstein Schloss				481136N	29	150656E					8175417	UIC
+	CET		1		AT		Pyburg Bahnhst (Bund	Pyburg Bahnhst (Bund				000000N	29	000000E					8175477	UIC
+	CET		1		AT		Ennsdorf Bahnhst (Bu	Ennsdorf Bahnhst (Bu				000000N	29	000000E					8175482	UIC
+	CET		1		AT		Möllersdorf Aspangba	Möllersdorf Aspangba				000000N	29	000000E					8176427	UIC
+	CET		1		AT		Pöndorf Untermühlham	Pöndorf Untermühlham				475912N	29	132121E					8177060	UIC
+	CET		1		AT		Timelkam Bahnhof (Vo	Timelkam Bahnhof (Vo				480027N	29	133544E					8177194	UIC
+	CET		1		AT		Frankenmarkt Bahnhof	Frankenmarkt Bahnhof				475858N	29	132554E					8177207	UIC
+	CET		1		AT		Vöcklamarkt Bahnhof	Vöcklamarkt Bahnhof				475952N	29	132922E					8177289	UIC
+	CET		1		AT		Redl-Zipf Bahnhst (V	Redl-Zipf Bahnhst (V				480134N	29	133053E					8177291	UIC
+	CET		1		AT		Guntramsdorf Kaisera	Guntramsdorf Kaisera				480239N	29	161930E					8178383	UIC
+	CET		1		AT		Wilhelmsburg/Traisen	Wilhelmsburg/Traisen				480641N	29	153630E					8179171	UIC
+	CET		1		AT		Roppen Innbrücke	Roppen Innbrücke				471256N	29	104903E					8179206	UIC
+	CET		1		AT		Wilhelmsburg/Traisen	Wilhelmsburg/Traisen				480641N	29	153630E					8179247	UIC
+	CET		1		AT		Imsterberg Bahnhst (	Imsterberg Bahnhst (				471240N	29	104223E					8179287	UIC
+	CET		1		AT		Wien Grillgasse Bahn	Wien Grillgasse Bahn				481001N	29	162425E					8181038	UIC
+	CET		1		AT		St.Pölten Alpenbahnh	St.Pölten Alpenbahnh				481156N	29	153649E					8182007	UIC
+	CET		1		AT		St.Pölten Mariazelle	St.Pölten Mariazelle				481059N	29	153701E					8182011	UIC
+	CET		1		AT		Hart b.St.Pölten B20	Hart b.St.Pölten B20				480858N	29	153650E					8182179	UIC
+	CET		1		AT		Marktl/Traisen Ort	Marktl/Traisen Ort				480242N	29	154018E					8184011	UIC
+	CET		1		AT		Schrambach Bahnhst (	Schrambach Bahnhst (				480002N	29	153425E					8184015	UIC
+	CET		1		AT		St.Veit/Gölsen Haupt	St.Veit/Gölsen Haupt				480242N	29	154018E					8184061	UIC
+	CET		1		AT		Oberhofen-Zell am Mo	Oberhofen-Zell am Mo				000000N	29	000000E					8187025	UIC
+	CET		1		AT		Laxenburg Leopold-Fi	Laxenburg Leopold-Fi				000000N	29	000000E					8187030	UIC
+	CET		1		AT		Lilienfeld Bahnhof (	Lilienfeld Bahnhof (				480049N	29	153534E					8194050	UIC
+	CET		1		LU		Pfaffenthal-Kirchber	Pfaffenthal-Kirchber				493708N	29	060758E					8250102	UIC
+	CET		1		LU		Pfaffenthal-Kirch	Pfaffenthal-Kirch				000000N	29	000000E					8282102	UIC
+	CET		1		LU		Howald	Howald				493600N	29	060802E					8282250	UIC
+	CET		1		IT		Iselle Trasquera	Iselle Trasquera				461225N	29	081225E					8301952	UIC
+	CET		1		IT		Lison	Lison				000000N	29	000000E					8302663	UIC
+	CET		1		IT		Fossalta di Piave	Fossalta di Piave				453727N	29	123001E					8302667	UIC
+	CET		1		IT		Meolo	Meolo				453647N	29	122714E					8302668	UIC
+	CET		1		IT		Gaggio Porta Est	Gaggio Porta Est				453244N	29	121853E					8302673	UIC
+	CET		1		IT		Basiliano	Basiliano				460046N	29	130632E					8302832	UIC
+	CET		1		IT		Venzone	Venzone				461955N	29	130808E					8303018	UIC
+	CET		1		IT		Tarcento	Tarcento				461233N	29	131147E					8303022	UIC
+	CET		1		IT		Tricesimo-S.Pelag	Tricesimo-S.Pelag				000000N	29	000000E					8303023	UIC
+	CET		1		IT		Buttrio	Buttrio				460044N	29	131946E					8303029	UIC
+	CET		1		IT		Manzano	Manzano				455916N	29	132231E					8303030	UIC
+	CET		1		IT		S.Giovanni Natis.	S.Giovanni Natis.				381259N	29	153804E					8303031	UIC
+	CET		1		IT		Palazzolo Stella	Palazzolo Stella				454812N	29	130501E					8303203	UIC
+	CET		1		IT		Muzzana Turgnano	Muzzana Turgnano				454859N	29	130756E					8303204	UIC
+	CET		1		IT		Trieste A. Ronchi	Trieste A. Ronchi				000000N	29	000000E					8303213	UIC
+	CET		1		IT		Sistiana-Visogl.	Sistiana-Visogl.				454629N	29	133844E					8303312	UIC
+	CET		1		IT		Bivio d'Aurisina	Bivio d'Aurisina				454514N	29	133922E					8303313	UIC
+	CET		1		IT		Villa-Opicina(fr)	Villa-Opicina(fr)				454101N	29	134701E					8303467	UIC
+	CET		1		IT		Imperia	Imperia				435331N	29	080220E					8304523	UIC
+	CET		1		IT		Diano	Diano				435529N	29	080422E					8304524	UIC
+	CET		1		IT		Andora	Andora				435707N	29	080821E					8304525	UIC
+	CET		1		IT		Bonassola	Bonassola				441105N	29	093457E					8304730	UIC
+	CET		1		IT		Savignano Rubic.	Savignano Rubic.				000000N	29	000000E					8305068	UIC
+	CET		1		IT		Pianoro	Pianoro				442250N	29	112027E					8305131	UIC
+	CET		1		IT		Monzuno-Vado	Monzuno-Vado				441920N	29	111543E					8305132	UIC
+	CET		1		IT		Grizzana	Grizzana				441529N	29	111052E					8305133	UIC
+	CET		1		IT		Rastignano	Rastignano				442635N	29	112126E					8305138	UIC
+	CET		1		IT		Collecchio	Collecchio				444519N	29	101244E					8306151	UIC
+	CET		1		IT		Aulla	Aulla				441307N	29	095836E					8306168	UIC
+	CET		1		IT		S. Stefano Magra	S. Stefano Magra				440924N	29	095455E					8306170	UIC
+	CET		1		IT		Altopascio	Altopascio				434902N	29	104021E					8306407	UIC
+	CET		1		IT		Prato P.Serraglio	Prato P.Serraglio				435303N	29	110554E					8306422	UIC
+	CET		1		IT		Pisa S. Rossore	Pisa S. Rossore				434327N	29	102315E					8306501	UIC
+	CET		1		IT		Crespino Lamone	Crespino Lamone				440230N	29	113253E					8306607	UIC
+	CET		1		IT		Brisighella	Brisighella				441313N	29	114611E					8306614	UIC
+	CET		1		IT		Fognano	Fognano				441211N	29	114339E					8306618	UIC
+	CET		1		IT		Montepulciano	Montepulciano				430554N	29	114707E					8306855	UIC
+	CET		1		IT		Castiglion Fior.	Castiglion Fior.				432026N	29	115451E					8306920	UIC
+	CET		1		IT		Ellera-Corciano	Ellera-Corciano				430540N	29	121906E					8307003	UIC
+	CET		1		IT		Bastia	Bastia				430416N	29	123251E					8307007	UIC
+	CET		1		IT		Spello	Spello				425903N	29	124008E					8307010	UIC
+	CET		1		IT		Narni-Amelia	Narni-Amelia				423152N	29	123110E					8307230	UIC
+	CET		1		IT		Marmore	Marmore				423250N	29	124254E					8307401	UIC
+	CET		1		IT		Montesilvano	Montesilvano				423058N	29	140904E					8307808	UIC
+	CET		1		IT		Montalto Castro	Montalto Castro				422004N	29	113542E					8308008	UIC
+	CET		1		IT		Fabro-Ficulle	Fabro-Ficulle				425229N	29	120228E					8308201	UIC
+	CET		1		IT		Alviano	Alviano				423530N	29	121534E					8308206	UIC
+	CET		1		IT		Pietrarsa-S.Giorg	Pietrarsa-S.Giorg				404919N	29	141915E					8309801	UIC
+	CET		1		IT		Cetraro	Cetraro				393045N	29	155621E					8311735	UIC
+	CET		1		IT		Pizzo	Pizzo				384252N	29	160824E					8311753	UIC
+	CET		1		IT		Briatico	Briatico				384330N	29	160131E					8311757	UIC
+	CET		1		IT		Zambrone	Zambrone				384245N	29	155834E					8311758	UIC
+	CET		1		IT		Parghella	Parghella				384059N	29	155530E					8311759	UIC
+	CET		1		IT		Santa Domenica	Santa Domenica				383949N	29	155135E					8311786	UIC
+	CET		2		IT		San Remo	San Remo				434920N	29	074703E					8350182	UIC
+	CET		2		IT		Monte S. Biagio	Monte S. Biagio				412045N	29	132049E					8351663	UIC
+	CET		2		IT		Migiandone Bivio	Migiandone Bivio				455912N	29	082344E					8372058	UIC
+	CET		2		IT		Giave	Giave				402706N	29	084503E					8378609	UIC
+	CET		2		IT		Palermo	Palermo				380635N	29	132201E					8399007	UIC
+	CET		2		NL		Boskoop Snijdelw.	Boskoop Snijdelw.				000000N	29	000000E					8400126	UIC
+	CET		2		NL		Wadd. Triangel	Wadd. Triangel				000000N	29	000000E					8400677	UIC
+	CET		2		NL		Zwolle Stadsh.	Zwolle Stadsh.				523020N	29	060526E					8400746	UIC
+	CET		2		NL		ICE	ICE				520959N	29	042855E					8400900	UIC
+	CET		2		NL		Regional Train	Regional Train				000000N	29	000000E					8400901	UIC
+	CET		2		NL		IC	IC				000000N	29	000000E					8400902	UIC
+	CET		2		NL		Boskoop Snijdelwijk	Boskoop Snijdelwijk				520436N	29	043848E					8450126	UIC
+	CET		2		NL		Zwolle Stadshagen	Zwolle Stadshagen				523140N	29	060303E					8450746	UIC
+	CET		2		CH		Delle(fr)	Delle(fr)				465256N	29	073450E					8500129	UIC
+	CET		2		CH		Gland	Gland				462512N	29	061608E					8501031	UIC
+	CET		2		CH		Geneve-Mt-B (Lac)	Geneve-Mt-B (Lac)				461226N	29	060854E					8501237	UIC
+	CET		2		CH		Vevey-Marche(Lac)	Vevey-Marche(Lac)				462731N	29	065026E					8501248	UIC
+	CET		2		CH		Muenster VS	Muenster VS				462907N	29	081559E					8501665	UIC
+	CET		2		CH		Ambri-Piotta	Ambri-Piotta				463038N	29	084123E					8505202	UIC
+	CET		2		CH		Bodio	Bodio				000000N	29	000000E					8505207	UIC
+	CET		2		CH		Gordola	Gordola				461044N	29	085156E					8505402	UIC
+	CET		2		CH		Quartino	Quartino				460904N	29	085314E					8505405	UIC
+	CET		2		CH		Ranzo-s. Abbondio	Ranzo-s. Abbondio				460701N	29	084635E					8505408	UIC
+	CET		2		CH		Gerra(Gambarogno)	Gerra(Gambarogno)				460719N	29	084705E					8505410	UIC
+	CET		2		CH		Riazzino	Riazzino				461031N	29	085310E					8505412	UIC
+	CET		2		CH		S. Antonino	S. Antonino				000000N	29	000000E					8505415	UIC
+	CET		2		CH		Gunten (See)	Gunten (See)				464244N	29	074201E					8507153	UIC
+	CET		2		CH		Boltigen	Boltigen				463922N	29	072607E					8507292	UIC
+	CET		2		CH		Erlenbach Im Simm	Erlenbach Im Simm				000000N	29	000000E					8507296	UIC
+	CET		2		CH		Lalden	Lalden				461804N	29	075434E					8507470	UIC
+	CET		2		CH		Eggerberg	Eggerberg				461823N	29	075251E					8507471	UIC
+	CET		2		CH		Ausserberg	Ausserberg				461844N	29	075038E					8507472	UIC
+	CET		2		CH		Hohtenn	Hohtenn				461921N	29	074552E					8507473	UIC
+	CET		2		CH		Muelenen	Muelenen				463816N	29	074128E					8507481	UIC
+	CET		2		CH		Wiler (Loetschen)	Wiler (Loetschen)				462439N	29	074627E					8507771	UIC
+	CET		2		CH		Gaggiolo transito	Gaggiolo transito				000000N	29	000000E					8516355	UIC
+	CET		2		CH		Mendrisio S. Mart	Mendrisio S. Mart				000000N	29	000000E					8518475	UIC
+	CET		2		CH		Kriens Alpenstrasse	Kriens Alpenstrasse				470136N	29	081808E					8550524	UIC
+	CET		2		CH		Lantsch/Lenz Biathl	Lantsch/Lenz Biathl				464132N	29	093335E					8557055	UIC
+	CET		2		CH		Eismeer	Eismeer				000000N	29	000000E					8557363	UIC
+	CET		2		CH		Wiler (Lötschen) Tal	Wiler (Lötschen) Tal				462406N	29	074639E					8557500	UIC
+	CET		2		CH		Rohrfluh	Rohrfluh				463618N	29	075514E					8557566	UIC
+	CET		2		CH		Luzern Bahnhof	Luzern Bahnhof				470301N	29	081837E					8558450	UIC
+	CET		2		CH		Aarau Torfeld	Aarau Torfeld				472328N	29	080305E					8569685	UIC
+	CET		2		CH		Luzern Pilatusplatz	Luzern Pilatusplatz				470253N	29	081817E					8573022	UIC
+	CET		2		CH		Luzern Eichhof	Luzern Eichhof				470224N	29	081803E					8573043	UIC
+	CET		2		CH		Kriens Busschleife	Kriens Busschleife				470203N	29	081636E					8580573	UIC
+	CET		2		CH		Ste-Croix La CitΘ	Ste-Croix La CitΘ				000000N	29	000000E					8587790	UIC
+	CET		2		CH		Ste-Croix av. des A	Ste-Croix av. des A				464923N	29	062950E					8587930	UIC
+	CET		2		DK		Stenhus	Stenhus				554235N	29	114053E					8635465	UIC
+	CET		2		FR		St Louis La Chaus	St Louis La Chaus				473526N	29	073320E					8718101	UIC
+	CET		2		FR		Hoenheim Tram	Hoenheim Tram				483740N	29	074531E					8733851	UIC
+	CET		2		FR		Munster Badischhof	Munster Badischhof				480220N	29	070910E					8755346	UIC
+	CET		2		FR		Merignac-Arlac	Merignac-Arlac				444936N	29	003734W					8756494	UIC
+	CET		2		FR		Vaudagne	Vaudagne				455432N	29	064621E					8774672	UIC
+	CET		2		FR		Viaduc Ste Marie	Viaduc Ste Marie				455349N	29	064705E					8774673	UIC
+	CET		2		FR		Taconnaz	Taconnaz				455356N	29	064932E					8774675	UIC
+	CET		2		FR		Les Moussoux	Les Moussoux				455459N	29	065131E					8774681	UIC
+	CET		2		FR		Lajoux	Lajoux				000000N	29	000000E					8774684	UIC
+	CET		2		FR		St-Cergues-l-Voirons	St-Cergues-l-Voirons				000000N	29	000000E					8779665	UIC
+	CET		2		BE		Antwerpen-Centraa	Antwerpen-Centraa				511301N	29	042516E					8821006	UIC
+	CET		2		BE		Antwerpen Centraal (	Antwerpen Centraal (				511301N	29	042516E					8889007	UIC
+	CET		2		BE		Diabolo included	Diabolo included				505349N	29	042903E					8899999	UIC
+	CET		2		DE		Berlin(Übergang)	Berlin(Übergang)				000000N	29	000000E					9000100	UIC
+	CET		2		DE		Ahlbeck	Ahlbeck				000000N	29	000000E					9000102	UIC
+	CET		2		DE		Ückeritz	Ückeritz				000000N	29	000000E					9000105	UIC
+	CET		2		DE		Kölpinsee	Kölpinsee				000000N	29	000000E					9000106	UIC
+	CET		2		DE		Koserow	Koserow				000000N	29	000000E					9000107	UIC
+	CET		2		DE		Zempin	Zempin				000000N	29	000000E					9000108	UIC
+	CET		2		DE		Zinnowitz	Zinnowitz				000000N	29	000000E					9000109	UIC
+	CET		2		FR		Paris Est HGV	Paris Est HGV				000000N	29	000000E					9109001	UIC
+	CET		2		FR		Strasbourg HGV	Strasbourg HGV				000000N	29	000000E					9109002	UIC
+	CET		2		TN		Forbach HGV	Forbach HGV				364741N	29	101049E					9109003	UIC
+	CET		2		FR		Lorraine HGV	Lorraine HGV				000000N	29	000000E					9109004	UIC
+	CET		2		FR		Forbach	Forbach				000000N	29	000000E					9109005	UIC
+	CET		2		PT		Elvas	Elvas				385344N	29	070832W					9457497	UIC

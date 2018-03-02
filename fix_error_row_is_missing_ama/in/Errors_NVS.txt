@@ -1,0 +1,102 @@
+ROW: NVS~UIC~0518358~0518358~Paradeplatz, Mannhei~Paradeplat~29~CET~492915N~082800E~~~~~DE~~~~~~1
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518358
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518278
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0542628
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0542654
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506418
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506735
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0508233
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0508066
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0510426
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0723532
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0720781
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0723599
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0721649
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518145
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0507632
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0510534
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518772
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0720822
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0502072
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0722237
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0723571
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0723573
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0723576
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518232
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518342
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518528
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0510147
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0510424
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506039
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518516
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518425
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506672
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0510376
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506895
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0507896
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0505914
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518079
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0505362
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506098
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0506466
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0508238
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0508951
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0507986
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0518293
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0720703
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0250145
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0570051
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0720701
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FIVE on table=RAIL_LOCATION_PROV, reference table=RAIL_LOCATION_AMA, missing values=GENERIC_LOCATION_CODE=0720702
+ERROR: Reference row is missing, due to foreign key=FOREIGN_KEY_FOUR on table=RAIL_LOCATION_PROV, reference table=RAIL_COUNTRY, missing values=CODE=UK
+ERROR: Validation failed against the datatype
+ROW: NVS~UIC~0518278~0518278~Berliner Platz, Ludw~Berliner P~29~CET~492847N~082702E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0542628~0542628~Mühldorfer, Haidmühl~Mühldorfer~29~CET~484949N~134740E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0542654~0542654~Scherz, Haidmühle~Scherz, Ha~29~CET~484949N~134740E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506418~0506418~Bahnhof, Friedelshei~Bahnhof, F~29~CET~492728N~081329E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506735~0506735~Bahnhof, Gönnheim~Bahnhof, G~29~CET~492729N~081356E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0508233~0508233~Bahnhof, Maxdorf~Bahnhof, M~29~CET~492849N~081737E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0508066~0508066~Lützelsachsen Bergst~Lützelsach~29~CET~493137N~083926E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0510426~0510426~Blumenstraße, Weinhe~Blumenstra~29~CET~493240N~083817E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0723532~0723532~Kullenmühle, Bad Her~Kullenmühl~29~CET~484832N~082638E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0720781~0720781~Neuwiesenreben, Ettl~Neuwiesenr~29~CET~485710N~082401E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0723599~0723599~Ittersbach Industrie~Ittersbach~29~CET~485305N~083032E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0721649~0721649~Langensteinbach St.~Langenstei~29~CET~485434N~082958E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518145~0518145~Bismarckplatz, Heide~Bismarckpl~29~CET~492434N~084134E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0507632~0507632~Käfertal Platz der F~Käfertal P~29~CET~493106N~083218E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0510534~0510534~Wieblingen Mitte, He~Wieblingen~29~CET~492523N~083845E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518772~0518772~Handschuhsheim Hans-~Handschuhs~29~CET~492539N~084059E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0720822~0720822~Fischweier, Karlsbad~Fischweier~29~CET~485317N~082704E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0502072~0502072~Basel Badischer Bahn~Basel Badi~29~CET~473402N~073625E~~~~~CH~~~~~~1
+ROW: NVS~UIC~0722237~0722237~Reichenbach Kurpark,~Reichenbac~29~CET~485507N~082823E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0723571~0723571~Albgaubad, Ettlingen~Albgaubad,~29~CET~485612N~082455E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0723573~0723573~Erbprinz/Schloss, Et~Erbprinz/S~29~CET~485627N~082415E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0723576~0723576~Wasen, Ettlingen~Wasen, Ett~29~CET~485642N~082355E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518232~0518232~Käfertal Bahnhof (RN~Käfertal B~29~CET~493035N~083105E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518342~0518342~Hauptbahnhof, Mannhe~Hauptbahnh~29~CET~492848N~082811E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518528~0518528~Seckenheim OEG-Bahnh~Seckenheim~29~CET~492743N~083410E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0510147~0510147~Bahnhof, Viernheim~Bahnhof, V~29~CET~493207N~083457E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0510424~0510424~Alter OEG-Bahnhof, W~Alter OEG-~29~CET~493255N~083953E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506039~0506039~Edingen Bahnhof, Edi~Edingen Ba~29~CET~492629N~083653E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518516~0518516~Bahnhof, Schriesheim~Bahnhof, S~29~CET~492821N~083935E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518425~0518425~Neuostheim Endstelle~Neuostheim~29~CET~492839N~083122E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506672~0506672~Großsachsen Bahnhof,~Großsachse~29~CET~493051N~083924E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0510376~0510376~Wallstadt Bahnhof, M~Wallstadt ~29~CET~492954N~083259E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506895~0506895~Bahnhof (RNV), Hedde~Bahnhof (R~29~CET~493018N~083541E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0507896~0507896~Leutershausen Bahnho~Leutershau~29~CET~492952N~083923E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0505914~0505914~Bahnhof, Dossenheim~Bahnhof, D~29~CET~492654N~084011E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518079~0518079~Bahnhof, Bad Dürkhei~Bahnhof, B~29~CET~492738N~081015E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0505362~0505362~Bad Dürkheim Ost~Bad Dürkhe~29~CET~492747N~081105E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506098~0506098~Ellerstadt Ost~Ellerstadt Ost~29~CET~492750N~081552E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0506466~0506466~Bahnhof, Fußgönheim~Bahnhof, F~29~CET~492758N~081714E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0508238~0508238~Maxdorf Süd~Maxdorf Süd~29~CET~492834N~081721E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0508951~0508951~Oggersheim Endstelle~Oggersheim~29~CET~492919N~082154E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0507986~0507986~Ruchheim, Ludwigshaf~Ruchheim, ~29~CET~492842N~081937E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0518293~0518293~Hauptbahnhof, Ludwig~Hauptbahnh~29~CET~492845N~082604E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0720703~0720703~Eggenstein Süd, Egge~Eggenstein~29~CET~490416N~082345E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0250145~0250145~Venloer Tor, Straele~Venloer To~29~CET~512154N~061017E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0570051~0570051~Hochdorf Bahnhof (b~Hochdorf B~29~CET~471000N~081721E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0720701~0720701~Eggenstein Schwerine~Eggenstein~29~CET~490508N~082407E~~~~~DE~~~~~~1
+ROW: NVS~UIC~0720702~0720702~Eggenstein Spöcker W~Eggenstein~29~CET~490447N~082358E~~~~~DE~~~~~~1
+ROW: NVS~UIC~6915400~7015550~London S Pancras Int~London S P~29~CET~000000N~000000E~~~~~UK~~~~~~1
+ROW: NVS~UIC~0112413~0112413~Berstadt-Bahnhof Wö~Berstadt-B~29~CET~000000N~000000E~~~~~DE~~~~~~1

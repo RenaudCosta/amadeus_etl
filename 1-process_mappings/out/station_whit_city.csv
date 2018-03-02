@@ -1,0 +1,416 @@
+ADDRESS|TIME_ZONE|CITY_NAME|STATUS_CODE|PROVINCE_STATE_CODE|COUNTRY_CODE|DAYS_OF_WEEK_OF_OPERATION|DEFAULT_LONG_NAME|DEFAULT_SHORT_NAME|EMAIL|FAX_NUMBER|GENERIC_LOCATION_CODE|LATITUDE|LOCATION_TYPE_CODE|LONGITUDE|MINIMUM_CONNECTION_TIME|PHONE_NUMBER|POSTAL_CODE|DATA_OWNER|CODE_VALUE|CODE_CONTEXT
+|CET||||||Klagenfurt|Klagenfurt|||||26||||||1120101|UIC
+|CET||||||Linz|Linz|||||26||||||1140101|UIC
+|CET||||||Salzburg|Salzburg|||||26||||||1150101|UIC
+|CET||||||Leogang|Leogang|||||26||||||1150609|UIC
+|CET||||||Saalfelden|Saalfelden|||||26||||||1150619|UIC
+|CET||||||Graz|Graz|||||26||||||1160100|UIC
+|CET||||||Innsbruck|Innsbruck|||||26||||||1170101|UIC
+|CET||||||ST.JOHANN IN TIROL|ST.JOHANN IN TIROL|||||26||||||1170416|UIC
+|CET||||||Mayrhofen|Mayrhofen|||||26||||||1170920|UIC
+|CET||||||Ried im Zillertal|Ried im Zillertal|||||26||||||1170923|UIC
+|CET||||||STRASS IM ZILLERTAL|STRASS IM ZILLERTAL|||||26||||||1170930|UIC
+|CET||||||Bregenz|Bregenz|||||26||||||1180207|UIC
+|CET||||||Dornbirn|Dornbirn|||||26||||||1180301|UIC
+|CET||||||Hohenems|Hohenems|||||26||||||1180302|UIC
+|CET||||||Vienna|Vienna|||||26||||||1190100|UIC
+|CET||||||Allendorf(Eder) Bf|Allendorf(Eder) Bf|||||29||||||8000493|UIC
+|CET||||||Auerbach(b Mosbach|Auerbach(b Mosbach|||||||||||8000649|UIC
+|CET||||||Battenberg Bf|Battenberg Bf|||||29||||||8000819|UIC
+|CET||||||Battenfeld|Battenfeld|||||29||||||8000820|UIC
+|CET||||||Bonn UN Campus|Bonn UN Campus|||||29||||||8001091|UIC
+|CET||||||Breitscheidt(Altenkirchen|Breitscheidt(Altenkirchen|||||||||||8001153|UIC
+|CET||||||Grub(Oberpf)|Grub(Oberpf)|||||29||||||8002436|UIC
+|CET||||||Kaiserslautern-Hohenecken|Kaiserslautern-Hohenecken|||||29||||||8002943|UIC
+|CET||||||Kiel-Ellerbek|Kiel-Ellerbek|||||29||||||8003259|UIC
+|CET||||||Kiel-Oppendorf|Kiel-Oppendorf|||||29||||||8003260|UIC
+|CET||||||Limbach(b Homburg|Limbach(b Homburg|||||||||||8003684|UIC
+|CET||||||Pogeez|Pogeez|||||29||||||8004850|UIC
+|CET||||||Unterentersbach|Unterentersbach|||||29||||||8007108|UIC
+|CET||||||Heidenau-Gro?sedlitz Pechh?tte|Heidenau-Gro?sedlitz Pechh?tte|||||||||||8007132|UIC
+|CET||||||Morsum|Morsum|||||||||||8007777|UIC
+|CET||||||Gro?schweidnitz|Gro?schweidnitz|||||||||||8010148|UIC
+|CET||||||Karow(Meckl)|Karow(Meckl)|||||29||||||8010188|UIC
+|CET||||||Klostermansfeld Randsiedlung|Klostermansfeld Randsiedlung|||||29||||||8010204|UIC
+|CET||||||Alt Schwerin|Alt Schwerin|||||29||||||8011015|UIC
+|CET||||||Bad Schmiedeberg S?d|Bad Schmiedeberg S?d|||||||||||8011083|UIC
+|CET||||||B?renstein(b Glash?tte|B?renstein(b Glash?tte|||||||||||8011095|UIC
+|CET||||||Biesenrode|Biesenrode|||||29||||||8011187|UIC
+|CET||||||Buschm?hle|Buschm?hle|||||||||||8011301|UIC
+|CET||||||D?rrhennersdorf|D?rrhennersdorf|||||||||||8011439|UIC
+|CET||||||Friesdorf|Friesdorf|||||29||||||8011586|UIC
+|CET||||||Friesdorf Ost|Friesdorf Ost|||||29||||||8011587|UIC
+|CET||||||Gallin|Gallin|||||29||||||8011593|UIC
+|CET||||||Gr?fenstuhl-Klippm?hle|Gr?fenstuhl-Klippm?hle|||||||||||8011685|UIC
+|CET||||||Krakow am See(Meckl)|Krakow am See(Meckl)|||||29||||||8012091|UIC
+|CET||||||Kurort Kipsdorf|Kurort Kipsdorf|||||29||||||8012133|UIC
+|CET||||||L?bz|L?bz|||||||||||8012265|UIC
+|CET||||||Mansfeld(S?dharz)|Mansfeld(S?dharz)|||||||||||8012300|UIC
+|CET||||||Obercarsdorf|Obercarsdorf|||||29||||||8012518|UIC
+|CET||||||Passow(Meckl)|Passow(Meckl)|||||29||||||8012612|UIC
+|CET||||||Pirna-Copitz Nord Heinrich-Heine-Str.|Pirna-Copitz Nord Heinrich-Heine-Str.|||||29||||||8012642|UIC
+|CET||||||Plau am See Bahnhof|Plau am See Bahnhof|||||29||||||8012644|UIC
+|CET||||||Pirna-Copitz Schulstra?e|Pirna-Copitz Schulstra?e|||||||||||8012645|UIC
+|CET||||||Reuth(b Plauen|Reuth(b Plauen|||||||||||8012759|UIC
+|CET||||||Schmiedeberg (Dresden)|Schmiedeberg (Dresden)|||||29||||||8012884|UIC
+|CET||||||Schmiedeberg-Naundorf|Schmiedeberg-Naundorf|||||29||||||8012885|UIC
+|CET||||||Ulberndorf|Ulberndorf|||||29||||||8013167|UIC
+|CET||||||Vatterode|Vatterode|||||29||||||8013182|UIC
+|CET||||||Walddrehna|Walddrehna|||||29||||||8013210|UIC
+|CET||||||Wippra|Wippra|||||29||||||8013319|UIC
+|CET||||||Dresden-Zschachwitz Fritz-Schreiter-Str.|Dresden-Zschachwitz Fritz-Schreiter-Str.|||||29||||||8013446|UIC
+|CET||||||Chemnitz Bernsbachplatz|Chemnitz Bernsbachplatz|||||29||||||8017475|UIC
+|CET||||||Chemnitz Stadlerplatz|Chemnitz Stadlerplatz|||||29||||||8017478|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8030918|UIC
+|CET||||||K?nigswinter|K?nigswinter|||||||||||8070074|UIC
+|CET||||||Reichenbach(Vogtl) Bus|Reichenbach(Vogtl) Bus|||||29||||||8070204|UIC
+|CET||||||Leer(Ostfriesl) ZOB/Bahnhof|Leer(Ostfriesl) ZOB/Bahnhof|||||29||||||8070205|UIC
+|CET||||||Wilthen Pumphut|Wilthen Pumphut|||||29||||||8070211|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8070262|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8070263|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8070264|UIC
+|CET||||||K?nigstein|K?nigstein|||||||||||8070292|UIC
+|CET||||||Kurort Rathen|Kurort Rathen|||||||||||8070293|UIC
+|CET||||||Obervogelgesang|Obervogelgesang|||||||||||8070294|UIC
+|CET||||||Blankenstein(Ruhr) Burg|Blankenstein(Ruhr) Burg|||||29||||||8070327|UIC
+|CET||||||Blankenstein(Ruhr) Haus Kemnade|Blankenstein(Ruhr) Haus Kemnade|||||29||||||8070328|UIC
+|CET||||||Bochum-Dahlhausen EBD|Bochum-Dahlhausen EBD|||||29||||||8070331|UIC
+|CET||||||Bochum-Dahlhausen Eisenbahnmuseum|Bochum-Dahlhausen Eisenbahnmuseum|||||29||||||8070332|UIC
+|CET||||||Hattingen(Ruhr) EBD|Hattingen(Ruhr) EBD|||||29||||||8070427|UIC
+|CET||||||Hattingen(Ruhr) Henrichsh?tte|Hattingen(Ruhr) Henrichsh?tte|||||||||||8070434|UIC
+|CET||||||Herbede|Herbede|||||29||||||8070435|UIC
+|CET||||||Norden KOF|Norden KOF|||||29||||||8070503|UIC
+|CET||||||Ruine Hardenstein Hp|Ruine Hardenstein Hp|||||29||||||8070523|UIC
+|CET||||||Wengern Ost|Wengern Ost|||||29||||||8070571|UIC
+|CET||||||Witten-Bommern Hp|Witten-Bommern Hp|||||29||||||8070576|UIC
+|CET||||||N?rnberg Pl?rrer|N?rnberg Pl?rrer|||||||||||8070724|UIC
+|CET||||||Bonn-Vilich-Rheindorf|Bonn-Vilich-Rheindorf|||||||||||8070748|UIC
+|CET||||||Bonn-Limperich|Bonn-Limperich|||||||||||8070751|UIC
+|CET||||||Bonn-Plittersdorf|Bonn-Plittersdorf|||||||||||8070755|UIC
+|CET||||||Bonn-Ramersdorf|Bonn-Ramersdorf|||||||||||8070772|UIC
+|CET||||||Limbach(Vogtl) Markt|Limbach(Vogtl) Markt|||||29||||||8070845|UIC
+|CET||||||Huttenheim Philippsburger Str.|Huttenheim Philippsburger Str.|||||29||||||8070850|UIC
+|CET||||||Graben-Neudorf Nord Polizei|Graben-Neudorf Nord Polizei|||||29||||||8070888|UIC
+|CET||||||Rheinsheim Schule|Rheinsheim Schule|||||29||||||8070890|UIC
+|CET||||||Huttenheim Kirche|Huttenheim Kirche|||||29||||||8070891|UIC
+|CET||||||Niesky Horkaer Stra?e|Niesky Horkaer Stra?e|||||||||||8070900|UIC
+|CET||||||Plau-Quetzin|Plau-Quetzin|||||29||||||8070944|UIC
+|CET||||||Dannenwalde(Gransee) Kirche|Dannenwalde(Gransee) Kirche|||||29||||||8070962|UIC
+|CET||||||Nassenheide B96/Teerofener Weg|Nassenheide B96/Teerofener Weg|||||29||||||8070967|UIC
+|CET||||||Bochum Hbf (Buddenbergplatz)|Bochum Hbf (Buddenbergplatz)|||||29||||||8070979|UIC
+|CET||||||Rodewisch Busbahnhof|Rodewisch Busbahnhof|||||29||||||8070985|UIC
+|CET||||||Hilgenroth Ortsmitte|Hilgenroth Ortsmitte|||||29||||||8070990|UIC
+|CET||||||Baunach Raiffeisenbank|Baunach Raiffeisenbank|||||29||||||8070993|UIC
+|CET||||||Konstanz|Konstanz|||||||||||8071014|UIC
+|CET||||||Konstanz|Konstanz|||||||||||8071032|UIC
+|CET||||||Hainewalde Gemeindeamt|Hainewalde Gemeindeamt|||||29||||||8071054|UIC
+|CET||||||Lutherstadt Wittenberg Arbeitsamt|Lutherstadt Wittenberg Arbeitsamt|||||29||||||8071055|UIC
+|CET||||||Straach Alte Schule|Straach Alte Schule|||||29||||||8071056|UIC
+|CET||||||L?beck Alexander-Fleming-Stra?e|L?beck Alexander-Fleming-Stra?e|||||||||||8071067|UIC
+|CET||||||Leipzig K-Eisner-/A-Hoffmann-Stra?e|Leipzig K-Eisner-/A-Hoffmann-Stra?e|||||||||||8071073|UIC
+|CET||||||Leipzig Messeverwaltung|Leipzig Messeverwaltung|||||29||||||8071074|UIC
+|CET||||||Leipzig G-Schumann-/Lindenthaler Stra?e|Leipzig G-Schumann-/Lindenthaler Stra?e|||||||||||8071076|UIC
+|CET||||||Hohenthurm M?lbitzer Weg|Hohenthurm M?lbitzer Weg|||||||||||8071078|UIC
+|CET||||||Gosberg Kirche|Gosberg Kirche|||||29||||||8071079|UIC
+|CET||||||Kirchehrenbach Mitte|Kirchehrenbach Mitte|||||29||||||8071080|UIC
+|CET||||||Pinzberg Eichenwaldstra?e|Pinzberg Eichenwaldstra?e|||||||||||8071084|UIC
+|CET||||||Pretzfeld Am Backofen|Pretzfeld Am Backofen|||||29||||||8071085|UIC
+|CET||||||Wiesenthau Bahnhof Ost|Wiesenthau Bahnhof Ost|||||29||||||8071086|UIC
+|CET||||||Dresden-Stetzsch Am Urnenfeld|Dresden-Stetzsch Am Urnenfeld|||||29||||||8071087|UIC
+|CET||||||Lutterberg G?ttinger Stra?e|Lutterberg G?ttinger Stra?e|||||||||||8071092|UIC
+|CET||||||Lutterberg Kirchstra?e|Lutterberg Kirchstra?e|||||||||||8071093|UIC
+|CET||||||Rheinsberg Stechlinsee|Rheinsberg Stechlinsee|||||29||||||8071096|UIC
+|CET||||||Konstanz|Konstanz|||||||||||8071261|UIC
+|CET||||||Muldenh?tten|Muldenh?tten|||||||||||8071312|UIC
+|CET||||||Seifhennersdorf Grenze (Varnsdf)|Seifhennersdorf Grenze (Varnsdf)|||||29||||||8071417|UIC
+|CET||||||Seifhennersdorf Zollstra?e|Seifhennersdorf Zollstra?e|||||||||||8071418|UIC
+|CET||||||Konstanz|Konstanz|||||||||||8071489|UIC
+|CET||||||Dorf Mecklenburg B106|Dorf Mecklenburg B106|||||29||||||8071525|UIC
+|CET||||||Gro?r?ckerswalde Bahnh?usel|Gro?r?ckerswalde Bahnh?usel|||||||||||8071526|UIC
+|CET||||||Niederschmiedeberg Heimatmuseum|Niederschmiedeberg Heimatmuseum|||||29||||||8071527|UIC
+|CET||||||Mehltheuer Leubnitzer Stra?e|Mehltheuer Leubnitzer Stra?e|||||||||||8071528|UIC
+|CET||||||Berzhahn Ortsmitte|Berzhahn Ortsmitte|||||29||||||8071529|UIC
+|CET||||||Willmenrod Ortsmitte|Willmenrod Ortsmitte|||||29||||||8071530|UIC
+|CET||||||Niederzeuzheim Ortsmitte|Niederzeuzheim Ortsmitte|||||29||||||8071532|UIC
+|CET||||||Hadamar Stadtmitte|Hadamar Stadtmitte|||||29||||||8071533|UIC
+|CET||||||Limburg(Lahn) Eisenbahnstra?e|Limburg(Lahn) Eisenbahnstra?e|||||||||||8071534|UIC
+|CET||||||Niederhadamar S?d|Niederhadamar S?d|||||||||||8071535|UIC
+|CET||||||Elz(Limburg/Lahn) Mitte|Elz(Limburg/Lahn) Mitte|||||29||||||8071536|UIC
+|CET||||||Staffel Ost|Staffel Ost|||||29||||||8071537|UIC
+|CET||||||Witten Zeche Nachtigall|Witten Zeche Nachtigall|||||29||||||8071540|UIC
+|CET||||||Neukirch(Lausitz)West Zur dt Eiche|Neukirch(Lausitz)West Zur dt Eiche|||||29||||||8071581|UIC
+|CET||||||Konstanz|Konstanz|||||||||||8071584|UIC
+|CET||||||Zw?nitz Gymnasium|Zw?nitz Gymnasium|||||||||||8071642|UIC
+|CET||||||Hoyerswerda-Neustadt Ziolkowskistra?e|Hoyerswerda-Neustadt Ziolkowskistra?e|||||||||||8071702|UIC
+|CET||||||Putzkau Viadukt|Putzkau Viadukt|||||29||||||8071711|UIC
+|CET||||||Mittelherwigsdorf G?tchen|Mittelherwigsdorf G?tchen|||||||||||8071714|UIC
+|CET||||||Da?litz Kreuzung|Da?litz Kreuzung|||||||||||8071735|UIC
+|CET||||||Brehna Markt|Brehna Markt|||||29||||||8071739|UIC
+|CET||||||Pfaffenhofen Gartenschau T?rltorstra?e|Pfaffenhofen Gartenschau T?rltorstra?e|||||||||||8071743|UIC
+|CET||||||Ebersbrunn Gasthof L?we|Ebersbrunn Gasthof L?we|||||||||||8071753|UIC
+|CET||||||Chemnitz Annenstra?e|Chemnitz Annenstra?e|||||||||||8071804|UIC
+|CET||||||Stollberg(Sachs) Gewerbepark|Stollberg(Sachs) Gewerbepark|||||29||||||8071811|UIC
+|CET||||||Ellefeld Alte Auerbacher Stra?e|Ellefeld Alte Auerbacher Stra?e|||||||||||8072171|UIC
+|CET||||||Niederbobritzsch Goldener L?we|Niederbobritzsch Goldener L?we|||||||||||8072865|UIC
+|CET||||||Wirges Union|Wirges Union|||||29||||||8074344|UIC
+|CET||||||Girod Bus|Girod Bus|||||29||||||8074478|UIC
+|CET||||||Steinefrenz Ort|Steinefrenz Ort|||||29||||||8074479|UIC
+|CET||||||Dreikirchen Hauptstra?e|Dreikirchen Hauptstra?e|||||||||||8074480|UIC
+|CET||||||Niedererbach Bus|Niedererbach Bus|||||29||||||8074481|UIC
+|CET||||||Elz Weberstra?e Ost|Elz Weberstra?e Ost|||||||||||8074482|UIC
+|CET||||||Bremen Hbf ZOB (Breitenweg)|Bremen Hbf ZOB (Breitenweg)|||||29||||||8076130|UIC
+|CET||||||Stolpen Gr?ne Aue|Stolpen Gr?ne Aue|||||||||||8079044|UIC
+|CET||||||Vatter?der Teich|Vatter?der Teich|||||||||||8079152|UIC
+|CET||||||H?rnum|H?rnum|||||||||||8079153|UIC
+|CET||||||H?rnum|H?rnum|||||||||||8079154|UIC
+|CET||||||H?rnum|H?rnum|||||||||||8079155|UIC
+|CET||||||Kampen|Kampen|||||||||||8079156|UIC
+|CET||||||Kampen|Kampen|||||||||||8079157|UIC
+|CET||||||Keitum|Keitum|||||||||||8079158|UIC
+|CET||||||List|List|||||||||||8079160|UIC
+|CET||||||List|List|||||||||||8079162|UIC
+|CET||||||List(Sylt)|List(Sylt)|||||||||||8079163|UIC
+|CET||||||List|List|||||||||||8079164|UIC
+|CET||||||List|List|||||||||||8079165|UIC
+|CET||||||Morsum|Morsum|||||||||||8079166|UIC
+|CET||||||Munkmarsch|Munkmarsch|||||||||||8079168|UIC
+|CET||||||Rantum|Rantum|||||||||||8079171|UIC
+|CET||||||Rantum|Rantum|||||||||||8079172|UIC
+|CET||||||Rantum|Rantum|||||||||||8079173|UIC
+|CET||||||Rantum|Rantum|||||||||||8079174|UIC
+|CET||||||Samoa|Samoa|||||||||||8079175|UIC
+|CET||||||Sylt-Ost|Sylt-Ost|||||||||||8079177|UIC
+|CET||||||Tinnum|Tinnum|||||||||||8079178|UIC
+|CET||||||Tinnum|Tinnum|||||||||||8079179|UIC
+|CET||||||Tinnum|Tinnum|||||||||||8079180|UIC
+|CET||||||Wassertal|Wassertal|||||||||||8079181|UIC
+|CET||||||Wenningstedt|Wenningstedt|||||||||||8079182|UIC
+|CET||||||Westerland|Westerland|||||||||||8079193|UIC
+|CET||||||List|List|||||||||||8079194|UIC
+|CET||||||List|List|||||||||||8079214|UIC
+|CET||||||List|List|||||||||||8079215|UIC
+|CET||||||Keitum|Keitum|||||||||||8079216|UIC
+|CET||||||Sassnitz ZOB|Sassnitz ZOB|||||29||||||8079540|UIC
+|CET||||||L?wenberg Kirche|L?wenberg Kirche|||||||||||8079637|UIC
+|CET||||||Altentreptow ZOB|Altentreptow ZOB|||||29||||||8079706|UIC
+|CET||||||Blankenfelde Mozartweg|Blankenfelde Mozartweg|||||29||||||8079711|UIC
+|CET||||||Bobitz Schule|Bobitz Schule|||||29||||||8079712|UIC
+|CET||||||Chorin Dorf|Chorin Dorf|||||29||||||8079715|UIC
+|CET||||||Cottbus-Merzdorf Industriegel?nde|Cottbus-Merzdorf Industriegel?nde|||||||||||8079716|UIC
+|CET||||||Cottbus-Willmersdorf M?beldorf|Cottbus-Willmersdorf M?beldorf|||||||||||8079717|UIC
+|CET||||||Ducherow Gastst?tte|Ducherow Gastst?tte|||||||||||8079719|UIC
+|CET||||||Erkner ZOB|Erkner ZOB|||||29||||||8079722|UIC
+|CET||||||Falkensee ZOB|Falkensee ZOB|||||29||||||8079724|UIC
+|CET||||||Finkenheerd Lindenstra?e|Finkenheerd Lindenstra?e|||||||||||8079725|UIC
+|CET||||||F?rstenwalde ZOB|F?rstenwalde ZOB|||||||||||8079727|UIC
+|CET||||||Gnevkow Wendeschleife|Gnevkow Wendeschleife|||||29||||||8079728|UIC
+|CET||||||Hageb?k Neubau B105|Hageb?k Neubau B105|||||||||||8079731|UIC
+|CET||||||J?nschwalde Dorf|J?nschwalde Dorf|||||||||||8079737|UIC
+|CET||||||J?nschwalde Ost (Bus)|J?nschwalde Ost (Bus)|||||||||||8079738|UIC
+|CET||||||Kalsow Abzweig B105|Kalsow Abzweig B105|||||29||||||8079739|UIC
+|CET||||||Lietzow B96|Lietzow B96|||||29||||||8079744|UIC
+|CET||||||Prora Nord|Prora Nord|||||29||||||8079754|UIC
+|CET||||||Prora Ost Poststra?e|Prora Ost Poststra?e|||||||||||8079755|UIC
+|CET||||||Rakow Alte Schule|Rakow Alte Schule|||||29||||||8079758|UIC
+|CET||||||Rambin(R?gen) Hauptstra?e|Rambin(R?gen) Hauptstra?e|||||||||||8079759|UIC
+|CET||||||Reddelich Gastst?tte|Reddelich Gastst?tte|||||||||||8079760|UIC
+|CET||||||Sternfeld Ort|Sternfeld Ort|||||29||||||8079769|UIC
+|CET||||||Stralsund Krankenhaus West|Stralsund Krankenhaus West|||||29||||||8079770|UIC
+|CET||||||Teschow Gastst?tte|Teschow Gastst?tte|||||||||||8079771|UIC
+|CET||||||Utzedel Gastst?tte|Utzedel Gastst?tte|||||||||||8079774|UIC
+|CET||||||Nei?em?nde-Wellmitz Bahnhof|Nei?em?nde-Wellmitz Bahnhof|||||||||||8079777|UIC
+|CET||||||Wiesenau Dorfstra?e|Wiesenau Dorfstra?e|||||||||||8079778|UIC
+|CET||||||Ziltendorf Kreuzung|Ziltendorf Kreuzung|||||29||||||8079781|UIC
+|CET||||||Grunow(Nl) Dorf|Grunow(Nl) Dorf|||||29||||||8080981|UIC
+|CET||||||Schwante An der Kirche|Schwante An der Kirche|||||29||||||8081563|UIC
+|CET||||||Rantum|Rantum|||||||||||8084076|UIC
+|CET||||||H?rnum|H?rnum|||||||||||8084079|UIC
+|CET||||||Kampen|Kampen|||||||||||8084102|UIC
+|CET||||||Munkmarsch|Munkmarsch|||||||||||8084104|UIC
+|CET||||||Morsum|Morsum|||||||||||8084105|UIC
+|CET||||||Keitum|Keitum|||||||||||8084106|UIC
+|CET||||||Tinnum|Tinnum|||||||||||8084107|UIC
+|CET||||||Kampen(Sylt)|Kampen(Sylt)|||||||||||8084119|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8084126|UIC
+|CET||||||Westerland(Sylt)|Westerland(Sylt)|||||||||||8084905|UIC
+|CET||||||Nieb?ll|Nieb?ll|||||||||||8085311|UIC
+|CET||||||Dingelst?dt ZOB|Dingelst?dt ZOB|||||||||||8087005|UIC
+|CET||||||Martensdorf B105|Martensdorf B105|||||29||||||8087033|UIC
+|CET||||||Seebach(b M?hl.) Ort|Seebach(b M?hl.) Ort|||||||||||8089141|UIC
+|CET||||||Bad Orb Busbf|Bad Orb Busbf|||||29||||||8089221|UIC
+|CET||||||Neubrandenburg ZOB|Neubrandenburg ZOB|||||29||||||8089305|UIC
+|CET||||||Greifswald ZOB|Greifswald ZOB|||||29||||||8089306|UIC
+|CET||||||Ostseebad Binz Busbf|Ostseebad Binz Busbf|||||29||||||8089308|UIC
+|CET||||||Essen Hbf (ZOB)|Essen Hbf (ZOB)|||||29||||||8089324|UIC
+|CET||||||L?beck ZOB/Hbf|L?beck ZOB/Hbf|||||||||||8089404|UIC
+|CET||||||Oldenburg(Oldb) ZOB (Karlstra?e)|Oldenburg(Oldb) ZOB (Karlstra?e)|||||||||||8089498|UIC
+|CET||||||Halle(Saale)Hbf Gl. 13a|Halle(Saale)Hbf Gl. 13a|||||29||||||8098159|UIC
+|CET||||||K?ln Dom/Hbf (tief)|K?ln Dom/Hbf (tief)|||||||||||8098207|UIC
+|CET||||||Wien Matzleinsdorf (Autoreisezuganlage)|Wien Matzleinsdorf (Autoreisezuganlage)|||||29||||||8100378|UIC
+|CET||||||Th?rl-Maglern  Bahnhof|Th?rl-Maglern  Bahnhof|||||||||||8101675|UIC
+|CET||||||Forst FL|Forst FL|||||||||||8101898|UIC
+|CET||||||Ledenitzen West Bahnhst|Ledenitzen West Bahnhst|||||29||||||8102149|UIC
+|CET||||||Gmunden Schloss Weyer|Gmunden Schloss Weyer|||||29||||||8151847|UIC
+|CET||||||Terme Vigliatore|Terme Vigliatore|||||29||||||8300475|UIC
+|CET||||||Noceto|Noceto|||||29||||||8300735|UIC
+|CET||||||Capo Spartivento|Capo Spartivento|||||29||||||8300837|UIC
+|CET||||||Cervaro|Cervaro|||||29||||||8301026|UIC
+|CET||||||Eccellente|Eccellente|||||29||||||8301064|UIC
+|CET||||||Anzola|Anzola|||||||||||8301069|UIC
+|CET||||||Ardara|Ardara|||||29||||||8301150|UIC
+|CET||||||Calopezzati|Calopezzati|||||29||||||8301418|UIC
+|CET||||||Pabillonis|Pabillonis|||||29||||||8301851|UIC
+|CET||||||Pisa Aeroporto|Pisa Aeroporto|||||29||||||8301855|UIC
+|CET||||||Redipuglia|Redipuglia|||||29||||||8301996|UIC
+|CET||||||Tavernelle d'Emilia|Tavernelle d'Emilia|||||29||||||8302231|UIC
+|CET||||||Torricella|Torricella|||||29||||||8302241|UIC
+|CET||||||Torre Melissa|Torre Melissa|||||29||||||8302260|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8302433|UIC
+|CET||||||Luino|Luino|||||||||||8302435|UIC
+|CET||||||Tirano|Tirano|||||||||||8302436|UIC
+|CET||||||Padova C. Marte|Padova C. Marte|||||29||||||8302650|UIC
+|CET||||||S.Angelo dei Lombardi|S.Angelo dei Lombardi|||||29||||||8302667|UIC
+|CET||||||Gaggiolo|Gaggiolo|||||||||||8302852|UIC
+|CET||||||Varese|Varese|||||||||||8302859|UIC
+|CET||||||Gaggiolo|Gaggiolo|||||||||||8302860|UIC
+|CET||||||Campione|Campione|||||||||||8302918|UIC
+|CET||||||Varese|Varese|||||||||||8303077|UIC
+|CET||||||Varese|Varese|||||||||||8303094|UIC
+|CET||||||Varese|Varese|||||||||||8303102|UIC
+|CET||||||Cantello|Cantello|||||||||||8303263|UIC
+|CET||||||Varese|Varese|||||||||||8303470|UIC
+|CET||||||Meduna di Livenza|Meduna di Livenza|||||||||||8303491|UIC
+|CET||||||Varese|Varese|||||||||||8303785|UIC
+|CET||||||Rodero|Rodero|||||||||||8303786|UIC
+|CET||||||Varese|Varese|||||||||||8303789|UIC
+|CET||||||Varese|Varese|||||||||||8303791|UIC
+|CET||||||Cantello|Cantello|||||||||||8303792|UIC
+|CET||||||Gaggiolo|Gaggiolo|||||||||||8303810|UIC
+|CET||||||Gaggiolo|Gaggiolo|||||||||||8303823|UIC
+|CET||||||Campione|Campione|||||||||||8303829|UIC
+|CET||||||Aosta|Aosta|||||||||||8303927|UIC
+|CET||||||Campione|Campione|||||||||||8303934|UIC
+|CET||||||Campione|Campione|||||||||||8303935|UIC
+|CET||||||Campione|Campione|||||||||||8303936|UIC
+|CET||||||Bormio|Bormio|||||||||||8303942|UIC
+|CET||||||Bormio|Bormio|||||||||||8303943|UIC
+|CET||||||Bormio|Bormio|||||||||||8303944|UIC
+|CET||||||L'Aquila Sassa N.S.I.|L'Aquila Sassa N.S.I.|||||29||||||8307415|UIC
+|CET||||||L'Aquila S.Gregorio|L'Aquila S.Gregorio|||||29||||||8307417|UIC
+|CET||||||Bivio Maddaloni|Bivio Maddaloni|||||29||||||8309214|UIC
+|CET||||||Napoli Afragola|Napoli Afragola|||||29||||||8309988|UIC
+|CET||||||Bari Torre Quetta|Bari Torre Quetta|||||29||||||8311004|UIC
+|CET||||||Manfredonia Ovest|Manfredonia Ovest|||||29||||||8311057|UIC
+|CET||||||Anna(I)|Anna(I)|||||29||||||8311870|UIC
+|CET||||||Ognina|Ognina|||||29||||||8312333|UIC
+|CET||||||Catania|Catania|||||||||||8312335|UIC
+|CET||||||Taufers i.M./Tubre|Taufers i.M./Tubre|||||||||||8319780|UIC
+|CET||||||Malpensa Aeroporto T2|Malpensa Aeroporto T2|||||29||||||8320005|UIC
+|CET||||||Glurns/Glorenza|Glurns/Glorenza|||||||||||8320067|UIC
+|CET||||||Altoggio|Altoggio|||||29||||||8322000|UIC
+|CET||||||Anzola|Anzola|||||29||||||8322002|UIC
+|CET||||||Baceno|Baceno|||||29||||||8322003|UIC
+|CET||||||Beura Cardezza|Beura Cardezza|||||||||||8322004|UIC
+|CET||||||Bognanco|Bognanco|||||||||||8322005|UIC
+|CET||||||Cadarese|Cadarese|||||29||||||8322007|UIC
+|CET||||||Caddo|Caddo|||||29||||||8322008|UIC
+|CET||||||Calice|Calice|||||29||||||8322009|UIC
+|CET||||||Campioli|Campioli|||||29||||||8322010|UIC
+|CET||||||Cascate del Toce|Cascate del Toce|||||29||||||8322011|UIC
+|CET||||||Castiglione|Castiglione|||||29||||||8322012|UIC
+|CET||||||Ceppo Morelli|Ceppo Morelli|||||29||||||8322013|UIC
+|CET||||||Chiesa (Val Formazza)|Chiesa (Val Formazza)|||||29||||||8322014|UIC
+|CET||||||Cosasca di Trontano|Cosasca di Trontano|||||29||||||8322015|UIC
+|CET||||||Crevoladossola|Crevoladossola|||||29||||||8322017|UIC
+|CET||||||Crodo|Crodo|||||||||||8322018|UIC
+|CET||||||Crodo|Crodo|||||||||||8322019|UIC
+|CET||||||Croppo di Trontano|Croppo di Trontano|||||29||||||8322021|UIC
+|CET||||||Crusinallo|Crusinallo|||||||||||8322023|UIC
+|CET||||||Cuzzago|Cuzzago|||||||||||8322024|UIC
+|CET||||||Cuzzego di Cardezza|Cuzzego di Cardezza|||||29||||||8322025|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322026|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322027|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322029|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322030|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322031|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322032|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322033|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322034|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322035|UIC
+|CET||||||Domodossola|Domodossola|||||||||||8322036|UIC
+|CET||||||Fondotoce (ex stab. Gewa)|Fondotoce (ex stab. Gewa)|||||29||||||8322037|UIC
+|CET||||||Fondovalle|Fondovalle|||||29||||||8322038|UIC
+|CET||||||Foppiano|Foppiano|||||29||||||8322039|UIC
+|CET||||||Gabbio|Gabbio|||||29||||||8322040|UIC
+|CET||||||Giosio|Giosio|||||29||||||8322041|UIC
+|CET||||||Gozzi|Gozzi|||||29||||||8322042|UIC
+|CET||||||Gravellona Toce|Gravellona Toce|||||||||||8322043|UIC
+|CET||||||Gravellona Toce|Gravellona Toce|||||||||||8322044|UIC
+|CET||||||Gravellona Toce|Gravellona Toce|||||||||||8322045|UIC
+|CET||||||Macugnaga|Macugnaga|||||||||||8322049|UIC
+|CET||||||Macugnaga|Macugnaga|||||||||||8322050|UIC
+|CET||||||Macugnaga|Macugnaga|||||||||||8322051|UIC
+|CET||||||Macugnaga|Macugnaga|||||||||||8322052|UIC
+|CET||||||Masera|Masera|||||||||||8322055|UIC
+|CET||||||Megolo Mezzo|Megolo Mezzo|||||29||||||8322057|UIC
+|CET||||||Migiandone Bivio|Migiandone Bivio|||||29||||||8322058|UIC
+|CET||||||Miramonti|Miramonti|||||29||||||8322059|UIC
+|CET||||||Mocogna|Mocogna|||||29||||||8322060|UIC
+|CET||||||Molini|Molini|||||29||||||8322061|UIC
+|CET||||||Montecrestese|Montecrestese|||||29||||||8322062|UIC
+|CET||||||Nava|Nava|||||29||||||8322063|UIC
+|CET||||||Naviledo|Naviledo|||||29||||||8322064|UIC
+|CET||||||Oira|Oira|||||29||||||8322065|UIC
+|CET||||||Omegna|Omegna|||||||||||8322066|UIC
+|CET||||||Omegna|Omegna|||||||||||8322067|UIC
+|CET||||||Omegna|Omegna|||||||||||8322068|UIC
+|CET||||||Ornavasso|Ornavasso|||||||||||8322070|UIC
+|CET||||||Pallanza|Pallanza|||||||||||8322072|UIC
+|CET||||||Pallanzeno|Pallanzeno|||||||||||8322073|UIC
+|CET||||||Passo|Passo|||||29||||||8322074|UIC
+|CET||||||Piedilago|Piedilago|||||29||||||8322075|UIC
+|CET||||||Piedimulera|Piedimulera|||||||||||8322076|UIC
+|CET||||||Piedimulera|Piedimulera|||||||||||8322077|UIC
+|CET||||||Pieve Vergonte|Pieve Vergonte|||||||||||8322078|UIC
+|CET||||||Ponte di Crevola|Ponte di Crevola|||||29||||||8322079|UIC
+|CET||||||Ponte Formazza|Ponte Formazza|||||29||||||8322080|UIC
+|CET||||||Pontegrande|Pontegrande|||||29||||||8322081|UIC
+|CET||||||Pontemaglio|Pontemaglio|||||29||||||8322082|UIC
+|CET||||||Pontetto di Montecrestese|Pontetto di Montecrestese|||||29||||||8322083|UIC
+|CET||||||Prata di Vogogna|Prata di Vogogna|||||29||||||8322084|UIC
+|CET||||||Preglia di Crevoladossola|Preglia di Crevoladossola|||||29||||||8322086|UIC
+|CET||||||Premia (IT)|Premia (IT)|||||29||||||8322087|UIC
+|CET||||||Riale di Formezza|Riale di Formezza|||||29||||||8322089|UIC
+|CET||||||Rivasco|Rivasco|||||29||||||8322090|UIC
+|CET||||||Roldo|Roldo|||||29||||||8322091|UIC
+|CET||||||Rumianca|Rumianca|||||29||||||8322092|UIC
+|CET||||||San Carlo|San Carlo|||||29||||||8322093|UIC
+|CET||||||San Lorenzo|San Lorenzo|||||29||||||8322094|UIC
+|CET||||||San Michele|San Michele|||||29||||||8322095|UIC
+|CET||||||San Rocco|San Rocco|||||29||||||8322096|UIC
+|CET||||||Valbianca|Valbianca|||||29||||||8322099|UIC
+|CET||||||Valdo|Valdo|||||29||||||8322100|UIC
+|CET||||||Vanzone|Vanzone|||||29||||||8322101|UIC
+|CET||||||Varzo|Varzo|||||||||||8322102|UIC
+|CET||||||Verbania Intra|Verbania Intra|||||||||||8322103|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322105|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322106|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322109|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322110|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322111|UIC
+|CET||||||Villadossola|Villadossola|||||||||||8322112|UIC
+|CET||||||Vogogna|Vogogna|||||||||||8322113|UIC
+|CET||||||Vogogna/Piedimulera|Vogogna/Piedimulera|||||29||||||8322114|UIC
+|CET||||||Villa di Chiavenna|Villa di Chiavenna|||||||||||8357035|UIC
+|CET||||||Taufers i.M./Tubre|Taufers i.M./Tubre|||||||||||8367746|UIC
+|CET||||||Malpensa Aeroporto|Malpensa Aeroporto|||||||||||8377446|UIC
+|CET||||||Taufers i.M./Tubre|Taufers i.M./Tubre|||||||||||8385249|UIC
+|CET||||||Laatsch/Laudes|Laatsch/Laudes|||||||||||8387429|UIC
+|CET||||||Malles|Malles|||||||||||8388348|UIC
+|CET||||||P.M. Teatino|P.M. Teatino|||||29||||||8390262|UIC
+|CET||||||Taufers i.M./Tubre|Taufers i.M./Tubre|||||||||||8391087|UIC
+|CET||||||Paris Nord|Paris Nord|||||29||||||8700014|UIC
+|CET||||||Budapest-Keleti|Budapest-Keleti|||||29||||||5500003|UIC
+|CET||||||GY?R|GY?R|||||||||||5595509|UIC
+|CET||||||Gy?r-Gyarvaros|Gy?r-Gyarvaros|||||||||||5500585|UIC
+|CET||||||Kelenf?ld|Kelenf?ld|||||||||||5500008|UIC
