@@ -14,21 +14,28 @@ class Translation:
         ### INPUT FILES ###
         file_one = os.path.dirname(os.path.abspath("")) + "/translation_bne/in/rail-location-ama-translation.csv"
         file_two = os.path.dirname(os.path.abspath("")) + "/translation_bne/in/file_with_code_translation.csv"
+        file_provider_bne = os.path.dirname(os.path.abspath("")) + "/translation_bne/in/rail-location-provider-bne.csv"
 
         ### OUTPUT FILES ###
         self.file_with_fix_translation = os.path.dirname(os.path.abspath("")) + "/translation_bne/out/rail-location-ama-with-fix-translation.csv"
         self.file_not_name_match = os.path.dirname(
             os.path.abspath("")) + "/translation_bne/out/list_not_name_match.csv"
+        self.location_prov_update_with_name = os.path.dirname(
+            os.path.abspath("")) + "/translation_bne/out/rail-location-provider-bne.csv"
 
         with open(file_one) as ip:
             self.list_one = [row.split("|") for row in ip]
         with open(file_two) as ip:
             self.list_two = [row.split("|") for row in ip]
+        with open(file_provider_bne) as ip:
+            self.list_provider_bne = [row.split("|") for row in ip]
 
         #self.dic_file_with_code_translation = {}
         self.dic_code_langue = {}
+        self.dic_name_into_translation_list = {}
         self.list_with_fix_translation = []
         self.list_not_name_match = []
+        self.list_location_prov_update_with_name = []
 
         self.list_3_out = []
 
@@ -50,10 +57,17 @@ class Translation:
                                                       " is insert the wrog one ".format(
                         str(file_two))))
                 return
+            self.dic_name_into_translation_list[line[2]] = line[3] #key lond name , value short name
             if index > 4 and index < 13:
                 self.dic_code_langue[line[6]] = line[10].strip()  #format ID and ISO language
-            if index > 13 :
-                break
+            #if index > 13 :
+                #break
+
+        for line in self.list_provider_bne:
+            if line[4].upper() in self.dic_name_into_translation_list:
+                line[5] = self.dic_name_into_translation_list[line[4].upper()]
+                print(line)
+            self.list_location_prov_update_with_name.append(line)
 
         #step for replace the iso language in the first column of the second file ##and build the dic
         for line in self.list_two:
@@ -113,6 +127,9 @@ class Translation:
                 output.write("|".join(i))
         with open(self.file_not_name_match,'w') as output:
             for i in self.list_not_name_match:
+                output.write("|".join(i))
+        with open(self.location_prov_update_with_name,'w') as output:
+            for i in self.list_location_prov_update_with_name:
                 output.write("|".join(i))
 
 if __name__=="__main__":

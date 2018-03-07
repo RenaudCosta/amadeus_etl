@@ -1,0 +1,7 @@
+INFO:root:file_name: input.csv
+INFO:root:append_country: True
+INFO:root:append_station: True
+INFO:root:identifier: 2018_02_02_23_53_39.456500
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): maps.googleapis.com
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Berstadt-Bahnhof+W%C3%B6+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================

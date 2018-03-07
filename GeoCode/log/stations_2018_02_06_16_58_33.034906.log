@@ -1,0 +1,4 @@
+INFO:root:file_name: input.csv
+INFO:root:append_country: True
+INFO:root:append_station: True
+INFO:root:identifier: 2018_02_06_16_58_33.034906

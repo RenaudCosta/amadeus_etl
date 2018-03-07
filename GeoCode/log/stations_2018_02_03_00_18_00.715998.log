@@ -1,0 +1,125 @@
+INFO:root:file_name: input.csv
+INFO:root:append_country: True
+INFO:root:append_station: True
+INFO:root:identifier: 2018_02_03_00_18_00.715998
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): maps.googleapis.com
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Berstadt-Bahnhof+W%C3%B6+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Berstadt-Bahnhof W\xc3\xb6'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Bahnhof+Philippsbur+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 553
+INFO:root:=======================================================
+INFO:root:Station Name: b'Bahnhof Philippsbur'
+INFO:root:Google Output: [{'place_id': 'ChIJY2OdIjOwl0cRRS0Ul9DYM-8', 'partial_match': True, 'formatted_address': '76661 Philippsburg, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.454818880291503, 'lat': 49.2334506802915}, 'southwest': {'lng': 8.452120919708499, 'lat': 49.23075271970851}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.4534699, 'lat': 49.2321017}}, 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['locality', 'political'], 'long_name': 'Philippsburg', 'short_name': 'Philippsburg'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'Karlsruhe'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['postal_code'], 'long_name': '76661', 'short_name': '76661'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.2321017, Lng - 8.4534699
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Rheinsheim+Schule+P+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 584
+INFO:root:=======================================================
+INFO:root:Station Name: b'Rheinsheim Schule P'
+INFO:root:Google Output: [{'place_id': 'ChIJJcjchfCxl0cRHfpAGOYA2OQ', 'partial_match': True, 'formatted_address': '76661 Philippsburg, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.411266280291501, 'lat': 49.2338623802915}, 'southwest': {'lng': 8.408568319708497, 'lat': 49.2311644197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.4099173, 'lat': 49.23251339999999}}, 'types': ['bus_station', 'establishment', 'point_of_interest', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Rheinsheim', 'short_name': 'Rheinsheim'}, {'types': ['locality', 'political'], 'long_name': 'Philippsburg', 'short_name': 'Philippsburg'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'Karlsruhe'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['postal_code'], 'long_name': '76661', 'short_name': '76661'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['bus_station', 'establishment', 'point_of_interest', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.23251339999999, Lng - 8.4099173
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Siglinger+Stra%C3%9Fe%28SEV+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Siglinger Stra\xc3\x9fe(SEV'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Gemmingen+West+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 581
+INFO:root:=======================================================
+INFO:root:Station Name: b'Gemmingen West'
+INFO:root:Google Output: [{'formatted_address': 'Alter Eppinger Weg 13, 75050 Gemmingen, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.978876380291501, 'lat': 49.1559002802915}, 'southwest': {'lng': 8.976178419708496, 'lat': 49.1532023197085}}, 'location_type': 'ROOFTOP', 'location': {'lng': 8.9775274, 'lat': 49.15455129999999}}, 'place_id': 'ChIJj4g3lMOFl0cRrqTZJ8WKL8E', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['street_number'], 'long_name': '13', 'short_name': '13'}, {'types': ['route'], 'long_name': 'Alter Eppinger Weg', 'short_name': 'Alter Eppinger Weg'}, {'types': ['locality', 'political'], 'long_name': 'Gemmingen', 'short_name': 'Gemmingen'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Heilbronn', 'short_name': 'Heilbronn'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Stuttgart', 'short_name': 'Süd'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['postal_code'], 'long_name': '75050', 'short_name': '75050'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.15455129999999, Lng - 8.9775274
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Schwaigern+West+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 581
+INFO:root:=======================================================
+INFO:root:Station Name: b'Schwaigern West'
+INFO:root:Google Output: [{'formatted_address': 'Alter Eppinger Weg 13, 75050 Gemmingen, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.978876380291501, 'lat': 49.1559002802915}, 'southwest': {'lng': 8.976178419708496, 'lat': 49.1532023197085}}, 'location_type': 'ROOFTOP', 'location': {'lng': 8.9775274, 'lat': 49.15455129999999}}, 'place_id': 'ChIJj4g3lMOFl0cRrqTZJ8WKL8E', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['street_number'], 'long_name': '13', 'short_name': '13'}, {'types': ['route'], 'long_name': 'Alter Eppinger Weg', 'short_name': 'Alter Eppinger Weg'}, {'types': ['locality', 'political'], 'long_name': 'Gemmingen', 'short_name': 'Gemmingen'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Heilbronn', 'short_name': 'Heilbronn'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Stuttgart', 'short_name': 'Süd'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['postal_code'], 'long_name': '75050', 'short_name': '75050'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.15455129999999, Lng - 8.9775274
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Helmsheim+Bahnhof+B+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Helmsheim Bahnhof B'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Bahnhof+Rastatt+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 563
+INFO:root:=======================================================
+INFO:root:Station Name: b'Bahnhof Rastatt'
+INFO:root:Google Output: [{'formatted_address': 'Bahnhofstraße 56, 76437 Rastatt, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.216633980291503, 'lat': 48.86217388029149}, 'southwest': {'lng': 8.213936019708498, 'lat': 48.85947591970849}}, 'location_type': 'ROOFTOP', 'location': {'lng': 8.215285, 'lat': 48.8608249}}, 'place_id': 'ChIJAfPUuaIdl0cRVhdBVABViuU', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['street_number'], 'long_name': '56', 'short_name': '56'}, {'types': ['route'], 'long_name': 'Bahnhofstraße', 'short_name': 'Bahnhofstraße'}, {'types': ['locality', 'political'], 'long_name': 'Rastatt', 'short_name': 'Rastatt'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Rastatt', 'short_name': 'RA'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['postal_code'], 'long_name': '76437', 'short_name': '76437'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 48.8608249, Lng - 8.215285
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Burg+Alzenau+i.+UFr+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Burg Alzenau i. UFr'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Durlach+Bahnhof+West+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 707
+INFO:root:=======================================================
+INFO:root:Station Name: b'Durlach Bahnhof West'
+INFO:root:Google Output: [{'formatted_address': '76227 Karlsruhe, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.463896480291503, 'lat': 49.0031177802915}, 'southwest': {'lng': 8.461198519708498, 'lat': 49.0004198197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.4625475, 'lat': 49.0017688}}, 'place_id': 'ChIJyTfeAO0Il0cRWJyN--_Pp50', 'types': ['bus_station', 'establishment', 'light_rail_station', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Durlach', 'short_name': 'Durlach'}, {'types': ['locality', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'Karlsruhe'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['postal_code'], 'long_name': '76227', 'short_name': '76227'}]}, {'formatted_address': 'Südweststadt, 76137 Karlsruhe, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.401862580291501, 'lat': 48.9945140802915}, 'southwest': {'lng': 8.399164619708497, 'lat': 48.9918161197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.4005136, 'lat': 48.9931651}}, 'place_id': 'ChIJb6KYDmwGl0cRj7Yb11xlzdU', 'types': ['establishment', 'point_of_interest', 'transit_station'], 'address_components': [{'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Südweststadt', 'short_name': 'Südweststadt'}, {'types': ['locality', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'Karlsruhe'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['postal_code'], 'long_name': '76137', 'short_name': '76137'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['bus_station', 'establishment', 'light_rail_station', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.0017688, Lng - 8.4625475
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Bahnhof+M%C3%BChlacker+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 542
+INFO:root:=======================================================
+INFO:root:Station Name: b'Bahnhof M\xc3\xbchlacker'
+INFO:root:Google Output: [{'formatted_address': '75417 Mühlacker, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.847308080291503, 'lat': 48.9542339802915}, 'southwest': {'lng': 8.844610119708499, 'lat': 48.9515360197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.8459591, 'lat': 48.95288499999999}}, 'place_id': 'ChIJXauEl_F5l0cREAPVoAy1aFc', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['locality', 'political'], 'long_name': 'Mühlacker', 'short_name': 'Mühlacker'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Enzkreis', 'short_name': 'Enzkreis'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['postal_code'], 'long_name': '75417', 'short_name': '75417'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 48.95288499999999, Lng - 8.8459591
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Achalmstra%C3%9Fe+Holzge+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Achalmstra\xc3\x9fe Holzge'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Enzisweiler+Bahnhofs+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 541
+INFO:root:=======================================================
+INFO:root:Station Name: b'Enzisweiler Bahnhofs'
+INFO:root:Google Output: [{'formatted_address': '88131 Bodolz, Germany', 'geometry': {'viewport': {'northeast': {'lng': 9.666802980291504, 'lat': 47.5656356802915}, 'southwest': {'lng': 9.664105019708499, 'lat': 47.5629377197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 9.665454, 'lat': 47.5642867}}, 'place_id': 'ChIJ04qGpZIOm0cRhW0HlMas16k', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Ebnet', 'short_name': 'Ebnet'}, {'types': ['locality', 'political'], 'long_name': 'Bodolz', 'short_name': 'Bodolz'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Lindau', 'short_name': 'Lindau'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Swabia', 'short_name': 'Swabia'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Bavaria', 'short_name': 'BY'}, {'types': ['postal_code'], 'long_name': '88131', 'short_name': '88131'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 47.5642867, Lng - 9.665454
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Herdstelle+Ehningen+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 562
+INFO:root:=======================================================
+INFO:root:Station Name: b'Herdstelle Ehningen'
+INFO:root:Google Output: [{'place_id': 'ChIJYXPu0y_gmUcRzkelqCQPvu8', 'partial_match': True, 'formatted_address': '71139 Ehningen, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.954145580291502, 'lat': 48.6620937802915}, 'southwest': {'lng': 8.951447619708498, 'lat': 48.6593958197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.9527966, 'lat': 48.6607448}}, 'types': ['bus_station', 'establishment', 'point_of_interest', 'transit_station'], 'address_components': [{'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['locality', 'political'], 'long_name': 'Ehningen', 'short_name': 'Ehningen'}, {'types': ['administrative_area_level_3', 'political'], 'long_name': 'Böblingen', 'short_name': 'BB'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Stuttgart', 'short_name': 'Süd'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['postal_code'], 'long_name': '71139', 'short_name': '71139'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['bus_station', 'establishment', 'point_of_interest', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 48.6607448, Lng - 8.9527966
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Kleinvillars+Bahnhof+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Kleinvillars Bahnhof'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Haueneberstein+Bahnh+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 539
+INFO:root:=======================================================
+INFO:root:Station Name: b'Haueneberstein Bahnh'
+INFO:root:Google Output: [{'formatted_address': '76532 Baden-Baden, Germany', 'geometry': {'viewport': {'northeast': {'lng': 8.192679380291503, 'lat': 48.7915356802915}, 'southwest': {'lng': 8.189981419708499, 'lat': 48.7888377197085}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.1913304, 'lat': 48.7901867}}, 'place_id': 'ChIJX6_OJ8sfl0cRze09tmUXnLE', 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'address_components': [{'types': ['locality', 'political'], 'long_name': 'Baden-Baden', 'short_name': 'Baden-Baden'}, {'types': ['political', 'sublocality', 'sublocality_level_1'], 'long_name': 'Oos', 'short_name': 'Oos'}, {'types': ['administrative_area_level_2', 'political'], 'long_name': 'Karlsruhe', 'short_name': 'KA'}, {'types': ['administrative_area_level_1', 'political'], 'long_name': 'Baden-Württemberg', 'short_name': 'BW'}, {'types': ['country', 'political'], 'long_name': 'Germany', 'short_name': 'DE'}, {'types': ['postal_code'], 'long_name': '76532', 'short_name': '76532'}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 48.7901867, Lng - 8.1913304

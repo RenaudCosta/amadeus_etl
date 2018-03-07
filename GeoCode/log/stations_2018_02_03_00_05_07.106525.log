@@ -1,0 +1,19 @@
+INFO:root:file_name: input.csv
+INFO:root:append_country: True
+INFO:root:append_station: True
+INFO:root:identifier: 2018_02_03_00_05_07.106525
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): maps.googleapis.com
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Berstadt-Bahnhof+W%C3%B6+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 65
+INFO:root:=======================================================
+INFO:root:Station Name: b'Berstadt-Bahnhof W\xc3\xb6'
+INFO:root:Google Output: []
+INFO:root:Station Unresolvable
+DEBUG:urllib3.connectionpool:https://maps.googleapis.com:443 "GET /maps/api/geocode/json?address=Bahnhof+Philippsbur+station&components=country%3AGermany&key=AIzaSyA1KFYBmeoBS1oW8wCvHJVBrdYLu69q7xU HTTP/1.1" 200 553
+INFO:root:=======================================================
+INFO:root:Station Name: b'Bahnhof Philippsbur'
+INFO:root:Google Output: [{'formatted_address': '76661 Philippsburg, Germany', 'place_id': 'ChIJY2OdIjOwl0cRRS0Ul9DYM-8', 'partial_match': True, 'types': ['establishment', 'point_of_interest', 'train_station', 'transit_station'], 'geometry': {'viewport': {'southwest': {'lng': 8.452120919708499, 'lat': 49.23075271970851}, 'northeast': {'lng': 8.454818880291503, 'lat': 49.2334506802915}}, 'location_type': 'GEOMETRIC_CENTER', 'location': {'lng': 8.4534699, 'lat': 49.2321017}}, 'address_components': [{'short_name': 'DE', 'long_name': 'Germany', 'types': ['country', 'political']}, {'short_name': 'Philippsburg', 'long_name': 'Philippsburg', 'types': ['locality', 'political']}, {'short_name': 'Karlsruhe', 'long_name': 'Karlsruhe', 'types': ['administrative_area_level_3', 'political']}, {'short_name': 'KA', 'long_name': 'Karlsruhe', 'types': ['administrative_area_level_2', 'political']}, {'short_name': 'BW', 'long_name': 'Baden-Württemberg', 'types': ['administrative_area_level_1', 'political']}, {'short_name': '76661', 'long_name': '76661', 'types': ['postal_code']}]}]
+DEBUG:root:Station resolved through geocoding API
+DEBUG:root:Accurate location found
+DEBUG:root:Types of  locations: ['establishment', 'point_of_interest', 'train_station', 'transit_station']
+DEBUG:root:Preparing the  line for insert
+DEBUG:root:Geocodes from geocoding API Decimal: Lat - 49.2321017, Lng - 8.4534699

@@ -57,8 +57,6 @@ class check_len_long_name:
         # Store output
         with open(file_output,'w') as output:
             for i in self.list_ama_output:
-                if "pippo" in i:
-                    print(i)
                 output.write(str(i)+"\n")
         print("provider: ",len(self.list_nomi_provider),"\nama output ",len(self.list_ama_output),"\nama :",len(self.list_ama))
 

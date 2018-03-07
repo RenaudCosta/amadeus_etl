@@ -49,6 +49,7 @@ class proces:
         self.dic_eva_all_with_fix = {}
         self.dic_bne_with_fix = {}
         self.dic_nvs_provider = {}
+        self.dic_nvs_provider_by_name = {}
 
         self.new_eva_list_match = []
         self.bne_list_match_to_eva_output = []
@@ -71,6 +72,7 @@ class proces:
         for line in self.list_rail_locatio_nvs:
             try:
                 self.dic_nvs_provider[line[2]] = line[20].strip()   #key UIC , status code
+                self.dic_nvs_provider_by_name [line[4].upper()] = line[5].upper() # key long name , value short name
             except IndexError:
                 messagebox.showwarning("WARNING", "pls check the split columns character for the file {0},"
                                               " is insert the wrog one ".format(str(file_rail_locatio_nvs)))
@@ -116,6 +118,13 @@ class proces:
                 messagebox.showwarning("WARNING", "pls check the split columns character for the file {0},"
                                               " is insert the wrog one ".format(str(file_fix_searchable_nvs)))
                 return
+
+        '''
+        this step remove from the missing file so different uic , the station with different name too
+        '''
+        for index ,line in enumerate(self.new_nvs_list_match_missing):
+            if line[1] not in self.dic_nvs_provider_by_name.keys():
+                self.new_nvs_list_match_missing.remove(line)
 
         #inizialize the second dic with the key = name, valure = code value
         for index, line in enumerate(self.new_eva_list_match):
