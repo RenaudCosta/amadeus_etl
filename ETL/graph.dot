@@ -1,0 +1,61 @@
+Provider: 
+digraph {
+	rankdir=LR
+	BEGIN [shape=point]
+	BEGIN -> 0
+	0 [label=extract_new_file]
+	0 -> 1
+	1 [label=reformat]
+	1 -> 2
+	2 [label=security_check]
+	2 -> 3
+	3 [label=check_new_stations]
+	3 -> 8
+	3 -> 4
+	3 -> 6
+	8 [label=old_station_unchanged]
+	8 -> 9
+	9 [label=update_counter]
+	4 [label=new_station]
+	4 -> 5
+	5 [label=process_mapping]
+	5 -> 10
+	5 -> 18
+	5 -> 12
+	10 [label=no_mapping]
+	10 -> 11
+	11 [label=generate_glc]
+	11 -> 20
+	11 -> 23
+	20 [label=create_ama_location]
+	20 -> 21
+	21 [label=load_ama]
+	21 -> 22
+	22 [label=update_counter]
+	23 [label=reformat_provider]
+	23 -> 24
+	24 [label=update_provider]
+	24 -> 25
+	25 [label=reformat_mapper]
+	25 -> 26
+	26 [label=update_mapper]
+	26 -> 27
+	27 [label=update_counter]
+	18 [label=replacing]
+	18 -> 19
+	19 [label=update_counter]
+	12 [label=mapped]
+	12 -> 13
+	13 [label=reformat_provider]
+	13 -> 14
+	14 [label=update_provider]
+	14 -> 15
+	15 [label=reformat_mapper]
+	15 -> 16
+	16 [label=update_mapper]
+	16 -> 17
+	17 [label=update_counter]
+	6 [label=old_station_updated]
+	6 -> 7
+	7 [label=update_counter]
+}
